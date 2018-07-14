@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetStartWithNavigation="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"></android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_app"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@+id/adsholder">
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dip"
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@drawable/check_speed_left_tab"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/txtViewForPingLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Ping"
+                            android:textColor="@color/white"
+                            android:textSize="18dip"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtViewForPing"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:textSize="16dip" />
+
+                        <ProgressBar
+                            android:id="@+id/progressBarForPing"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@android:color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtViewForDownloadLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/downloadSpeed"
+                            android:textColor="@android:color/black"
+                            android:textSize="18dip"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtViewForDownload"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#00FF00"
+                            android:textSize="16dip"
+                            android:textStyle="bold"
+                            android:visibility="invisible" />
+
+                        <ProgressBar
+                            android:id="@+id/progressBarForDownload"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_weight="1"
+                        android:background="@android:color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/txtViewForUploadLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/UploadSpeed"
+                            android:textColor="@android:color/black"
+                            android:textSize="18dip"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/txtViewForUpload"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#00FF00"
+                            android:textSize="16dip"
+                            android:textStyle="bold"
+                            android:visibility="invisible" />
+
+                        <ProgressBar
+                            android:id="@+id/progressBarForUpload"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- <Button -->
+                <!-- android:id="@+id/btnStart" -->
+                <!-- android:layout_width="fill_parent" -->
+                <!-- android:layout_height="wrap_content" -->
+                <!-- android:layout_alignParentBottom="true" -->
+                <!-- android:layout_centerHorizontal="true" -->
+                <!-- android:background="@color/header6" -->
+                <!-- android:text="@string/pindi_checknow" -->
+                <!-- android:textColor="@color/deep_white" -->
+                <!-- android:textSize="18dip" -->
+                <!-- android:textStyle="bold" /> -->
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayoutForSpeedMeterView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/adsholder"
+                    android:layout_below="@+id/linearLayout1"
+                    android:layout_margin="8dp"
+                    android:background="@android:color/white">
+
+                    <Button
+                        android:id="@+id/btnStart"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/version_check_un" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginRight="5dp">
+
+                        <ImageView
+                            android:id="@+id/showHistory"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginRight="5dp"
+                            android:tint="@android:color/black"
+                            android:src="@drawable/version_history" />
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/adsholder"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:visibility="visible">
+
+                    <LinearLayout
+                        android:id="@+id/adsbanner"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"></LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_AA_FourGThreeGNew_Agst/A_AA_FourGThreeGNew_Agst.iml" filepath="$PROJECT_DIR$/A_AA_FourGThreeGNew_Agst/A_AA_FourGThreeGNew_Agst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppNextEngine/AppNextEngine.iml" filepath="$PROJECT_DIR$/AppNextEngine/AppNextEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mtool_4G_Final.iml" filepath="$PROJECT_DIR$/Mtool_4G_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NextG_3G4G.iml" filepath="$PROJECT_DIR$/NextG_3G4G.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_progress/lib_progress.iml" filepath="$PROJECT_DIR$/lib_progress/lib_progress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

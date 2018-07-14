@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.startapp:inapp-sdk-3.7.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/8a4af9960db2c61a659ac867a9f5c6b8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/8a4af9960db2c61a659ac867a9f5c6b8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/3.7.1/cec4c255af7903afe6779f2bcac16c50161778e0/inapp-sdk-3.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/removeAds"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="UPGRADE TO PREMIUM"
+        android:visible="false"></item>
+
+
+    <item
+        android:id="@+id/setting"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="SETTINGS"></item>
+
+
+    <item
+        android:id="@+id/moreapp_menu"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_moreapp" />
+    <item
+        android:id="@+id/rate_menu"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_rateus" />
+    <item
+        android:id="@+id/share_menu"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_share"></item>
+    <item
+        android:id="@+id/feedback_menu"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_feedback"></item>
+    <item
+        android:id="@+id/privacy"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="ABOUT US"></item>
+
+    <item
+        android:id="@+id/exit_menu"
+        android:orderInCategory="40"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_exit_app"
+        android:visible="false"></item>
+
+
+</menu>

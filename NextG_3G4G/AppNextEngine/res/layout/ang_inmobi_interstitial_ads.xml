@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:mContext="com.inmobi.interstitial.sample.InterstitialAdsActivity">
+
+    <Button
+        android:id="@+id/button_prefetch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pre"
+        android:layout_marginTop="94dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="load"
+        android:id="@+id/button_load_ad"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/button_prefetch"
+        android:layout_marginTop="96dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show"
+        android:layout_below="@id/button_load_ad"
+        android:id="@+id/button_show_ad"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:visibility="visible"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="anim"
+        android:layout_below="@id/button_show_ad"
+        android:id="@+id/button_show_ad_with_animation"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:visibility="gone"/>
+</RelativeLayout>

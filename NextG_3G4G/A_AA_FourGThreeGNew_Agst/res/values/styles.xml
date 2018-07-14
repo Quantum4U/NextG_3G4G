@@ -1,0 +1,199 @@
+<!--
+  The MIT License (MIT)
+  
+  Copyright (c) 2013 Triggertrap Ltd
+  Author Neil Davies
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy of
+  this software and associated documentation files (the "Software"), to deal in
+  the Software without restriction, including without limitation the rights to
+  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  the Software, and to permit persons to whom the Software is furnished to do so,
+  subject to the following conditions:
+  
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <!--
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+       
+    </style>
+
+    Application theme.
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        All customizations that are NOT specific to a particular API-level can go here.
+        <item name="seekArcStyle">@style/SeekArcLight</item>
+        <item name="seekArcStyle">@style/SeekArc</item>
+    </style>
+    -->
+
+    <style name="Theme.AppCompat.Translucent">
+        <item name="android:background">#33000000</item> <!-- Or any color you need -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="Theme.AppCompat">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorForeground">#fff</item>
+    </style>
+
+    <style name="mytransparent.windowNoTitle" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <style name="mytransparent.windowTitle" parent="android:Theme.Holo.Light">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <style name="AppTheme_NEW" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/White_Snow</item>
+        <item name="colorPrimaryDark">@color/White_Snow</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+
+        <item name="colorPrimary">@color/blue_bg</item>
+
+        <item name="colorPrimaryDark">@color/font_color</item>
+
+        <item name="colorAccent">@color/newblack</item>
+
+    </style>
+
+
+    <style name="custom" parent="@android:style/Theme.Holo.NoActionBar">
+
+        <item name="android:windowBackground">@android:color/black</item>
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar.Transparent">
+
+        <item name="android:windowIsTranslucent">true</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+
+        <item name="android:backgroundDimEnabled">false</item>
+
+    </style>
+
+    <style name="Dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:background">#30FFFFFF</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColor">@color/primary_color</item>
+    </style>
+
+    <style name="CallerTheme" parent="@android:style/Theme.Dialog">
+
+        <item name="android:windowFrame">@null</item>
+
+        <item name="android:windowIsFloating">true</item>
+
+        <item name="android:windowContentOverlay">@null</item>
+
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Transparent1" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/trasp_caller</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme3G" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme3GNEW" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="SweetDialog" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Please wait for a moment..</item>
+        <item name="DialogSpotColor">@android:color/holo_orange_dark</item>
+        <item name="DialogSpotCount">4</item>
+    </style>
+
+    <style name="ToolBarStyle_" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    </style>
+</resources>

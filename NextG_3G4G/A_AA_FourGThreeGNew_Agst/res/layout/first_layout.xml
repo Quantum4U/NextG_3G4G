@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_shadow"
+        android:orientation="vertical"
+        android:padding="2dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/deep_white"
+            android:orientation="vertical" >
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_bg"
+                android:gravity="center_vertical|left"
+                android:onClick="changeLang"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/changelang"
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="@dimen/menu_margin_left"
+                    android:layout_marginRight="@dimen/menu_margin_left"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/pindi_CHANGELANGUAGE"
+                    android:textAllCaps="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/ps_pop_txt" />
+            </LinearLayout>
+            
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_bg"
+                android:gravity="center_vertical|left"
+                android:onClick="sharemore"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/gallery_media_type"
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="@dimen/menu_margin_left"
+                    android:layout_marginRight="@dimen/menu_margin_left"
+                    android:layout_marginTop="10dp"
+                  android:text="@string/pindi_MOREAPP"
+                    android:textAllCaps="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/ps_pop_txt" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/gallery_view_ll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_gift_box"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_bg"
+                android:gravity="center_vertical|left"
+                android:onClick="likeapp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="@dimen/menu_margin_left"
+                    android:layout_marginRight="@dimen/menu_margin_left"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal"
+                    android:textAllCaps="true" >
+
+                    <TextView
+                       
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                      android:text="@string/pindi_RATEAPP"
+                        android:textAllCaps="true"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/ps_pop_txt" />
+
+                 
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_remove_add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/menu_bg"
+                    android:gravity="center_vertical|left"
+                    android:onClick="shareapp"
+                    android:orientation="vertical" >
+
+                    <TextView
+                       
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="@dimen/menu_margin_left"
+                        android:layout_marginRight="@dimen/menu_margin_left"
+                     android:layout_marginTop="10dp"
+                      android:text="@string/pindi_SHAREAPP"
+                        android:textAllCaps="true"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/ps_pop_txt" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_update"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="sharefeedback"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                   
+                    android:layout_marginLeft="@dimen/menu_margin_left"
+                    android:layout_marginRight="2dp"
+                   android:layout_marginTop="5dp"
+                   android:text="@string/pindi_FEEDBACK"
+                    android:textAllCaps="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/ps_pop_txt" />
+                
+                
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/version_ic_icon"
+                    android:visibility="gone" />
+            </LinearLayout>
+            
+            
+              <LinearLayout
+                android:id="@+id/exitapp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="exitapp"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+
+                <TextView
+                   
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/menu_margin_left"
+                    android:layout_marginLeft="@dimen/menu_margin_left"
+                    android:layout_marginRight="2dp"
+                   android:layout_marginTop="10dp"
+                   android:text="Exit App"
+                    android:textAllCaps="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/ps_pop_txt" />
+                
+                
+   <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginBottom="10dp"
+                    android:src="@drawable/version_ic_icon"
+                    android:visibility="gone" />
+             
+            </LinearLayout>
+            
+            
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

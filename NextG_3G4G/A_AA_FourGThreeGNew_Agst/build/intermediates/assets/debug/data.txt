@@ -1,0 +1,2068 @@
+
+
+
+
+
+72,000,009,TTSL(GSM),Tamilnadu incl. Chennai,10
+72,040,049,TTSL(GSM),Karnataka,10
+72,050,059,TTSL(GSM),Orissa,10
+72,060,069,TTSL(GSM),Haryana,10
+72,070,079,TTSL(GSM),Andhra Pradesh,10
+72,080,089,TTML(GSM),Mumbai,10
+72,090,099,TTSL(GSM),Bihar,10
+72,500,509,Bharti Airtel Limited,Bihar,10
+72,590,599,Bharti Airtel Limited,Karnataka,10
+72,750,759,TTSL(GSM),Uttar Pradesh(E),10
+72,760,769,TTML(GSM),Maharashtra,10
+72,770,779,Dishnet Wireless Ltd.,Bihar,10
+72,780,789,Dishnet Wireless Ltd.,Kolkata,10
+72,930,939,Dishnet Wireless Ltd.,Kerala,10
+72,980,989,Dishnet Wireless Ltd.,J & K,10
+72,990,999,Aircel Cellular Limited,Chennai,10
+73,010,019,S Tel Pvt. Ltd.,Bihar,10
+73,020,029,Loop Mobile (India) Ltd.,Mumbai,10
+73,030,039,Reliance Communcation Ltd.(GSM),Mumbai,10
+73,040,049,Reliance Communcation Ltd.(GSM),Maharashtra,10
+73,050,059,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+73,060,069,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+73,070,079,Reliance Communcation Ltd.(GSM),Punjab,10
+73,080,089,Reliance Telecommunication Ltd.(GSM),North East India,10
+73,090,099,Idea Cellular Ltd.,Uttar Pradesh(E),10
+73,500,509,Idea Cellular Ltd.,Maharashtra,10
+73,510,519,Idea Cellular Ltd.,Uttar Pradesh(W),10
+73,520,529,Aditya Birla Telecom Ltd.,Bihar,10
+73,530,539,Spice Communications Ltd.,Karnataka,10
+73,540,549,Idea Cellular Ltd.,Madhya Pradesh,10
+73,550,559,Quadrant televentures Ltd,Punjab,10
+73,560,569,Videocon Telecommunications Ltd.,Kerala,10
+73,570,579,Videocon Telecommunications Ltd.,Haryana,10
+73,580,589,Videocon Telecommunications Ltd.,Tamilnadu incl. Chennai,10
+73,590,599,Idea Cellular Ltd.,Gujarat,10
+73,730,739,Aircel Ltd.,Tamilnadu,10
+73,760,769,BSNL,Uttar Pradesh(E),10
+73,770,779,Idea Cellular Ltd.,Orissa,10
+73,790,799,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+73,800,809,BSNL,Punjab,10
+73,810,819,Vodafone Essar Spacetel Ltd.,Orissa,10
+73,820,829,BSNL,Andhra Pradesh,10
+73,830,839,Unitech Wireless (West) Pvt. Ltd.,Gujarat,10
+73,840,849,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+73,850,859,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,10
+73,860,869,Unitech Wireless (South) Pvt. Ltd.,Andhra Pradesh,10
+73,870,879,Bharti Airtel Limited,Maharashtra,10
+73,880,889,Bharti Airtel Limited,Uttar Pradesh(E),10
+73,890,899,Bharti Airtel Limited,Madhya Pradesh,10
+73,960,969,Unitech Wireless (South) Pvt. Ltd.,Andhra Pradesh,10
+73,980,989,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+73,990,999,Dishnet Wireless Ltd.,Assam,10
+74,010,019,Aircel Cellular Limited,Chennai,10
+74,020,029,Aircel Ltd.,Tamilnadu,10
+74,030,039,Dishnet Wireless Ltd.,Kerala,10
+74,040,049,TTSL(GSM),Haryana,10
+74,050,059,TTSL(GSM),Gujarat,10
+74,060,069,Vodafone Essar South Ltd.,Karnataka,10
+74,070,079,Vodafone Essar South Ltd.,West Bengal,10
+74,080,089,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+74,090,099,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+74,110,119,TTSL(GSM),Karnataka,10
+74,150,159,TTSL(GSM),Madhya Pradesh,10
+74,160,169,TTSL(GSM),Andhra Pradesh,10
+74,170,179,TTSL(GSM),Uttar Pradesh(W),10
+74,180,189,TTSL(GSM),Tamilnadu incl. Chennai,10
+74,190,199,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+74,280,289,Reliance Communcation Ltd.(CDMA),Delhi,10
+74,290,299,Reliance Communcation Ltd.(CDMA),Kerala,10
+74,390,399,Reliance Communcation Ltd.(CDMA),West Bengal,10
+74,830,839,Reliance Communcation Ltd.(CDMA),Karnataka,10
+74,880,889,Reliance Communcation Ltd.(CDMA),Bihar,10
+74,890,899,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+74,980,989,Reliance Communcation Ltd.(CDMA),Mumbai,10
+74,990,999,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+75,000,009,Idea Cellular Ltd.,Uttar Pradesh(W),10
+75,010,019,TTSL(GSM),West Bengal,10
+75,020,029,Aircel Ltd.,Tamilnadu,10
+75,030,039,Aircel Ltd.,Delhi,10
+75,040,049,Dishnet Wireless Ltd.,Orissa,10
+75,050,059,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+75,060,069,Vodafone Essar Ltd.,Mumbai,10
+75,070,079,Vodafone Essar Cellular Ltd.,Maharashtra,10
+75,080,089,Vodafone Essar South Ltd.,Punjab,10
+75,090,099,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,10
+75,200,209,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+75,490,499,Vodafone Essar Spacetel Ltd.,Bihar,10
+75,660,669,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,10
+75,670,679,Vodafone Essar Gujarat Ltd.,Gujarat,10
+75,680,689,Bharti Hexacom Ltd.,Rajasthan,10
+75,690,699,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+75,790,799,BSNL,Uttar Pradesh(W),10
+75,870,879,BSNL,Madhya Pradesh,10
+75,880,889,BSNL,Maharashtra,10
+75,890,899,BSNL,Punjab,10
+75,970,979,BSNL,Rajasthan,10
+75,980,989,BSNL,Tamilnadu incl. Chennai,10
+75,990,999,BSNL,Uttar Pradesh(W),10
+76,000,009,Bharti Airtel Limited,Gujarat,10
+76,020,029,Bharti Airtel Limited,West Bengal,10
+76,070,079,Bharti Airtel Limited,Uttar Pradesh(E),10
+76,200,209,Reliance Communcation Ltd.(GSM),Maharashtra,10
+76,310,319,Vodafone Essar Spacetel Ltd.,Bihar,10
+76,390,399,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+76,540,549,Aditya Birla Telecom Ltd.,Bihar,10
+76,650,659,Vodafone Essar Digilink Ltd.,Rajasthan,10
+76,660,669,Reliance Communcation Ltd.(GSM),Mumbai,10
+76,670,679,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+76,680,689,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+76,690,699,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+76,760,769,Reliance Communcation Ltd.(GSM),Karnataka,10
+76,770,779,Reliance Telecommunication Ltd.(GSM),Bihar,10
+76,790,799,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+76,960,969,TTSL(GSM),Punjab,10
+76,970,979,Idea Cellular Ltd.,Madhya Pradesh,10
+76,980,989,Idea Cellular Ltd.,Gujarat,10
+76,990,999,Idea Cellular Ltd.,West Bengal,10
+77,020,029,Bharti Airtel Limited,Andhra Pradesh,10
+77,080,089,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+77,090,099,Bharti Airtel Limited,Maharashtra,10
+77,350,359,Reliance Telecommunication Ltd.(GSM),Orissa,10
+77,360,369,TTSL(GSM),Kerala,10
+77,370,379,TTSL(GSM),Rajasthan,10
+77,380,389,Bharti Airtel Limited,Mumbai,10
+77,390,399,Bharti Airtel Limited,Bihar,10
+77,420,429,Bharti Hexacom Ltd.,Rajasthan,10
+77,600,609,Bharti Airtel Limited,Karnataka,10
+77,950,959,TTSL(GSM),Karnataka,10
+77,960,969,TTSL(GSM),Delhi,10
+77,970,979,Vodafone Essar South Ltd.,West Bengal,10
+77,980,989,Vodafone Essar Cellular Ltd.,Maharashtra,10
+77,990,999,Vodafone Essar South Ltd.,Andhra Pradesh,10
+78,000,009,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+78,070,079,S Tel Pvt. Ltd.,Himachal Pradesh,10
+78,080,089,S Tel Pvt. Ltd.,Bihar,10
+78,090,099,S Tel Pvt. Ltd.,Orissa,10
+78,140,149,Reliance Communcation Ltd.(GSM),Punjab,10
+78,270,279,Reliance Communcation Ltd.(GSM),Delhi,10
+78,280,289,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+78,290,299,Vodafone Essar South Ltd.,Karnataka,10
+78,300,309,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+78,370,379,Vodafone Essar South Ltd.,Punjab,10
+78,380,389,Vodafone Essar Mobile Services Ltd.,Delhi,10
+78,390,399,BSNL,Uttar Pradesh(E),10
+78,420,429,TTSL(GSM),Andhra Pradesh,10
+78,450,459,TTSL(GSM),Tamilnadu incl. Chennai,10
+78,600,609,Idea Cellular Ltd.,Uttar Pradesh(E),10
+78,690,699,Bharti Airtel Limited,Madhya Pradesh,10
+78,700,709,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+78,710,719,Unitech Wireless (Tamilnadu) Pvt. Ltd.,Tamilnadu incl. Chennai,10
+78,720,729,Vodafone Essar South Ltd.,West Bengal,10
+78,730,739,Vodafone Essar Spacetel Ltd.,Orissa,10
+78,740,749,Vodafone Essar Gujarat Ltd.,Gujarat,10
+78,750,759,Vodafone Essar Cellular Ltd.,Maharashtra,10
+78,760,769,Reliance Communcation Ltd.(GSM),Haryana,10
+78,770,779,Reliance Communcation Ltd.(GSM),Rajasthan,10
+78,780,789,Reliance Communcation Ltd.(GSM),Gujarat,10
+78,790,799,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+78,900,909,Idea Cellular Ltd.,Kolkata,10
+78,910,919,Idea Cellular Ltd.,Rajasthan,10
+78,930,939,Bharti Airtel Limited,Andhra Pradesh,10
+78,940,949,Bharti Airtel Limited,Orissa,10
+78,950,959,Bharti Airtel Limited,Uttar Pradesh(W),10
+78,960,969,Bharti Airtel Limited,Assam,10
+78,970,979,Bharti Airtel Limited,Uttar Pradesh(E),10
+78,980,989,Bharti Airtel Limited,Madhya Pradesh,10
+78,990,999,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+80,000,009,Reliance Communcation Ltd.(GSM),Gujarat,10
+80,010,019,Vodafone Essar South Ltd.,West Bengal,10
+80,020,029,Bharti Airtel Limited,Bihar,10
+80,030,039,Bharti Hexacom Ltd.,Rajasthan,10
+80,040,049,BSNL,Uttar Pradesh(E),10
+80,050,054,BSNL,Uttar Pradesh(E),5
+80,060,069,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+80,070,079,Vodafone Essar Cellular Ltd.,Maharashtra,10
+80,080,089,Bharti Airtel Limited,Andhra Pradesh,10
+80,090,099,Bharti Airtel Limited,Uttar Pradesh(E),10
+80,100,109,Reliance Communcation Ltd.(GSM),Delhi,10
+80,110,119,Bharti Airtel Limited,Assam,10
+80,120,129,Aircel Ltd.,Tamilnadu,10
+80,130,139,Dishnet Wireless Ltd.,Kolkata,10
+80,140,149,Dishnet Wireless Ltd.,North East India,10
+80,150,159,TTSL(GSM),Tamilnadu incl. Chennai,10
+80,160,169,Bharti Airtel Limited,West Bengal,10
+80,170,179,Vodafone Essar East Ltd.,Kolkata,10
+80,180,189,Bharti Airtel Limited,Orissa,10
+80,190,199,TTSL(GSM),Andhra Pradesh,10
+80,500,509,TTSL(GSM),Karnataka,10
+80,510,519,Vodafone Essar Spacetel Ltd.,Bihar,10
+80,520,529,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+80,530,539,Vodafone Essar Digilink Ltd.,Haryana,10
+80,540,549,Vodafone Essar South Ltd.,Punjab,10
+80,550,559,Reliance Communcation Ltd.(GSM),Maharashtra,10
+80,560,569,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+80,570,579,Idea Cellular Ltd.,Uttar Pradesh(W),10
+80,580,589,Idea Cellular Ltd.,Rajasthan,10
+80,590,599,Idea Cellular Ltd.,Haryana,10
+80,800,809,Reliance Communcation Ltd.(GSM),Mumbai,10
+80,810,819,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+80,820,829,Loop Mobile (India) Ltd.,Mumbai,10
+80,830,839,Dishnet Wireless Ltd.,Bihar,10
+80,840,849,Bharti Airtel Limited,Bihar,10
+80,850,859,Bharti Airtel Limited,Madhya Pradesh,10
+80,860,869,Vodafone Essar Cellular Ltd.,Kerala,10
+80,870,879,TTML(GSM),Maharashtra,10
+80,880,889,Reliance Communcation Ltd.(GSM),Karnataka,10
+80,890,899,TTSL(GSM),Kerala,10
+80,900,909,TTSL(GSM),Uttar Pradesh(E),10
+80,910,919,TTSL(GSM),Himachal Pradesh,10
+80,920,929,TTSL(GSM),Bihar,10
+80,930,939,TTSL(GSM),Orissa,10
+80,940,949,Vodafone Essar Digilink Ltd.,Rajasthan,10
+80,950,959,Vodafone Essar South Ltd.,Karnataka,10
+80,960,969,Idea Cellular Ltd.,Andhra Pradesh,10
+80,970,979,TTML(GSM),Mumbai,10
+80,980,989,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+80,990,999,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+81,000,009,Reliance Telecommunication Ltd.(GSM),Kolkata,10
+81,010,019,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+81,020,029,Reliance Telecommunication Ltd.(GSM),Bihar,10
+81,030,039,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+81,040,049,Sistema Shyam TeleServices Ltd.(CDMA),Rajasthan,10
+81,050,059,Bharti Airtel Limited,Karnataka,10
+81,060,069,Bharti Airtel Limited,Andhra Pradesh,10
+81,070,079,Bharti Hexacom Ltd.,Rajasthan,10
+81,080,089,Idea Cellular Ltd.,Mumbai,10
+81,090,099,TTSL(GSM),Madhya Pradesh,10
+81,150,159,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+81,160,169,Bharti Airtel Limited,West Bengal,10
+81,200,209,Idea Cellular Ltd.,Madhya Pradesh,10
+81,210,219,TTSL(GSM),Andhra Pradesh,10
+81,220,229,TTSL(GSM),Tamilnadu incl. Chennai,10
+81,230,239,TTSL(GSM),Karnataka,10
+81,240,249,Idea Cellular Ltd.,Tamilnadu incl. Chennai,10
+81,250,259,TTSL(GSM),Andhra Pradesh,10
+81,260,269,Bharti Airtel Limited,Uttar Pradesh(W),10
+81,270,279,Bharti Airtel Limited,Uttar Pradesh(E),10
+81,280,289,Bharti Airtel Limited,Gujarat,10
+81,290,299,Bharti Airtel Limited,Kerala,10
+81,300,309,Bharti Airtel Limited,Delhi,10
+81,400,409,Idea Cellular Ltd.,Gujarat,10
+81,410,419,Vodafone Essar Gujarat Ltd.,Gujarat,10
+81,420,429,Vodafone Essar south Ltd.,Andhra Pradesh,10
+81,430,439,TTSL(GSM),Andhra Pradesh,10
+81,440,449,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+81,450,459,Vodafone Essar South Ltd.,West Bengal,10
+81,460,469,Bharti Airtel Limited,Punjab,10
+81,470,479,TTSL(GSM),Karnataka,10
+81,480,489,TTSL(GSM),Tamilnadu incl. Chennai,10
+81,490,499,TTML(GSM),Maharashtra,10
+81,710,719,Bharti Airtel Limited,Uttar Pradesh(W),10
+81,790,799,Bharti Airtel Limited,Andhra Pradesh,10
+81,970,979,Bharti Airtel Limited,Karnataka,10
+82,200,209,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+82,330,339,TTSL(GSM),Rajasthan,10
+82,350,359,TTSL(GSM),Bihar,10
+82,370,379,TTML(GSM),Maharashtra,10
+82,380,389,Vodafone Essar Gujarat Ltd.,Gujarat,10
+82,390,399,Vodafone Essar Digilink Ltd.,Rajasthan,10
+82,520,529,Reliance Telecommunication Ltd.(GSM),Bihar,10
+82,600,609,Reliance Telecommunication Ltd.(GSM),Orissa,10
+82,640,649,Videocon Telecommunications Ltd.,Gujarat,10
+82,680,689,Videocon Telecommunications Ltd.,Mumbai,10
+82,690,699,Videocon Telecommunications Ltd.,Madhya Pradesh,10
+82,700,709,Unitech Wireless (East) Pvt. Ltd.,Orissa,10
+82,710,719,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+82,730,739,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+82,750,759,BSNL,Maharashtra,10
+82,770,779,BSNL,Karnataka,10
+82,780,789,BSNL,Haryana,10
+82,790,799,BSNL,Rajasthan,10
+82,800,809,BSNL,Orissa,10
+82,810,819,BSNL,Kerala,10
+82,850,859,Aircel Ltd.,Delhi,10
+82,860,869,Aircel Ltd.,Mumbai,10
+82,870,879,Reliance Communcation Ltd.(GSM),Delhi,10
+82,900,909,Bharti Hexacom Ltd.,Rajasthan,10
+82,910,919,Unitech Wireless (Mumbai) Pvt. Ltd.,Mumbai,10
+82,920,929,Bharti Airtel Limited,Bihar,10
+82,930,939,TTSL(GSM),West Bengal,10
+82,940,949,Bharti Airtel Limited,Bihar,10
+82,950,959,Bharti Airtel Limited,Haryana,10
+82,960,969,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,10
+82,970,979,Vodafone Essar South Ltd.,Andhra Pradesh,10
+82,980,989,Vodafone Essar Spacetel Ltd.,Bihar,10
+83,000,009,BSNL,Tamilnadu incl. Chennai,10
+83,020,029,Reliance Communcation Ltd.(GSM),Rajasthan,10
+83,030,039,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+83,050,059,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+83,060,069,Reliance Communcation Ltd.(GSM),Gujarat,10
+83,070,079,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+83,080,089,Idea Cellular Ltd.,Maharashtra,10
+83,410,419,Unitech wireless (South) Pvt. Ltd.,Andhra Pradesh,10
+83,440,449,Aircel Ltd.,Tamilnadu,10
+83,470,479,Idea Cellular Ltd.,Gujarat,10
+83,480,489,Vodafone Essar South Ltd.,West Bengal,10
+83,490,499,Bharti Airtel Limited,Madhya Pradesh,10
+83,740,749,Bharti Airtel Limited,Andhra Pradesh,10
+83,900,909,Vodafone Essar Cellular Ltd.,Maharashtra,10
+84,000,009,Bharti Airtel Limited,Uttar Pradesh(E),10
+84,010,019,Unitech wireless (West) Pvt. Ltd.,Gujarat,10
+84,090,099,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+84,100,109,Dishnet Wireless Ltd.,Uttar Pradesh(W),10
+84,200,209,Bharti Airtel Limited,Kolkata,10
+84,210,219,Unitech wireless (West) Pvt. Ltd.,Maharashtra,10
+84,230,239,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+84,270,279,Bharti Airtel Limited,Punjab,10
+84,280,289,Videocon Telecommunications Ltd.,Tamilnadu incl. Chennai,10
+84,290,299,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+84,300,309,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+84,310,319,Reliance Communcation Ltd.(GSM),Karnataka,10
+84,320,329,Sistema Shyam TeleServices Ltd.(CDMA),Rajasthan,10
+84,330,339,Sistema Shyam TeleServices Ltd.(CDMA),Mumbai,10
+84,340,349,Sistema Shyam TeleServices Ltd.(CDMA),Bihar,10
+84,350,359,Idea Cellular Ltd.,Madhya Pradesh,10
+84,360,369,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+84,370,379,Spice Communications Ltd.,Punjab,10
+84,380,389,TTSL(GSM),Tamilnadu incl. Chennai,10
+84,390,399,TTSL(GSM),Uttar Pradesh(W),10
+84,450,459,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+84,460,469,TTML(GSM),Maharashtra,10
+84,470,479,Vodafone Essar Mobile Services Ltd.,Delhi,10
+84,480,489,Reliance Communcation Ltd.(CDMA),Mumbai,10
+84,490,499,Idea Cellular Ltd.,Uttar Pradesh(W),10
+84,530,539,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,10
+84,590,599,Sistema Shyam TeleServices Ltd.(CDMA),Delhi,10
+84,600,609,TTSL(GSM),Gujarat,10
+84,690,699,Vodafone Essar Gujarat Ltd.,Gujarat,10
+84,800,809,BSNL,Uttar Pradesh(E),10
+84,860,869,Vodafone Essar Spacetel Ltd.,Assam,10
+84,890,899,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+85,000,009,BSNL,Andhra Pradesh,10
+85,070,079,Dishnet Wireless Ltd.,Bihar,10
+85,080,089,Aircel Ltd.,Tamilnadu,10
+85,090,099,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+85,110,119,Bharti Airtel Limited,Gujarat,10
+85,210,219,Bharti Airtel Limited,Bihar,10
+85,260,269,Aircel Ltd.,Tamilnadu,10
+85,270,279,Bharti Airtel Limited,Delhi,10
+85,280,289,Quadrant televentures Ltd,Punjab,10
+85,290,299,Videocon Telecommunications Ltd.,Haryana,10
+85,300,309,Videocon Telecommunications Ltd.,Gujarat,10
+85,320,320,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,328,328,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,329,329,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,330,330,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,338,338,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,339,339,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,340,340,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,348,348,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,349,349,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,350,350,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+85,358,358,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,359,359,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,360,360,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,368,368,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,369,369,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,370,370,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,378,378,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,379,379,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,380,380,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,388,388,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+85,389,389,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,390,390,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,398,398,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,399,399,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,400,400,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,408,408,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,409,409,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,410,410,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,418,418,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,419,419,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+85,420,420,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,428,428,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,429,429,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,430,430,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,438,438,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,439,439,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,440,449,BSNL,Bihar,10
+85,450,450,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,458,458,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,459,459,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,460,460,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+85,468,468,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,469,469,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,470,479,BSNL,Kerala,10
+85,480,480,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,488,488,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,489,489,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,490,490,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,498,498,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,499,499,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,500,500,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,508,508,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+85,509,509,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,510,510,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,518,518,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,519,519,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,520,520,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,528,528,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,529,529,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,530,539,Aircel Ltd.,Karnataka,10
+85,540,540,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,548,548,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,549,549,Vodafone Essar Cellular Ltd.,Maharashtra,10
+85,560,560,Vodafone Essar South Ltd.,Punjab,10
+85,568,568,Vodafone Essar South Ltd.,Punjab,10
+85,569,569,Vodafone Essar South Ltd.,Punjab,10
+85,570,570,Vodafone Essar South Ltd.,Punjab,10
+85,578,578,Vodafone Essar South Ltd.,Punjab,10
+85,579,579,Vodafone Essar South Ltd.,Punjab,10
+85,580,580,Vodafone Essar South Ltd.,Punjab,10
+85,588,588,Vodafone Essar South Ltd.,Punjab,10
+85,589,589,Vodafone Essar South Ltd.,Punjab,10
+85,590,590,Vodafone Essar South Ltd.,Punjab,10
+85,598,598,Aircel Ltd.,Rajasthan,1
+85,599,599,Aircel Ltd.,Rajasthan,1
+85,600,600,Aircel Ltd.,Rajasthan,1
+85,608,608,Aircel Ltd.,Rajasthan,1
+85,609,609,Aircel Ltd.,Rajasthan,1
+85,610,610,Aircel Ltd.,Rajasthan,1
+85,618,618,Aircel Ltd.,Rajasthan,1
+85,619,619,Aircel Ltd.,Rajasthan,1
+85,620,620,Aircel Ltd.,Rajasthan,1
+85,628,628,Aircel Ltd.,Rajasthan,1
+85,629,629,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,630,630,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,638,638,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,639,639,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,640,640,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,648,648,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,649,649,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,650,650,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,658,658,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,659,659,Dishnet Wireless Ltd.,Uttar Pradesh(E),1
+85,660,660,Dishnet Wireless Ltd.,Punjab,1
+85,668,668,Dishnet Wireless Ltd.,Punjab,1
+85,669,669,Dishnet Wireless Ltd.,Punjab,1
+85,670,670,Dishnet Wireless Ltd.,Punjab,1
+85,678,678,Dishnet Wireless Ltd.,Punjab,1
+85,679,679,Dishnet Wireless Ltd.,Punjab,1
+85,680,680,Dishnet Wireless Ltd.,Punjab,1
+85,688,688,Dishnet Wireless Ltd.,Punjab,1
+85,689,689,Dishnet Wireless Ltd.,Punjab,1
+85,690,690,Dishnet Wireless Ltd.,Punjab,1
+85,698,698,Bharti Airtel Limited,Haryana,1
+85,699,699,Bharti Airtel Limited,Haryana,1
+85,700,700,Bharti Airtel Limited,Haryana,1
+85,708,708,Bharti Airtel Limited,Haryana,1
+85,709,709,Bharti Airtel Limited,Haryana,1
+85,710,710,Bharti Airtel Limited,Haryana,1
+85,718,718,Bharti Airtel Limited,Haryana,1
+85,719,719,Bharti Airtel Limited,Haryana,1
+85,720,720,Bharti Airtel Limited,Haryana,1
+85,728,728,Bharti Airtel Limited,Haryana,1
+85,729,729,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,730,730,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,738,738,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,739,739,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,740,749,Dishnet Wireless Ltd.,Uttar Pradesh(E),10
+85,750,759,Dishnet Wireless Ltd.,North East India,10
+85,760,760,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,768,768,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,769,769,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,770,770,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,778,778,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,779,779,Idea Cellular Ltd.,Uttar Pradesh(E),1
+85,780,780,Aditya Birla Telecom Ltd.,Bihar,1
+85,788,788,Aditya Birla Telecom Ltd.,Bihar,1
+85,789,789,Aditya Birla Telecom Ltd.,Bihar,1
+85,790,790,Aditya Birla Telecom Ltd.,Bihar,1
+85,798,798,Aditya Birla Telecom Ltd.,Bihar,1
+85,799,799,Aditya Birla Telecom Ltd.,Bihar,1
+85,800,809,BSNL,Bihar,10
+85,810,810,Aditya Birla Telecom Ltd.,Bihar,1
+85,818,818,Aditya Birla Telecom Ltd.,Bihar,1
+85,819,819,Aditya Birla Telecom Ltd.,Bihar,1
+85,820,820,Aditya Birla Telecom Ltd.,Bihar,1
+85,828,828,Bharti Airtel Limited,Kolkata,1
+85,829,829,Bharti Airtel Limited,Kolkata,1
+85,830,830,Bharti Airtel Limited,Kolkata,1
+85,838,838,Bharti Airtel Limited,Kolkata,1
+85,839,839,Bharti Airtel Limited,Kolkata,1
+85,840,840,Bharti Airtel Limited,Kolkata,1
+85,848,848,Bharti Airtel Limited,Kolkata,1
+85,849,849,Bharti Airtel Limited,Kolkata,1
+85,850,850,Bharti Airtel Limited,Kolkata,1
+85,858,858,Bharti Airtel Limited,Kolkata,1
+85,859,859,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,860,860,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,868,868,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,869,869,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,870,870,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,878,878,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,879,879,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,880,880,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,888,888,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,889,889,Vodafone Essar Mobile Services Ltd.,Delhi,1
+85,890,890,Vodafone Essar Cellular Ltd.,Kerala,1
+85,898,898,Vodafone Essar Cellular Ltd.,Kerala,1
+85,899,899,Vodafone Essar Cellular Ltd.,Kerala,1
+85,900,909,Reliance Communcation Ltd.(GSM),Kerala,10
+85,910,919,Reliance Communcation Ltd.(GSM),Punjab,10
+85,920,920,Vodafone Essar Cellular Ltd.,Kerala,1
+85,928,928,Vodafone Essar Cellular Ltd.,Kerala,1
+85,929,929,Vodafone Essar Cellular Ltd.,Kerala,1
+85,930,930,Vodafone Essar Cellular Ltd.,Kerala,1
+85,938,938,Vodafone Essar Cellular Ltd.,Kerala,1
+85,939,939,Vodafone Essar Cellular Ltd.,Kerala,1
+85,940,940,Vodafone Essar Cellular Ltd.,Kerala,1
+85,948,948,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,949,949,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,950,959,Reliance Communcation Ltd.(CDMA),Delhi,10
+85,960,960,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,968,968,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,969,969,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,970,979,Reliance Communcation Ltd.(CDMA),Bihar,10
+85,980,980,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,988,988,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,989,989,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,990,990,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,998,998,Vodafone Essar Spacetel Ltd.,Orissa,1
+85,999,999,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,000,009,Bharti Airtel Limited,Maharashtra,10
+86,010,019,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+86,020,029,TTSL(GSM),Madhya Pradesh,10
+86,030,039,TTSL(GSM),Bihar,10
+86,040,049,TTSL(GSM),Uttar Pradesh(E),10
+86,050,059,Idea Cellular Ltd.,Maharashtra,10
+86,060,069,Idea Cellular Ltd.,Kerala,10
+86,070,079,Idea Cellular Ltd.,Haryana,10
+86,080,089,Idea Cellular Ltd.,Tamilnadu incl. Chennai,10
+86,090,099,Idea Cellular Ltd.,West Bengal,10
+86,200,200,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,208,208,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,209,209,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,210,210,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,218,218,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,219,219,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,220,220,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,228,228,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,229,229,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,1
+86,230,230,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,238,238,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,239,239,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,240,240,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,248,248,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,249,249,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,250,250,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,258,258,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,259,259,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,260,260,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+86,268,268,Bharti Airtel Limited,Himachal Pradesh,1
+86,269,269,Bharti Airtel Limited,Himachal Pradesh,1
+86,270,270,Bharti Airtel Limited,Himachal Pradesh,1
+86,278,278,Bharti Airtel Limited,Himachal Pradesh,1
+86,279,279,Bharti Airtel Limited,Himachal Pradesh,1
+86,280,280,Bharti Airtel Limited,Himachal Pradesh,1
+86,288,288,Bharti Airtel Limited,Himachal Pradesh,1
+86,289,289,Bharti Airtel Limited,Himachal Pradesh,1
+86,290,290,Bharti Airtel Limited,Himachal Pradesh,1
+86,298,298,Bharti Airtel Limited,Himachal Pradesh,1
+86,299,299,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,400,400,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,408,408,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,409,409,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,410,410,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,418,418,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,419,419,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,420,420,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,428,428,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,429,429,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal & AN,1
+86,430,430,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,438,438,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,439,439,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,440,440,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,448,448,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,449,449,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,450,450,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,458,458,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,459,459,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,460,460,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,1
+86,468,468,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,469,469,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,470,470,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,478,478,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,479,479,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,480,480,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,488,488,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,489,489,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,490,490,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,498,498,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,1
+86,499,499,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,500,509,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+86,510,519,Aditya Birla Telecom Ltd.,Bihar,10
+86,520,529,Idea Cellular Ltd.,Mumbai,10
+86,530,539,TTSL(GSM),West Bengal,10
+86,540,540,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,548,548,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,549,549,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,550,559,TTML(GSM),Mumbai,10
+86,560,560,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,568,568,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,569,569,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,570,579,Reliance Communcation Ltd.(GSM),Maharashtra,10
+86,580,589,Bharti Airtel Limited,Orissa,10
+86,590,590,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,598,598,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,599,599,Dishnet Wireless Ltd.,Madhya Pradesh,1
+86,700,709,Bharti Airtel Limited,West Bengal,10
+86,710,710,Aircel Ltd.,Gujarat,1
+86,718,718,Aircel Ltd.,Gujarat,1
+86,719,719,Aircel Ltd.,Gujarat,1
+86,720,720,Aircel Ltd.,Gujarat,1
+86,728,728,Aircel Ltd.,Gujarat,1
+86,729,729,Aircel Ltd.,Gujarat,1
+86,730,730,Aircel Ltd.,Gujarat,1
+86,738,738,Aircel Ltd.,Gujarat,1
+86,739,739,Aircel Ltd.,Gujarat,1
+86,740,740,Aircel Ltd.,Gujarat,1
+86,748,748,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,749,749,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,750,759,Aircel Ltd.,Tamilnadu,10
+86,760,760,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,768,768,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,769,769,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,770,770,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,778,778,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,779,779,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,780,780,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,788,788,Vodafone Essar Spacetel Ltd.,Bihar,1
+86,789,789,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,790,799,Dishnet Wireless Ltd.,Himachal Pradesh,10
+86,800,800,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,808,808,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,809,809,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,810,810,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,818,818,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,819,819,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,820,820,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,828,828,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,829,829,Idea Cellular Ltd.,Tamilnadu incl. Chennai,1
+86,830,830,Idea Cellular Ltd.,Haryana,1
+86,838,838,Idea Cellular Ltd.,Haryana,1
+86,839,839,Idea Cellular Ltd.,Haryana,1
+86,840,840,Idea Cellular Ltd.,Haryana,1
+86,848,848,Idea Cellular Ltd.,Haryana,1
+86,849,849,Idea Cellular Ltd.,Haryana,1
+86,850,850,Idea Cellular Ltd.,Haryana,1
+86,858,858,Idea Cellular Ltd.,Haryana,1
+86,859,859,Idea Cellular Ltd.,Haryana,1
+86,860,869,Aircel Ltd.,Andhra Pradesh,10
+86,870,879,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+86,880,889,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+86,890,890,Idea Cellular Ltd.,Haryana,1
+86,898,898,Idea Cellular Ltd.,Mumbai,1
+86,899,899,Idea Cellular Ltd.,Mumbai,1
+86,900,909,Reliance Communcation Ltd.(GSM),Gujarat,10
+86,910,910,Idea Cellular Ltd.,Mumbai,1
+86,918,918,Idea Cellular Ltd.,Mumbai,1
+86,919,919,Idea Cellular Ltd.,Mumbai,1
+86,920,920,Idea Cellular Ltd.,Mumbai,1
+86,928,928,Idea Cellular Ltd.,Mumbai,1
+86,929,929,Idea Cellular Ltd.,Mumbai,1
+86,930,930,Idea Cellular Ltd.,Mumbai,1
+86,938,938,Idea Cellular Ltd.,Mumbai,1
+86,939,939,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+86,940,940,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+86,948,948,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+86,949,949,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+86,950,959,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+86,960,969,Vodafone Essar Digilink Ltd.,Rajasthan,10
+86,970,979,Vodafone Essar East Ltd.,Kolkata,10
+86,980,989,Vodafone Essar Cellular Ltd.,Maharashtra,10
+86,990,999,TTSL(GSM),Punjab,10
+87,100,100,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,108,108,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,109,109,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,110,110,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,118,118,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,119,119,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,1
+87,120,129,TTSL(GSM),Andhra Pradesh,10
+87,130,130,Vodafone Essar Spacetel Ltd.,J & K,1
+87,138,138,Vodafone Essar Spacetel Ltd.,J & K,1
+87,139,139,Vodafone Essar Spacetel Ltd.,J & K,1
+87,140,149,TTSL(GSM),Kerala,10
+87,150,150,Vodafone Essar Spacetel Ltd.,J & K,1
+87,158,158,Vodafone Essar Spacetel Ltd.,J & K,1
+87,159,159,Vodafone Essar Spacetel Ltd.,J & K,1
+87,160,160,Vodafone Essar Spacetel Ltd.,J & K,1
+87,168,168,Vodafone Essar Spacetel Ltd.,J & K,1
+87,169,169,Vodafone Essar Spacetel Ltd.,J & K,1
+87,170,170,Vodafone Essar Spacetel Ltd.,J & K,1
+87,178,178,Idea Cellular Ltd.,Madhya Pradesh,1
+87,179,179,Idea Cellular Ltd.,Madhya Pradesh,1
+87,180,180,Idea Cellular Ltd.,Madhya Pradesh,1
+87,188,188,Idea Cellular Ltd.,Madhya Pradesh,1
+87,189,189,Idea Cellular Ltd.,Madhya Pradesh,1
+87,190,190,Idea Cellular Ltd.,Madhya Pradesh,1
+87,198,198,Idea Cellular Ltd.,Madhya Pradesh,1
+87,199,199,Idea Cellular Ltd.,Madhya Pradesh,1
+87,200,200,Idea Cellular Ltd.,Madhya Pradesh,1
+87,208,208,Idea Cellular Ltd.,Madhya Pradesh,1
+87,209,209,Vodafone Essar Spacetel Ltd.,Assam,1
+87,210,210,Vodafone Essar Spacetel Ltd.,Assam,1
+87,218,218,Vodafone Essar Spacetel Ltd.,Assam,1
+87,219,219,Vodafone Essar Spacetel Ltd.,Assam,1
+87,220,229,Spice Communications Ltd.,Karnataka,10
+87,230,230,Vodafone Essar Spacetel Ltd.,Assam,1
+87,238,238,Vodafone Essar Spacetel Ltd.,Assam,1
+87,239,239,Vodafone Essar Spacetel Ltd.,Assam,1
+87,240,240,Vodafone Essar Spacetel Ltd.,Assam,1
+87,248,248,Vodafone Essar Spacetel Ltd.,Assam,1
+87,249,249,Vodafone Essar Spacetel Ltd.,Assam,1
+87,250,250,Spice Communications Ltd.,Punjab,1
+87,258,258,Spice Communications Ltd.,Punjab,1
+87,259,259,Spice Communications Ltd.,Punjab,1
+87,260,269,Idea Cellular Ltd.,Uttar Pradesh(E),10
+87,270,270,Spice Communications Ltd.,Punjab,1
+87,278,278,Spice Communications Ltd.,Punjab,1
+87,279,279,Spice Communications Ltd.,Punjab,1
+87,280,280,Spice Communications Ltd.,Punjab,1
+87,288,288,Spice Communications Ltd.,Punjab,1
+87,289,289,Spice Communications Ltd.,Punjab,1
+87,290,290,Spice Communications Ltd.,Punjab,1
+87,298,298,Bharti Hexacom Ltd.,North East India,1
+87,299,299,Bharti Hexacom Ltd.,North East India,1
+87,300,300,Bharti Hexacom Ltd.,North East India,1
+87,308,308,Bharti Hexacom Ltd.,North East India,1
+87,309,309,Bharti Hexacom Ltd.,North East India,1
+87,310,310,Bharti Hexacom Ltd.,North East India,1
+87,318,318,Bharti Hexacom Ltd.,North East India,1
+87,319,319,Bharti Hexacom Ltd.,North East India,1
+87,320,320,Bharti Hexacom Ltd.,North East India,1
+87,328,328,Bharti Hexacom Ltd.,North East India,1
+87,329,329,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,330,330,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,338,338,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,339,339,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,340,340,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,348,348,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,349,349,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,350,350,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,358,358,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,359,359,Unitech Wireless (West) Pvt. Ltd.,Gujarat,1
+87,360,360,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,368,368,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,369,369,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,370,370,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,378,378,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,379,379,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,380,380,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,388,388,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,389,389,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,390,390,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+87,398,398,Idea Cellular Ltd.,Rajasthan,1
+87,399,399,Idea Cellular Ltd.,Rajasthan,1
+87,400,400,Idea Cellular Ltd.,Rajasthan,1
+87,408,408,Idea Cellular Ltd.,Rajasthan,1
+87,409,409,Idea Cellular Ltd.,Rajasthan,1
+87,410,410,Idea Cellular Ltd.,Rajasthan,1
+87,418,418,Idea Cellular Ltd.,Rajasthan,1
+87,419,419,Idea Cellular Ltd.,Rajasthan,1
+87,420,420,Idea Cellular Ltd.,Rajasthan,1
+87,428,428,Idea Cellular Ltd.,Rajasthan,1
+87,429,429,Idea Cellular Ltd.,Delhi,1
+87,430,430,Idea Cellular Ltd.,Delhi,1
+87,438,438,Idea Cellular Ltd.,Delhi,1
+87,439,439,Idea Cellular Ltd.,Delhi,1
+87,440,440,Idea Cellular Ltd.,Delhi,1
+87,448,448,Idea Cellular Ltd.,Delhi,1
+87,449,449,Idea Cellular Ltd.,Delhi,1
+87,450,450,Idea Cellular Ltd.,Delhi,1
+87,458,458,Idea Cellular Ltd.,Delhi,1
+87,459,459,Idea Cellular Ltd.,Delhi,1
+87,460,460,Spice Communications Ltd.,Karnataka,1
+87,468,468,Spice Communications Ltd.,Karnataka,1
+87,469,469,Spice Communications Ltd.,Karnataka,1
+87,470,470,Spice Communications Ltd.,Karnataka,1
+87,478,478,Spice Communications Ltd.,Karnataka,1
+87,479,479,Spice Communications Ltd.,Karnataka,1
+87,480,480,Spice Communications Ltd.,Karnataka,1
+87,488,488,Spice Communications Ltd.,Karnataka,1
+87,489,489,Spice Communications Ltd.,Karnataka,1
+87,490,490,Spice Communications Ltd.,Karnataka,1
+87,498,498,Dishnet Wireless Ltd.,Assam,1
+87,499,499,Dishnet Wireless Ltd.,Assam,1
+87,500,509,Idea Cellular Ltd.,Delhi,10
+87,510,510,Dishnet Wireless Ltd.,Assam,1
+87,518,518,Dishnet Wireless Ltd.,Assam,1
+87,519,519,Dishnet Wireless Ltd.,Assam,1
+87,520,520,Dishnet Wireless Ltd.,Assam,1
+87,528,528,Dishnet Wireless Ltd.,Assam,1
+87,529,529,Dishnet Wireless Ltd.,Assam,1
+87,530,530,Dishnet Wireless Ltd.,Assam,1
+87,538,538,Dishnet Wireless Ltd.,Assam,1
+87,539,539,Bharti Airtel Limited,Assam,1
+87,540,549,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+87,550,559,Bharti Airtel Limited,Uttar Pradesh(W),10
+87,560,569,Bharti Airtel Limited,Uttar Pradesh(E),10
+87,570,579,Bharti Airtel Limited,Bihar,10
+87,580,589,Vodafone Essar Gujarat Ltd. ,Gujarat,10
+87,590,599,Dishnet Wireless Ltd.,West Bengal,10
+87,600,609,Aircel Ltd.,Tamilnadu,10
+87,610,610,Bharti Airtel Limited,Assam,1
+87,618,618,Bharti Airtel Limited,Assam,1
+87,619,619,Bharti Airtel Limited,Assam,1
+87,620,629,BSNL,Karnataka,10
+87,630,639,BSNL,Orissa,10
+87,640,649,BSNL,Rajasthan,10
+87,650,659,BSNL,Uttar Pradesh(E),10
+87,660,669,Reliance Communcation Ltd.(CDMA),Rajasthan,10
+87,670,679,Reliance Communcation Ltd.(GSM),Mumbai,10
+87,680,689,Vodafone Essar South Ltd.,West Bengal,10
+87,690,699,Bharti Hexacom Ltd.,Rajasthan,10
+87,900,909,Bharti Airtel Limited,Andhra Pradesh,10
+87,910,919,TTSL(GSM),Uttar Pradesh(W),10
+87,920,929,TTSL(GSM),Karnataka,10
+87,930,939,TTML(GSM),Maharashtra,10
+87,940,949,Vodafone Essar Spacetel Ltd.,North East India,10
+87,950,959,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+87,960,969,Aircel Ltd.,Maharashtra,10
+87,970,979,TTSL(GSM),Bihar,10
+87,980,989,Reliance Communcation Ltd.(CDMA),West Bengal,10
+87,990,999,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+88,000,009,Bharti Airtel Limited,Delhi,10
+88,010,019,Aircel Ltd.,Andhra Pradesh,10
+88,020,029,Aircel Ltd.,Delhi,10
+88,030,039,Dishnet Wireless Ltd.,J & K,10
+88,040,049,Dishnet Wireless Ltd.,Bihar,10
+88,050,059,Idea Cellular Ltd.,Maharashtra,10
+88,060,069,Vodafone Essar Cellular Ltd.,Maharashtra,10
+88,070,079,TTSL(GSM),Tamilnadu incl. Chennai,10
+88,080,089,Idea Cellular Ltd.,Uttar Pradesh(E),10
+88,090,099,Bharti Airtel Limited,Bihar,10
+88,100,109,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+88,110,110,Bharti Airtel Limited,Assam,1
+88,118,118,Bharti Airtel Limited,Assam,1
+88,119,119,Bharti Airtel Limited,Assam,1
+88,120,120,Bharti Airtel Limited,Assam,1
+88,128,128,Bharti Airtel Limited,Assam,1
+88,129,129,Bharti Airtel Limited,Assam,1
+88,130,130,Vodafone Essar Digilink Ltd.,Haryana,1
+88,138,138,Vodafone Essar Digilink Ltd.,Haryana,1
+88,139,139,Vodafone Essar Digilink Ltd.,Haryana,1
+88,140,140,Vodafone Essar Digilink Ltd.,Haryana,1
+88,148,148,Vodafone Essar Digilink Ltd.,Haryana,1
+88,149,149,Vodafone Essar Digilink Ltd.,Haryana,1
+88,150,159,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+88,160,160,Vodafone Essar Digilink Ltd.,Haryana,1
+88,168,168,Vodafone Essar Digilink Ltd.,Haryana,1
+88,169,169,Vodafone Essar Digilink Ltd.,Haryana,1
+88,170,179,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+88,180,180,Vodafone Essar Digilink Ltd.,Haryana,1
+88,188,188,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,189,189,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,190,190,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,198,198,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,199,199,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,200,209,Reliance Telecommunication Ltd.(GSM),Kolkata,10
+88,210,210,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,218,218,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,219,219,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,220,229,Reliance Telecommunication Ltd.(GSM),Assam,10
+88,230,230,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,238,238,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,1
+88,239,239,TTSL(GSM),Rajasthan,1
+88,240,249,Reliance Communcation Ltd.(GSM),Rajasthan,10
+88,250,259,Videocon Telecommunications Ltd.,Tamilnadu incl. Chennai,10
+88,260,269,Bharti Airtel Limited,Delhi,10
+88,270,279,Bharti Airtel Limited,Madhya Pradesh,10
+88,280,289,Videocon Telecommunications Ltd.,Mumbai,10
+88,290,290,TTSL(GSM),Rajasthan,1
+88,298,298,TTSL(GSM),Rajasthan,1
+88,299,299,TTSL(GSM),Rajasthan,1
+88,520,520,TTSL(GSM),Rajasthan,1
+88,528,528,TTSL(GSM),Rajasthan,1
+88,529,529,TTSL(GSM),Rajasthan,1
+88,530,539,Bharti Airtel Limited,Uttar Pradesh(E),10
+88,540,540,TTSL(GSM),Rajasthan,1
+88,548,548,TTSL(GSM),Rajasthan,1
+88,549,549,TTSL(GSM),Rajasthan,1
+88,550,550,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,558,558,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,559,559,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,560,560,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,568,568,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,569,569,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,570,570,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,578,578,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,579,579,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,580,589,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+88,590,599,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+88,600,609,Vodafone Essar Mobile Services Ltd.,Delhi,10
+88,610,619,Bharti Airtel Limited,Karnataka,10
+88,620,620,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,1
+88,628,628,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,629,629,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,630,630,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,638,638,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,639,639,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,640,640,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+88,648,648,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,649,649,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,650,650,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,658,658,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,659,659,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,660,669,TTSL(GSM),Gujarat,10
+88,670,679,TTSL(GSM),Karnataka,10
+88,680,680,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,688,688,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,689,689,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,690,690,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,698,698,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),1
+88,699,699,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+88,700,709,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+88,710,719,TTSL(GSM),Madhya Pradesh,10
+88,720,729,Spice Communications Ltd.,Punjab,10
+88,730,739,Aditya Birla Telecom Ltd.,Bihar,10
+88,740,749,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+88,750,759,Vodafone Essar Digilink Ltd.,Rajasthan,10
+88,760,769,Vodafone Essar Spacetel Ltd.,Assam,10
+88,770,779,Vodafone Essar Spacetel Ltd.,Bihar,10
+88,780,789,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,10
+88,790,799,Vodafone Essar Ltd.,Mumbai,10
+88,800,809,Reliance Communcation Ltd.(GSM),Karnataka,10
+88,810,819,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+88,820,829,Reliance Communcation Ltd.(GSM),Delhi,10
+88,830,839,Aircel ltd.,Tamilnadu,10
+88,840,849,Vodafone Essar South Ltd.,Karnataka,10
+88,850,859,TTSL(GSM),Andhra Pradesh,10
+88,860,869,Vodafone Essar South Ltd.,Andhra Pradesh,10
+88,870,879,BSNL,Uttar Pradesh(E),10
+88,880,889,Idea Cellular Ltd.,Maharashtra,10
+88,890,899,Idea Cellular Ltd.,Madhya Pradesh,10
+88,900,909,Bharti Hexacom Ltd.,Rajasthan,10
+88,910,919,TTSL(GSM),Kerala,10
+88,920,929,Aircel ltd.,Karnataka,10
+88,930,939,Reliance Communcation Ltd.(GSM),Kerala,10
+88,940,949,Bharti Airtel Limited,Himachal Pradesh,10
+88,950,959,BSNL,Orissa,10
+88,960,969,Dishnet Wireless Ltd.,Uttar Pradesh(E),10
+88,970,979,Bharti Airtel Limited,Andhra Pradesh,10
+88,980,989,Aircel Ltd.,Mumbai,10
+88,990,999,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+89,000,009,BSNL,West Bengal,10
+89,010,019,BSNL,Haryana,10
+89,020,029,BSNL,Kolkata,10
+89,030,039,BSNL,Tamilnadu incl. Chennai,10
+89,040,049,TTSL(GSM),Karnataka,10
+89,050,059,Reliance Communcation Ltd.(GSM),Gujarat,10
+89,060,069,Dishnet Wireless Ltd.,West Bengal,10
+89,070,079,Dishnet Wireless Ltd.,Kerala,10
+89,080,089,Dishnet Wireless Ltd.,Orissa,10
+89,090,099,Dishnet Wireless Ltd.,Uttar Pradesh(W),10
+89,220,220,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,228,228,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,229,229,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,230,239,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+89,240,240,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,248,248,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,249,249,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,250,259,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,10
+89,260,269,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal,10
+89,270,279,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+89,280,289,Reliance Communcation Ltd.(GSM),Maharashtra,10
+89,290,299,Reliance Communcation Ltd.(GSM),Haryana,10
+89,300,309,Vodafone Essar Digilink Ltd.,Haryana,10
+89,310,310,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,318,318,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,319,319,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),1
+89,320,320,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,328,328,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,329,329,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,330,330,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,338,338,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,339,339,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,340,340,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,348,348,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,349,349,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,350,350,Idea Cellular Ltd.,Uttar Pradesh(E),1
+89,358,358,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+89,359,359,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+89,360,360,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+89,368,368,Unitech Wireless (East) Pvt. Ltd.,Bihar,1
+89,369,369,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,370,370,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,378,378,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,379,379,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,380,380,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,388,388,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,389,389,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,390,399,Vodafone Essar South Ltd.,Chennai,10
+89,400,409,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+89,410,410,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,418,418,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,419,419,Idea Cellular Ltd.,Uttar Pradesh(W),1
+89,420,420,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,428,428,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,429,429,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,430,439,Vodafone Essar Cellular Ltd.,Kerala,10
+89,440,440,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,448,448,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,449,449,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,450,450,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,458,458,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,459,459,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,460,460,Unitech Wireless (East) Pvt. Ltd.,West Bengal,1
+89,468,468,Aircel Ltd.,Rajasthan,1
+89,469,469,Aircel Ltd.,Rajasthan,1
+89,470,470,Aircel Ltd.,Rajasthan,1
+89,478,478,Aircel Ltd.,Rajasthan,1
+89,479,479,Aircel Ltd.,Rajasthan,1
+89,480,489,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+89,500,509,TTSL(GSM),Haryana,10
+89,510,519,TTSL(GSM),Karnataka,10
+89,520,520,Aircel Ltd.,Rajasthan,1
+89,528,528,Aircel Ltd.,Rajasthan,1
+89,529,529,Aircel Ltd.,Rajasthan,1
+89,530,539,Bharti Airtel Limited,Uttar Pradesh(E),10
+89,540,549,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+89,550,559,Reliance Communcation Ltd.(GSM),Rajasthan,10
+89,560,569,Reliance Communcation Ltd.(GSM),Maharashtra,10
+89,570,579,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+89,580,589,Idea Cellular Ltd.,Uttar Pradesh(W),10
+89,590,599,Idea Cellular Ltd.,Madhya Pradesh,10
+89,600,609,TTSL(GSM),Uttar Pradesh(E),10
+89,610,619,TTSL(GSM),Kolkata,10
+89,620,629,TTSL(GSM),Madhya Pradesh,10
+89,630,630,Aircel Ltd.,Rajasthan,1
+89,638,638,Aircel Ltd.,Rajasthan,1
+89,639,639,Idea Cellular Ltd.,Madhya Pradesh,1
+89,640,640,Idea Cellular Ltd.,Madhya Pradesh,1
+89,648,648,Idea Cellular Ltd.,Madhya Pradesh,1
+89,649,649,Idea Cellular Ltd.,Madhya Pradesh,1
+89,650,650,Idea Cellular Ltd.,Madhya Pradesh,1
+89,658,658,Idea Cellular Ltd.,Madhya Pradesh,1
+89,659,659,Idea Cellular Ltd.,Madhya Pradesh,1
+89,660,660,Idea Cellular Ltd.,Madhya Pradesh,1
+89,668,668,Idea Cellular Ltd.,Madhya Pradesh,1
+89,669,669,Idea Cellular Ltd.,Madhya Pradesh,1
+89,670,679,Bharti Airtel Limited,West Bengal,10
+89,680,689,Bharti Airtel Limited,Punjab,10
+89,690,699,Bharti Airtel Limited,Bihar,10
+89,700,709,Spice Communications Ltd.,Karnataka,10
+89,710,719,Bharti Airtel Limited,Karnataka,10
+89,720,729,Bharti Airtel Limited,West Bengal,10
+89,730,739,Aircel Ltd.,Tamilnadu,10
+89,740,749,Bharti Hexacom Ltd.,North East India,10
+89,750,759,Idea Cellular Ltd.,Maharashtra,10
+89,760,769,TTML(GSM),Mumbai,10
+89,770,779,TTSL(GSM),Andhra Pradesh,10
+89,780,789,Bharti Airtel Limited,Andhra Pradesh,10
+89,790,799,Bharti Airtel Limited,Uttar Pradesh(W),10
+89,800,809,Vodafone Essar Gujarat Ltd.,Gujarat,10
+89,810,819,TTSL(GSM),Kolkata,10
+89,820,829,TTSL(GSM),Madhya Pradesh,10
+89,830,839,TTML(GSM),Maharashtra,10
+89,840,849,TTSL(GSM),Orissa,10
+89,850,859,BSNL,Andhra Pradesh,10
+89,860,869,BSNL,Bihar,10
+89,870,879,BSNL,Bihar,10
+89,880,889,BSNL,Himachal Pradesh,10
+89,890,899,BSNL,Madhya Pradesh,10
+90,000,009,Bharti Airtel Limited,Andhra Pradesh,10
+90,010,019,Bharti Hexacom Ltd.,Rajasthan,10
+90,020,029,Bharti Airtel Limited,West Bengal,10
+90,030,039,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+90,040,049,Bharti Airtel Limited,Mumbai,10
+90,050,059,Bharti Airtel Limited,Uttar Pradesh(E),10
+90,060,069,Bharti Airtel Limited,Bihar,10
+90,070,079,Bharti Airtel Limited,Kolkata,10
+90,080,089,Bharti Airtel Limited,Karnataka,10
+90,090,099,Idea Cellular Ltd.,Madhya Pradesh,10
+90,100,109,Idea Cellular Ltd.,Andhra Pradesh,10
+90,110,119,Idea Cellular Ltd.,Maharashtra,10
+90,120,129,Idea Cellular Ltd.,Uttar Pradesh(W),10
+90,130,139,MTNL,Delhi,10
+90,140,149,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+90,150,159,Reliance Communcation Ltd.(GSM),Delhi,10
+90,160,169,Reliance Communcation Ltd.(GSM),Gujarat,10
+90,170,179,Reliance Communcation Ltd.(GSM),Haryana,10
+90,180,189,Reliance Communcation Ltd.(GSM),J & K,10
+90,190,199,Reliance Communcation Ltd.(GSM),Karnataka,10
+90,200,209,Reliance Communcation Ltd.(GSM),Kerala,10
+90,210,219,Reliance Communcation Ltd.(GSM),Maharashtra,10
+90,220,229,Reliance Communcation Ltd.(GSM),Mumbai,10
+90,230,239,Reliance Communcation Ltd.(GSM),Punjab,10
+90,240,249,Reliance Communcation Ltd.(GSM),Rajasthan,10
+90,250,259,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+90,260,269,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+90,270,279,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+90,280,289,TTML(GSM),Maharashtra,10
+90,290,299,TTML(GSM),Mumbai,10
+90,300,309,TTSL(GSM),Andhra Pradesh,10
+90,310,319,TTSL(GSM),Bihar,10
+90,320,329,TTSL(GSM),Andhra Pradesh,10
+90,330,339,TTSL(GSM),Gujarat,10
+90,340,349,TTSL(GSM),Haryana,10
+90,350,359,TTSL(GSM),Karnataka,10
+90,360,369,TTSL(GSM),Karnataka,10
+90,370,379,TTSL(GSM),Kerala,10
+90,380,389,TTSL(GSM),Kolkata,10
+90,390,399,TTSL(GSM),Madhya Pradesh,10
+90,400,409,TTSL(GSM),Orissa,10
+90,410,419,TTSL(GSM),Punjab,10
+90,420,429,TTSL(GSM),Tamilnadu incl. Chennai,10
+90,430,439,TTSL(GSM),Tamilnadu incl. Chennai,10
+90,440,449,TTSL(GSM),Uttar Pradesh(E),10
+90,450,459,TTSL(GSM),Uttar Pradesh(W),10
+90,460,469,TTSL(GSM),West Bengal,10
+90,470,479,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+90,480,489,Vodafone Essar Cellular Ltd.,Kerala,10
+90,490,499,Vodafone Essar Cellular Ltd.,Maharashtra,10
+90,500,509,Vodafone Essar Digilink Ltd.,Haryana,10
+90,510,519,Vodafone Essar East Ltd.,Kolkata,10
+90,520,529,Vodafone Essar South Ltd.,Andhra Pradesh,10
+90,530,539,Unitech Wireless (North) Pvt. Ltd.,Haryana,10
+90,540,549,Unitech Wireless (North) Pvt. Ltd.,Himachal Pradesh,10
+90,550,559,Unitech Wireless (North) Pvt. Ltd.,J & K,10
+90,560,569,Unitech Wireless (North) Pvt. Ltd.,Punjab,10
+90,570,579,Unitech Wireless (North) Pvt. Ltd.,Rajasthan,10
+90,580,589,Unitech Wireless (North) Pvt. Ltd.,Uttar Pradesh(W),10
+90,590,599,Unitech Wireless (South) Pvt. Ltd.,Andhra Pradesh,10
+90,600,609,Unitech Wireless (South) Pvt. Ltd.,Karnataka,10
+90,610,619,Unitech Wireless (South) Pvt. Ltd.,Kerala,10
+90,620,629,Unitech Wireless (Kolkata) Pvt. Ltd.,Kolkata,10
+90,630,639,Videocon Telecommunications Ltd.,Andhra Pradesh,10
+90,640,649,Videocon Telecommunications Ltd.,Assam,10
+90,650,659,Videocon Telecommunications Ltd.,Bihar,10
+90,660,669,Videocon Telecommunications Ltd.,Delhi,10
+90,670,679,Videocon Telecommunications Ltd.,Gujarat,10
+90,680,689,Videocon Telecommunications Ltd.,Haryana,10
+90,690,699,Videocon Telecommunications Ltd.,Himachal Pradesh,10
+90,700,709,Videocon Telecommunications Ltd.,J & K,10
+90,710,719,Videocon Telecommunications Ltd.,Karnataka,10
+90,720,729,Videocon Telecommunications Ltd.,Kerala,10
+90,730,739,Videocon Telecommunications Ltd.,Kolkata,10
+90,740,749,Videocon Telecommunications Ltd.,Madhya Pradesh,10
+90,750,759,Videocon Telecommunications Ltd.,Maharashtra,10
+90,760,769,Videocon Telecommunications Ltd.,Mumbai,10
+90,770,779,Videocon Telecommunications Ltd.,North East India,10
+90,780,789,Videocon Telecommunications Ltd.,Orissa,10
+90,790,799,Videocon Telecommunications Ltd.,Rajasthan,10
+90,800,809,Videocon Telecommunications Ltd.,Tamilnadu incl. Chennai,10
+90,810,819,Videocon Telecommunications Ltd.,Uttar Pradesh(E),10
+90,820,829,Videocon Telecommunications Ltd.,Uttar Pradesh(W),10
+90,830,839,Videocon Telecommunications Ltd.,West Bengal,10
+90,840,849,Unitech Wireless (Delhi) Pvt.Ltd.,Delhi,10
+90,850,859,Idea Cellular Ltd.,Assam,10
+90,860,869,Idea Cellular Ltd.,J & K,10
+90,870,879,Non operational Idea Karnataka,,10
+90,880,889,Idea Cellular Ltd.,Kolkata,10
+90,890,899,Idea Cellular Ltd.,North East India,10
+90,900,909,Idea Cellular Ltd.,Orissa,10
+90,910,919,Non operational Idea Punjab,,10
+90,920,929,Idea Cellular Ltd.,Tamilnadu incl. Chennai,10
+90,930,939,Idea Cellular Ltd.,West Bengal,10
+90,940,949,Aircel Cellular Limited,Chennai,10
+90,950,959,Aircel Ltd.,Tamilnadu,10
+90,960,969,Bharti Airtel Limited,Maharashtra,10
+90,970,979,Dishnet Wireless Ltd.,Bihar,10
+90,980,989,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+90,990,999,Vodafone Essar Gujarat Ltd.,Gujarat,10
+91,000,009,Loop Telecom Ltd. ,Andhra Pradesh,10
+91,010,019,Loop Telecom Ltd. ,Assam,10
+91,020,029,Loop Telecom Ltd. ,Bihar,10
+91,030,039,Loop Telecom Ltd. ,Delhi,10
+91,040,049,Loop Telecom Ltd. ,Gujarat,10
+91,050,059,Loop Telecom Ltd. ,Haryana,10
+91,060,069,Loop Telecom Ltd. ,Himachal Pradesh,10
+91,070,079,Loop Telecom Ltd. ,J & K,10
+91,080,089,Loop Telecom Ltd. ,Karnataka,10
+91,090,099,Loop Telecom Ltd. ,Kerala,10
+91,100,109,Loop Telecom Ltd. ,Kolkata,10
+91,110,119,Loop Telecom Ltd. ,Madhya Pradesh,10
+91,120,129,Loop Telecom Ltd. ,Maharashtra,10
+91,130,139,Loop Telecom Ltd. ,North East India,10
+91,140,149,Loop Telecom Ltd. ,Orissa,10
+91,150,159,Loop Telecom Ltd. ,Punjab,10
+91,160,169,Loop Telecom Ltd. ,Rajasthan,10
+91,170,179,Loop Telecom Ltd. ,Tamilnadu incl. Chennai,10
+91,180,189,Loop Telecom Ltd. ,Uttar Pradesh(E),10
+91,190,199,Loop Telecom Ltd. ,Uttar Pradesh(W),10
+91,200,209,Loop Telecom Ltd. ,West Bengal,10
+91,210,219,Unitech Wireless (East) Pvt. Ltd.,Assam,10
+91,220,229,Unitech Wireless (East) Pvt. Ltd.,Bihar,10
+91,230,239,Unitech Wireless (East) Pvt. Ltd.,North East India,10
+91,240,249,Unitech Wireless (East) Pvt. Ltd.,Orissa,10
+91,250,259,Unitech Wireless (East) Pvt. Ltd.,Uttar Pradesh(E),10
+91,260,269,Unitech Wireless (East) Pvt. Ltd.,West Bengal,10
+91,270,279,S Tel Pvt. Ltd.,Assam,10
+91,280,289,S Tel Pvt. Ltd.,Bihar,10
+91,290,299,S Tel Pvt. Ltd.,Himachal Pradesh,10
+91,300,309,S Tel Pvt. Ltd.,J & K,10
+91,310,319,S Tel Pvt. Ltd.,North East India,10
+91,320,329,S Tel Pvt. Ltd.,Orissa,10
+91,330,339,Sistema Shyam TeleServices Ltd.(CDMA),Andhra Pradesh,10
+91,340,349,Sistema Shyam TeleServices Ltd.(CDMA),Assam,10
+91,350,359,Sistema Shyam TeleServices Ltd.(CDMA),Bihar,10
+91,360,369,Sistema Shyam TeleServices Ltd.(CDMA),Delhi,10
+91,370,379,Sistema Shyam TeleServices Ltd.(CDMA),Gujarat,10
+91,380,389,Sistema Shyam TeleServices Ltd.(CDMA),Haryana,10
+91,390,399,Sistema Shyam TeleServices Ltd.(CDMA),Himachal Pradesh,10
+91,400,409,Sistema Shyam TeleServices Ltd.(CDMA),J & K,10
+91,410,419,Sistema Shyam TeleServices Ltd.(CDMA),Karnataka,10
+91,420,429,Sistema Shyam TeleServices Ltd.(CDMA),Kerala,10
+91,430,439,Sistema Shyam TeleServices Ltd.(CDMA),Kolkata,10
+91,440,449,Sistema Shyam TeleServices Ltd.(CDMA),Madhya Pradesh,10
+91,450,459,Sistema Shyam TeleServices Ltd.(CDMA),Maharashtra,10
+91,460,469,Sistema Shyam TeleServices Ltd.(CDMA),Mumbai,10
+91,470,479,Sistema Shyam TeleServices Ltd.(CDMA),North East India,10
+91,480,489,Sistema Shyam TeleServices Ltd.(CDMA),Orissa,10
+91,490,499,Sistema Shyam TeleServices Ltd.(CDMA),Punjab,10
+91,500,509,Sistema Shyam TeleServices Ltd.(CDMA),Tamilnadu incl. Chennai,10
+91,510,519,Sistema Shyam TeleServices Ltd.(CDMA),Uttar Pradesh(E),10
+91,520,529,Sistema Shyam TeleServices Ltd.(CDMA),Uttar Pradesh(W),10
+91,530,539,Sistema Shyam TeleServices Ltd.(CDMA),West Bengal,10
+91,540,549,non operational spice Andhra Pradesh,,10
+91,550,559,non operational spice Delhi,,10
+91,560,569,non operational spice Haryana,,10
+91,570,579,non operational spice Maharashtra,,10
+91,580,589,Vodafone Essar Cellular Ltd.,Maharashtra,10
+91,590,599,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+91,600,609,Vodafone Essar South Ltd.,Andhra Pradesh,10
+91,610,619,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+91,620,629,Bharti Airtel Limited,Bihar,10
+91,630,639,Bharti Airtel Limited,Kolkata,10
+91,640,649,Spice Communications Ltd.,Karnataka,10
+91,650,659,Idea Cellular Ltd.,Madhya Pradesh,10
+91,660,669,Bharti Hexacom Ltd.,Rajasthan,10
+91,670,679,Vodafone Essar Ltd.,Mumbai,10
+91,710,719,Unitech Wireless (Tamilnadu) Pvt. Ltd.,Tamilnadu incl. Chennai,10
+91,720,729,Unitech Wireless (Mumbai) Pvt. Ltd.,Mumbai,10
+91,730,739,Unitech Wireless (West) Pvt. Ltd.,Gujarat,10
+91,740,749,Unitech Wireless (West) Pvt. Ltd.,Madhya Pradesh,10
+91,750,759,Unitech Wireless (West) Pvt. Ltd.,Maharashtra,10
+91,760,769,Vodafone Essar South Ltd.,Chennai,10
+91,770,779,Bharti Airtel Limited,Andhra Pradesh,10
+91,780,789,Bharti Airtel Limited,Orissa,10
+91,790,799,Bharti Airtel Limited,Madhya Pradesh,10
+91,800,809,BSNL,Andhra Pradesh,10
+91,810,819,BSNL,Assam,10
+91,820,829,BSNL,Bihar,10
+91,830,839,BSNL,Tamilnadu incl. Chennai,10
+91,840,849,BSNL,Gujarat,10
+91,850,859,BSNL,Himachal Pradesh,10
+91,860,869,BSNL,J & K,10
+91,870,879,BSNL,Karnataka,10
+91,880,889,BSNL,Kerala,10
+91,890,899,BSNL,Kolkata,10
+91,900,909,BSNL,Madhya Pradesh,10
+91,910,919,BSNL,North East India,10
+91,920,929,BSNL,Orissa,10
+91,930,939,BSNL,Punjab,10
+91,940,949,BSNL,Rajasthan,10
+91,950,959,BSNL,Tamilnadu incl. Chennai,10
+91,960,969,BSNL,Uttar Pradesh(E),10
+91,970,979,BSNL,West Bengal,10
+91,980,989,Bharti Airtel Limited,Uttar Pradesh(E),10
+91,990,999,Bharti Airtel Limited,Bihar,10
+92,000,009,TTSL(CDMA),Madhya Pradesh,10
+92,010,019,TTSL(CDMA),Madhya Pradesh,10
+92,020,029,TTSL(CDMA),Madhya Pradesh,10
+92,030,039,TTSL(CDMA),Madhya Pradesh,10
+92,040,049,TTSL(CDMA),Bihar,10
+92,050,059,TTSL(CDMA),J & K,10
+92,060,069,TTSL(CDMA),North East India,10
+92,070,079,TTSL(CDMA),Assam,10
+92,080,089,TTSL(CDMA),Uttar Pradesh(E),10
+92,090,099,TTML(CDMA),Maharashtra,10
+92,100,109,TTSL(CDMA),Delhi,10
+92,110,119,TTSL(CDMA),Delhi,10
+92,120,129,TTSL(CDMA),Delhi,10
+92,130,139,TTSL(CDMA),Delhi,10
+92,140,149,TTSL(CDMA),Rajasthan,10
+92,150,159,TTSL(CDMA),Haryana,10
+92,160,169,TTSL(CDMA),Punjab,10
+92,170,179,TTSL(CDMA),Punjab,10
+92,180,189,TTSL(CDMA),Himachal Pradesh,10
+92,190,199,TTSL(CDMA),Uttar Pradesh(W),10
+92,200,209,TTML(CDMA),Mumbai,10
+92,210,219,TTML(CDMA),Mumbai,10
+92,220,229,TTML(CDMA),Mumbai,10
+92,230,239,TTML(CDMA),Mumbai,10
+92,240,249,TTML(CDMA),Mumbai,10
+92,250,259,TTML(CDMA),Maharashtra,10
+92,260,269,TTML(CDMA),Maharashtra,10
+92,270,279,TTSL(CDMA),Gujarat,10
+92,280,289,TTSL(CDMA),Gujarat,10
+92,290,299,TTSL(CDMA),Madhya Pradesh,10
+92,300,309,TTSL(CDMA),Kolkata,10
+92,310,319,TTSL(CDMA),Kolkata,10
+92,320,329,TTSL(CDMA),West Bengal,10
+92,330,339,TTSL(CDMA),West Bengal,10
+92,340,349,TTSL(CDMA),Bihar,10
+92,350,359,TTSL(CDMA),Uttar Pradesh(E),10
+92,360,369,TTSL(CDMA),Uttar Pradesh(E),10
+92,370,379,TTSL(CDMA),Orissa,10
+92,380,389,TTSL(CDMA),Orissa,10
+92,390,399,TTSL(CDMA),Kolkata,10
+92,400,409,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,410,419,TTSL(CDMA),Karnataka,10
+92,420,429,TTSL(CDMA),Karnataka,10
+92,430,439,TTSL(CDMA),Karnataka,10
+92,440,449,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,450,459,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,460,469,TTSL(CDMA),Andhra Pradesh,10
+92,470,479,TTSL(CDMA),Andhra Pradesh,10
+92,480,489,TTSL(CDMA),Andhra Pradesh,10
+92,490,499,TTSL(CDMA),Kerala,10
+92,500,509,TTSL(CDMA),Delhi,10
+92,510,519,TTSL(CDMA),Rajasthan,10
+92,520,529,TTSL(CDMA),Rajasthan,10
+92,530,539,TTSL(CDMA),Haryana,10
+92,540,549,TTSL(CDMA),Haryana,10
+92,550,559,TTSL(CDMA),Haryana,10
+92,560,569,TTSL(CDMA),Punjab,10
+92,570,579,TTSL(CDMA),Punjab,10
+92,580,589,TTSL(CDMA),Uttar Pradesh(W),10
+92,590,599,TTSL(CDMA),Uttar Pradesh(W),10
+92,600,609,TTML(CDMA),Maharashtra,10
+92,610,619,TTSL(CDMA),Rajasthan,10
+92,620,629,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,630,639,TTSL(CDMA),Bihar,10
+92,640,644,TTSL(CDMA),Tamilnadu incl. Chennai,5
+92,645,649,TTSL(CDMA),West Bengal,5
+92,650,659,TTML(CDMA),Maharashtra,10
+92,660,669,TTSL(CDMA),Delhi,10
+92,670,679,TTSL(CDMA),Uttar Pradesh(W),10
+92,680,689,TTSL(CDMA),Delhi,10
+92,690,699,TTSL(CDMA),Rajasthan,10
+92,700,709,TTML(CDMA),Maharashtra,10
+92,710,719,TTML(CDMA),Maharashtra,10
+92,720,729,TTML(CDMA),Maharashtra,10
+92,730,739,TTML(CDMA),Maharashtra,10
+92,740,749,TTSL(CDMA),Gujarat,10
+92,750,759,TTSL(CDMA),Gujarat,10
+92,760,769,TTSL(CDMA),Gujarat,10
+92,770,779,TTSL(CDMA),Gujarat,10
+92,780,789,TTSL(CDMA),Delhi,10
+92,790,799,TTSL(CDMA),Bihar,10
+92,800,809,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,810,819,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,820,829,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,830,839,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,840,849,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,850,859,TTSL(CDMA),Tamilnadu incl. Chennai,10
+92,860,869,TTSL(CDMA),Uttar Pradesh(W),10
+92,870,879,TTSL(CDMA),Kerala,10
+92,880,889,TTSL(CDMA),Kerala,10
+92,890,899,TTSL(CDMA),Delhi,10
+92,900,909,TTSL(CDMA),Andhra Pradesh,10
+92,910,919,TTSL(CDMA),Andhra Pradesh,10
+92,920,929,TTSL(CDMA),Andhra Pradesh,10
+92,930,939,TTSL(CDMA),Andhra Pradesh,10
+92,940,949,TTSL(CDMA),Andhra Pradesh,10
+92,950,959,TTSL(CDMA),Andhra Pradesh,10
+92,960,969,TTSL(CDMA),Andhra Pradesh,10
+92,970,979,TTSL(CDMA),Andhra Pradesh,10
+92,980,989,TTSL(CDMA),Andhra Pradesh,10
+92,990,999,TTSL(CDMA),Andhra Pradesh,10
+93,000,009,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+93,010,019,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+93,020,029,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+93,030,039,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+93,040,049,Reliance Communcation Ltd.(CDMA),Bihar,10
+93,050,059,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,060,069,Reliance Communcation Ltd.(CDMA),J & K,10
+93,070,079,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,080,089,Reliance Communcation Ltd.(CDMA),Bihar,10
+93,090,099,Reliance Communcation Ltd.(CDMA),Rajasthan,10
+93,100,109,Reliance Communcation Ltd.(CDMA),Delhi,10
+93,110,119,Reliance Communcation Ltd.(CDMA),Delhi,10
+93,120,129,Reliance Communcation Ltd.(CDMA),Delhi,10
+93,130,139,Reliance Communcation Ltd.(CDMA),Delhi,10
+93,140,149,Reliance Communcation Ltd.(CDMA),Rajasthan,10
+93,150,159,Reliance Communcation Ltd.(CDMA),Haryana,10
+93,160,169,Reliance Communcation Ltd.(CDMA),Punjab,10
+93,170,179,Reliance Communcation Ltd.(CDMA),Punjab,10
+93,180,189,Reliance Communcation Ltd.(CDMA),Himachal Pradesh,10
+93,190,199,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+93,200,209,Reliance Communcation Ltd.(CDMA),Mumbai,10
+93,210,219,Reliance Communcation Ltd.(CDMA),Mumbai,10
+93,220,229,Reliance Communcation Ltd.(CDMA),Mumbai,10
+93,230,239,Reliance Communcation Ltd.(CDMA),Mumbai,10
+93,240,249,Reliance Communcation Ltd.(CDMA),Mumbai,10
+93,250,259,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,260,269,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,270,279,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,280,289,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,290,299,Reliance Communcation Ltd.(CDMA),Madhya Pradesh,10
+93,300,309,Reliance Communcation Ltd.(CDMA),Kolkata,10
+93,310,319,Reliance Communcation Ltd.(CDMA),Kolkata,10
+93,320,329,Reliance Communcation Ltd.(CDMA),West Bengal,10
+93,330,339,Reliance Communcation Ltd.(CDMA),West Bengal,10
+93,340,349,Reliance Communcation Ltd.(CDMA),Bihar,10
+93,350,359,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,360,369,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,370,379,Reliance Communcation Ltd.(CDMA),Orissa,10
+93,380,389,Reliance Communcation Ltd.(CDMA),Orissa,10
+93,390,399,Reliance Communcation Ltd.(CDMA),Kolkata,10
+93,400,409,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,410,419,Reliance Communcation Ltd.(CDMA),Karnataka,10
+93,420,429,Reliance Communcation Ltd.(CDMA),Karnataka,10
+93,430,439,Reliance Communcation Ltd.(CDMA),Karnataka,10
+93,440,449,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,450,459,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,460,469,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,470,479,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,480,489,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,490,499,Reliance Communcation Ltd.(CDMA),Kerala,10
+93,500,509,Reliance Communcation Ltd.(CDMA),Delhi,10
+93,510,519,Reliance Communcation Ltd.(CDMA),Rajasthan,10
+93,520,529,Reliance Communcation Ltd.(CDMA),Rajasthan,10
+93,530,539,Reliance Communcation Ltd.(CDMA),Karnataka,10
+93,540,549,Reliance Communcation Ltd.(CDMA),Haryana,10
+93,550,559,Reliance Communcation Ltd.(CDMA),Haryana,10
+93,560,569,Reliance Communcation Ltd.(CDMA),Punjab,10
+93,570,579,Reliance Communcation Ltd.(CDMA),Punjab,10
+93,580,589,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+93,590,599,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+93,600,609,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,610,619,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,620,629,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,630,639,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,640,649,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,650,659,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,660,669,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,670,679,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,680,689,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(W),10
+93,690,699,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,700,709,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,710,719,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,720,729,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,730,739,Reliance Communcation Ltd.(CDMA),Maharashtra,10
+93,740,749,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,750,759,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,760,769,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,770,779,Reliance Communcation Ltd.(CDMA),Gujarat,10
+93,780,789,Reliance Communcation Ltd.(CDMA),West Bengal,10
+93,790,799,Reliance Communcation Ltd.(CDMA),Karnataka,10
+93,800,809,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,810,819,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,820,829,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,830,839,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,840,849,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,850,859,Reliance Communcation Ltd.(CDMA),Tamilnadu incl. Chennai,10
+93,860,869,Reliance Communcation Ltd.(CDMA),Bihar,10
+93,870,879,Reliance Communcation Ltd.(CDMA),Kerala,10
+93,880,889,Reliance Communcation Ltd.(CDMA),Kerala,10
+93,890,899,Reliance Communcation Ltd.(CDMA),Uttar Pradesh(E),10
+93,900,909,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,910,919,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,920,929,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,930,939,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,940,949,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,950,959,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,960,969,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,970,979,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,980,989,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+93,990,999,Reliance Communcation Ltd.(CDMA),Andhra Pradesh,10
+94,000,009,BSNL,Kerala,10
+94,010,019,BSNL,Assam,10
+94,020,029,BSNL,North East India,10
+94,030,039,BSNL,Maharashtra,10
+94,040,049,BSNL,Maharashtra,10
+94,050,059,BSNL,Maharashtra,10
+94,060,069,BSNL,Madhya Pradesh,10
+94,070,079,BSNL,Madhya Pradesh,10
+94,080,089,BSNL,Gujarat,10
+94,090,099,BSNL,Gujarat,10
+94,100,109,BSNL,Uttar Pradesh(W),10
+94,110,119,BSNL,Uttar Pradesh(W),10
+94,120,129,BSNL,Uttar Pradesh(W),10
+94,130,139,BSNL,Rajasthan,10
+94,140,149,BSNL,Rajasthan,10
+94,150,159,BSNL,Uttar Pradesh(E),10
+94,160,169,BSNL,Haryana,10
+94,170,179,BSNL,Punjab,10
+94,180,189,BSNL,Himachal Pradesh,10
+94,190,199,BSNL,J & K,10
+94,200,209,BSNL,Maharashtra,10
+94,210,219,BSNL,Maharashtra,10
+94,220,229,BSNL,Maharashtra,10
+94,230,239,BSNL,Maharashtra,10
+94,240,249,BSNL,Madhya Pradesh,10
+94,250,259,BSNL,Madhya Pradesh,10
+94,260,269,BSNL,Gujarat,10
+94,270,279,BSNL,Gujarat,10
+94,280,289,BSNL,Gujarat,10
+94,290,299,BSNL,Gujarat,10
+94,300,309,BSNL,Bihar,10
+94,310,319,BSNL,Bihar,10
+94,320,329,BSNL,West Bengal,10
+94,330,339,BSNL,Kolkata,10
+94,340,349,BSNL,West Bengal,10
+94,350,359,BSNL,Assam,10
+94,360,369,BSNL,North East India,10
+94,370,379,BSNL,Orissa,10
+94,380,389,BSNL,Orissa,10
+94,390,399,BSNL,Orissa,10
+94,400,409,BSNL,Andhra Pradesh,10
+94,410,419,BSNL,Andhra Pradesh,10
+94,420,429,BSNL,Tamilnadu incl. Chennai,10
+94,430,439,BSNL,Tamilnadu incl. Chennai,10
+94,440,449,BSNL,Tamilnadu incl. Chennai,10
+94,450,459,BSNL,Tamilnadu incl. Chennai,10
+94,460,469,BSNL,Kerala,10
+94,470,479,BSNL,Kerala,10
+94,480,489,BSNL,Karnataka,10
+94,490,499,BSNL,Karnataka,10
+94,500,509,BSNL,Uttar Pradesh(E),10
+94,510,519,BSNL,Uttar Pradesh(E),10
+94,520,529,BSNL,Uttar Pradesh(E),10
+94,530,539,BSNL,Uttar Pradesh(E),10
+94,540,549,BSNL,Uttar Pradesh(E),10
+94,550,559,BSNL,Uttar Pradesh(E),10
+94,560,569,BSNL,Uttar Pradesh(W),10
+94,570,579,BSNL,Uttar Pradesh(W),10
+94,580,589,BSNL,Uttar Pradesh(W),10
+94,590,599,BSNL,Himachal Pradesh,10
+94,600,609,BSNL,Rajasthan,10
+94,610,619,BSNL,Rajasthan,10
+94,620,629,BSNL,Rajasthan,10
+94,630,639,BSNL,Punjab,10
+94,640,649,BSNL,Punjab,10
+94,650,659,BSNL,Punjab,10
+94,660,669,BSNL,Haryana,10
+94,670,679,BSNL,Haryana,10
+94,680,684,BSNL,Haryana,5
+94,685,689,BSNL,Rajasthan,5
+94,690,699,BSNL,J & K,10
+94,700,709,BSNL,Bihar,10
+94,710,719,BSNL,Bihar,10
+94,720,729,BSNL,Bihar,10
+94,730,734,BSNL,Bihar,5
+94,735,739,BSNL,Uttar Pradesh(E),5
+94,740,749,BSNL,West Bengal,10
+94,750,759,BSNL,West Bengal,10
+94,760,764,BSNL,West Bengal,5
+94,765,769,BSNL,Assam,5
+94,770,779,BSNL,Kolkata,10
+94,780,789,BSNL,Punjab,10
+94,790,799,BSNL,Madhya Pradesh,10
+94,800,809,BSNL,Karnataka,10
+94,810,819,BSNL,Karnataka,10
+94,820,829,BSNL,Karnataka,10
+94,830,839,BSNL,Karnataka,10
+94,840,849,BSNL,J & K,10
+94,850,859,BSNL,North East India,10
+94,860,869,BSNL,Tamilnadu incl. Chennai,10
+94,870,879,BSNL,Tamilnadu incl. Chennai,10
+94,880,889,BSNL,Tamilnadu incl. Chennai,10
+94,890,899,BSNL,Tamilnadu incl. Chennai,10
+94,900,909,BSNL,Andhra Pradesh,10
+94,910,919,BSNL,Andhra Pradesh,10
+94,920,929,BSNL,Andhra Pradesh,10
+94,930,939,BSNL,Andhra Pradesh,10
+94,940,949,BSNL,Andhra Pradesh,10
+94,950,959,BSNL,Kerala,10
+94,960,969,BSNL,Kerala,10
+94,970,979,BSNL,Kerala,10
+94,980,989,BSNL,Tamilnadu incl. Chennai,10
+94,990,999,BSNL,Tamilnadu incl. Chennai,10
+95,000,009,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+95,010,019,Bharti Airtel Limited,Punjab,10
+95,020,029,Bharti Airtel Limited,Andhra Pradesh,10
+95,030,039,Bharti Airtel Limited,Maharashtra,10
+95,040,049,Dishnet Wireless Ltd.,Bihar,10
+95,050,059,Idea Cellular Ltd.,Andhra Pradesh,10
+95,060,069,Idea Cellular Ltd.,Uttar Pradesh(E),10
+95,070,079,Aditya Birla Telecom Ltd.,Bihar,10
+95,080,089,Reliance Telecommunication Ltd.(GSM),Assam,10
+95,090,099,Reliance Communcation Ltd.(GSM),Rajasthan,10
+95,100,109,Reliance Communcation Ltd.(GSM),Gujarat,10
+95,110,119,Etisalat DB Telecom Pvt. Ltd.,Maharashtra,10
+95,120,129,Etisalat DB Telecom Pvt. Ltd.,Gujarat,10
+95,130,139,Etisalat DB Telecom Pvt. Ltd.,Karnataka,10
+95,140,149,Etisalat DB Telecom Pvt. Ltd.,Tamilnadu incl. Chennai,10
+95,150,159,Etisalat DB Telecom Pvt. Ltd.,Andhra Pradesh,10
+95,160,169,Etisalat DB Telecom Pvt. Ltd.,Kerala,10
+95,170,179,Etisalat DB Telecom Pvt. Ltd.,Punjab,10
+95,180,189,Etisalat DB Telecom Pvt. Ltd.,Haryana,10
+95,190,199,Etisalat DB Telecom Pvt. Ltd.,Uttar Pradesh(E),10
+95,200,209,Etisalat DB Telecom Pvt. Ltd.,Uttar Pradesh(W),10
+95,210,219,Etisalat DB Telecom Pvt. Ltd.,Rajasthan,10
+95,220,229,Allianz Infratech (P) Ltd.,Madhya Pradesh,10
+95,230,239,Allianz Infratech (P) Ltd.,Bihar,10
+95,240,249,Aircel Ltd.,Tamilnadu,10
+95,250,259,Aditya Birla Telecom Ltd.,Bihar,10
+95,260,269,Idea Cellular Ltd.,Kerala,10
+95,270,279,Idea Cellular Ltd.,Maharashtra,10
+95,280,289,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+95,290,299,Reliance Communcation Ltd.(GSM),Rajasthan,10
+95,300,304,BSNL,Rajasthan,5
+95,305,308,BSNL,Punjab,4
+95,310,319,BSNL,West Bengal,10
+95,320,329,BSNL,Uttar Pradesh(E),10
+95,330,339,Reliance Communcation Ltd.(GSM),Andhra Pradesh,10
+95,340,349,Vodafone Essar Spacetel Ltd.,Bihar,10
+95,350,359,Bharti Airtel Limited,Karnataka,10
+95,360,369,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+95,370,379,Vodafone Essar Gujarat Ltd.,Gujarat,10
+95,380,389,Vodafone Essar South Ltd.,Karnataka,10
+95,390,399,Vodafone Essar Cellular Ltd.,Kerala,10
+95,400,409,Idea Cellular Ltd.,Delhi,10
+95,410,419,Reliance Communcation Ltd.(GSM),Haryana,10
+95,420,429,Idea Cellular Ltd.,Andhra Pradesh,10
+95,430,439,Reliance Communcation Ltd.(GSM),Tamilnadu incl. Chennai,10
+95,440,449,Idea Cellular Ltd.,Kerala,10
+95,450,459,Vodafone Essar Cellular Ltd.,Maharashtra,10
+95,460,469,Bharti Airtel Limited,Bihar,10
+95,470,479,Bharti Airtel Limited,West Bengal,10
+95,480,489,Reliance Communcation Ltd.(GSM),Uttar Pradesh(W),10
+95,490,499,Vodafone Essar Digilink Ltd.,Rajasthan,10
+95,500,509,Bharti Airtel Limited,Andhra Pradesh,10
+95,510,519,Aircel Cellular Limited,Chennai,10
+95,520,529,Idea Cellular Ltd.,Maharashtra,10
+95,530,539,Idea Cellular Ltd.,Andhra Pradesh,10
+95,540,549,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+95,550,559,Reliance Communcation Ltd.(GSM),Delhi,10
+95,560,569,Bharti Airtel Limited,Orissa,10
+95,570,579,Bharti Airtel Limited,Uttar Pradesh(W),10
+95,580,589,Bharti Airtel Limited,Gujarat,10
+95,590,599,Bharti Airtel Limited,Uttar Pradesh(E),10
+95,600,609,Bharti Airtel Limited,Delhi,10
+95,610,619,Bharti Airtel Limited,Maharashtra,10
+95,620,629,Idea Cellular Ltd.,Kerala,10
+95,630,639,Dishnet Wireless Ltd.,West Bengal,10
+95,640,649,Vodafone Essar South Ltd.,West Bengal,10
+95,650,659,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+95,660,669,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+95,670,679,Bharti Airtel Limited,Kerala,10
+95,680,689,Idea Cellular Ltd.,Uttar Pradesh(W),10
+95,690,699,Reliance Communcation Ltd.(GSM),Punjab,10
+95,700,709,Vodafone Essar Spacetel Ltd.,Bihar,10
+95,710,719,Bharti Hexacom Ltd.,Rajasthan,10
+95,720,729,Bharti Airtel Limited,Bihar,10
+95,730,739,Bharti Airtel Limited,Andhra Pradesh,10
+95,740,749,Idea Cellular Ltd.,Gujarat,10
+95,750,759,Idea Cellular Ltd.,Madhya Pradesh,10
+95,760,769,Aditya Birla Telecom Ltd.,Bihar,10
+95,770,779,Dishnet Wireless Ltd.,Assam,10
+95,780,789,Aircel Ltd.,Tamilnadu,10
+95,790,799,Reliance Communcation Ltd.(GSM),Maharashtra,10
+95,800,809,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+95,810,819,Vodafone Essar South Ltd.,Andhra Pradesh,10
+95,820,829,Vodafone Essar Mobile Services Ltd.,Delhi,10
+95,830,839,Vodafone Essar Spacetel Ltd.,Orissa,10
+95,840,849,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,10
+95,850,859,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+95,860,869,Vodafone Essar Gujarat Ltd.,Gujarat,10
+95,870,879,Vodafone Essar Digilink Ltd.,Rajasthan,10
+95,880,889,Etisalat DB Telecom Pvt. Ltd.,Mumbai,10
+95,890,899,Bharti Airtel Limited,Madhya Pradesh,10
+95,900,909,Reliance Communcation Ltd.(GSM),Karnataka,10
+95,910,919,Bharti Airtel Limited,Karnataka,10
+95,920,929,Spice Communications Ltd.,Punjab,10
+95,930,939,Vodafone Essar South Ltd.,West Bengal,10
+95,940,949,Idea Cellular Ltd.,Mumbai,10
+95,950,959,Reliance Communcation Ltd.(GSM),Maharashtra,10
+95,960,969,Bharti Airtel Limited,J & K,10
+95,970,979,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+95,980,989,Idea Cellular Ltd.,Uttar Pradesh(E),10
+95,990,999,Etisalat DB Telecom Pvt. Ltd.,Delhi,10
+96,000,009,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+96,010,019,Bharti Airtel Limited,Gujarat,10
+96,020,029,Bharti Hexacom Ltd.,Rajasthan,10
+96,030,039,Idea Cellular Ltd.,Andhra Pradesh,10
+96,040,049,Idea Cellular Ltd.,Maharashtra,10
+96,050,059,Idea Cellular Ltd.,Kerala,10
+96,060,069,Reliance Telecommunication Ltd.(CDMA),North East India,10
+96,070,079,Reliance Telecommunication Ltd.(CDMA),Assam,10
+96,080,089,Reliance Telecommunication Ltd.(GSM),Bihar,10
+96,090,099,Vodafone Essar South Ltd.,West Bengal,10
+96,100,109,Vodafone Essar Digilink Ltd.,Rajasthan,10
+96,110,119,Bharti Airtel Limited,Karnataka,10
+96,120,129,Bharti Hexacom Ltd.,North East India,10
+96,130,139,Dishnet Wireless Ltd.,Assam,10
+96,140,149,Dishnet Wireless Ltd.,West Bengal,10
+96,150,159,Dishnet Wireless Ltd.,North East India,10
+96,160,169,Idea Cellular Ltd.,Uttar Pradesh(E),10
+96,170,179,Idea Cellular Ltd.,Madhya Pradesh,10
+96,180,189,Bharti Airtel Limited,Andhra Pradesh,10
+96,190,199,Vodafone Essar Ltd.,Mumbai,10
+96,200,209,Vodafone Essar South Ltd.,Karnataka,10
+96,210,219,Bharti Airtel Limited,Uttar Pradesh(E),10
+96,220,229,Bharti Airtel Limited,J & K,10
+96,230,239,Idea Cellular Ltd.,Maharashtra,10
+96,240,249,Idea Cellular Ltd.,Gujarat,10
+96,250,259,Reliance Telecommunication Ltd.(GSM),Himachal Pradesh,10
+96,260,269,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+96,270,279,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+96,280,289,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+96,290,299,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+96,300,309,Bharti Airtel Limited,Madhya Pradesh,10
+96,310,319,Bharti Airtel Limited,Bihar,10
+96,320,329,Bharti Airtel Limited,Karnataka,10
+96,330,339,Bharti Airtel Limited,Kerala,10
+96,340,349,Bharti Airtel Limited,Uttar Pradesh(W),10
+96,350,359,Bharti Airtel Limited,West Bengal,10
+96,360,369,Bharti Hexacom Ltd.,Rajasthan,10
+96,370,379,Vodafone Essar Cellular Ltd.,Maharashtra,10
+96,380,389,Vodafone Essar Gujarat Ltd.,Gujarat,10
+96,390,399,Idea Cellular Ltd.,Uttar Pradesh(W),10
+96,400,409,Idea Cellular Ltd.,Andhra Pradesh,10
+96,410,419,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+96,420,429,Vodafone Essar South Ltd.,Andhra Pradesh,10
+96,450,459,Vodafone Essar Cellular Ltd.,Kerala,10
+96,460,469,Vodafone Essar South Ltd.,Punjab,10
+96,470,479,Vodafone Essar South Ltd.,West Bengal,10
+96,480,489,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+96,490,499,Vodafone Essar Digilink Ltd.,Rajasthan,10
+96,500,509,Bharti Airtel Limited,Delhi,10
+96,510,519,Bharti Airtel Limited,Uttar Pradesh(E),10
+96,520,529,Bharti Airtel Limited,Andhra Pradesh,10
+96,530,539,Quadrant televentures Ltd,Punjab,10
+96,540,549,Vodafone Essar Mobile Services Ltd.,Delhi,10
+96,550,559,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+96,560,569,Idea Cellular Ltd.,Kerala,10
+96,570,579,Idea Cellular Ltd.,Maharashtra,10
+96,580,589,Dishnet Wireless Ltd.,Orissa,10
+96,590,599,Aircel Ltd.,Tamilnadu,10
+96,600,609,Bharti Hexacom Ltd.,Rajasthan,10
+96,610,619,Bharti Airtel Limited,Bihar,10
+96,620,629,Bharti Airtel Limited,Gujarat,10
+96,630,639,Bharti Airtel Limited,Karnataka,10
+96,640,649,Loop Mobile (India) Ltd.,Mumbai,10
+96,650,659,Bharti Airtel Limited,Maharashtra,10
+96,660,669,Idea Cellular Ltd.,Andhra Pradesh,10
+96,670,679,Sistema Shyam TeleServices Ltd.(CDMA),Rajasthan,10
+96,680,689,Bharti Airtel Limited,Orissa,10
+96,690,699,Idea Cellular Ltd.,Madhya Pradesh,10
+96,700,709,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+96,710,719,Vodafone Essar Digilink Ltd.,Haryana,10
+96,720,729,Vodafone Essar Digilink Ltd.,Rajasthan,10
+96,730,739,Vodafone Essar Cellular Ltd.,Maharashtra,10
+96,740,749,Vodafone Essar East Ltd.,Kolkata,10
+96,750,759,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+96,760,769,Bharti Airtel Limited,Andhra Pradesh,10
+96,770,779,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+96,780,789,Bharti Airtel Limited,Assam,10
+96,790,799,Bharti Airtel Limited,West Bengal,10
+96,800,809,Bharti Hexacom Ltd.,Rajasthan,10
+96,810,819,Reliance Telecommunication Ltd.(GSM),Kolkata,10
+96,820,829,BSNL,Uttar Pradesh(W),10
+96,830,839,BSNL,Haryana,10
+96,840,849,BSNl,Maharashtra,10
+96,850,859,Bharti Airtel Limited,Madhya Pradesh,10
+96,860,869,Bharti Airtel Limited,Karnataka,10
+96,870,879,Vodafone Essar Gujarat Ltd.,Gujarat,10
+96,880,889,Aircel Ltd.,Tamilnadu,10
+96,890,899,Idea Cellular Ltd.,Maharashtra,10
+96,900,909,Idea Cellular Ltd.,Uttar Pradesh(W),10
+96,910,919,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+96,920,929,Reliance Telecommunication Ltd.(GSM),Orissa,10
+96,930,939,Reliance Telecommunication Ltd.(GSM),Bihar,10
+96,940,949,Idea Cellular Ltd.,Rajasthan,10
+96,950,959,Bharti Airtel Limited,Uttar Pradesh(E),10
+96,960,969,Reliance Communcation Ltd.(GSM),Uttar Pradesh(E),10
+96,970,979,Dishnet Wireless Ltd.,J & K,10
+96,980,989,Aircel Ltd.,Tamilnadu,10
+96,990,999,Reliance Communcation Ltd.(GSM),Mumbai,10
+97,000,009,Aircel Ltd.,Andhra Pradesh,10
+97,010,019,Bharti Airtel Limited,Andhra Pradesh,10
+97,020,029,Idea Cellular Ltd.,Mumbai,10
+97,030,039,Vodafone Essar South Ltd.,Andhra Pradesh,10
+97,040,049,Bharti Airtel Limited,Andhra Pradesh,10
+97,050,059,Idea Cellular Ltd.,Andhra Pradesh,10
+97,060,069,Vodafone Essar Spacetel Ltd.,Assam,10
+97,070,079,Reliance Telecommunication Ltd.(GSM),Assam,10
+97,080,089,Aditya Birla Telecom Ltd.,Bihar,10
+97,090,099,Vodafone Essar Spacetel Ltd.,Bihar,10
+97,100,109,Aircel Cellular Limited,Chennai,10
+97,110,119,Vodafone Essar Mobile Services Ltd.,Delhi,10
+97,120,129,Vodafone Essar Gujarat Ltd.,Gujarat,10
+97,130,139,Vodafone Essar Spacetel Ltd.,Madhya Pradesh,10
+97,140,149,Idea Cellular Ltd.,Gujarat,10
+97,150,159,Aircel Ltd.,Tamilnadu,10
+97,160,169,Aircel Ltd.,Delhi,10
+97,170,179,Bharti Airtel Limited,Delhi,10
+97,180,189,Idea Cellular Ltd.,Delhi,10
+97,190,199,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+97,200,209,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+97,210,219,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+97,220,229,Aircel Ltd.,Gujarat,10
+97,230,239,Idea Cellular Ltd.,Gujarat,10
+97,240,249,Bharti Airtel Limited,Gujarat,10
+97,250,259,Bharti Airtel Limited,Gujarat,10
+97,260,269,Vodafone Essar Gujarat Ltd.,Gujarat,10
+97,270,279,Vodafone Essar Gujarat Ltd.,Gujarat,10
+97,280,289,Idea Cellular Ltd.,Haryana,10
+97,290,299,Bharti Airtel Limited,Haryana,10
+97,300,309,Bharti Airtel Limited,Maharashtra,10
+97,310,319,Bharti Airtel Limited,Karnataka,10
+97,320,329,Vodafone Essar South Ltd.,West Bengal,10
+97,330,339,Vodafone Essar South Ltd.,West Bengal,10
+97,340,349,Vodafone Essar South Ltd.,West Bengal,10
+97,350,359,Vodafone Essar South Ltd.,West Bengal,10
+97,360,369,Vodafone Essar Spacetel Ltd.,Himachal Pradesh,10
+97,370,379,Idea Cellular Ltd.,Gujarat,10
+97,380,389,Aircel Ltd.,Karnataka,10
+97,390,399,Vodafone Essar South Ltd.,Karnataka,10
+97,400,409,Bharti Airtel Limited,Karnataka,10
+97,410,419,Bharti Airtel Limited,Karnataka,10
+97,420,429,Vodafone Essar South Ltd.,Karnataka,10
+97,430,439,Spice Communications Ltd.,Karnataka,10
+97,440,449,Idea Cellular Ltd.,Kerala,10
+97,450,459,Vodafone Essar Cellular Ltd.,Kerala,10
+97,460,469,Bharti Airtel Limited,Kerala,10
+97,470,479,Idea Cellular Ltd.,Kerala,10
+97,480,489,Bharti Airtel Limited,Kolkata,10
+97,490,499,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+97,500,509,Aircel Ltd.,Tamilnadu,10
+97,510,519,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+97,520,529,Bharti Airtel Limited,Madhya Pradesh,10
+97,530,539,Idea Cellular Ltd.,Madhya Pradesh,10
+97,540,549,Idea Cellular Ltd.,Madhya Pradesh,10
+97,550,559,Bharti Airtel Limited,Madhya Pradesh,10
+97,560,569,Idea Cellular Ltd.,Uttar Pradesh(W),10
+97,570,579,MTNL,Mumbai,10
+97,580,589,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+97,590,599,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+97,600,609,Bharti Airtel Limited,Uttar Pradesh(W),10
+97,610,619,Vodafone Essar South Ltd.,Uttar Pradesh(W),10
+97,620,629,Aircel Ltd.,Maharashtra,10
+97,630,639,Idea Cellular Ltd.,Maharashtra,10
+97,640,649,Vodafone Essar Cellular Ltd.,Maharashtra,10
+97,650,659,Vodafone Essar Cellular Ltd.,Maharashtra,10
+97,660,669,Bharti Airtel Limited,Maharashtra,10
+97,670,679,Idea Cellular Ltd.,Maharashtra,10
+97,680,689,Aircel Ltd.,Mumbai,10
+97,690,699,Vodafone Essar Ltd.,Mumbai,10
+97,700,709,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+97,710,719,Bharti Airtel Limited,Bihar,10
+97,720,729,Vodafone Essar Digilink Ltd.,Rajasthan,10
+97,730,739,Loop Mobile (India) Ltd.,Mumbai,10
+97,740,749,Vodafone Essar Spacetel Ltd.,North East India,10
+97,750,759,Vodafone Essar South Ltd.,West Bengal,10
+97,760,769,Vodafone Essar Spacetel Ltd.,Orissa,10
+97,770,779,Bharti Airtel Limited,Orissa,10
+97,780,789,Reliance Telecommunication Ltd.(GSM),Orissa,10
+97,790,799,Bharti Airtel Limited,Punjab,10
+97,800,809,Vodafone Essar South Ltd.,Punjab,10
+97,810,819,Spice Communications Ltd.,Punjab,10
+97,820,829,Aircel Ltd.,Rajasthan,10
+97,830,839,Vodafone Essar Digilink Ltd.,Rajasthan,10
+97,840,849,Bharti Hexacom Ltd.,Rajasthan,10
+97,850,859,Idea Cellular Ltd.,Rajasthan,10
+97,860,869,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+97,870,879,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+97,880,889,Aircel Ltd.,Tamilnadu,10
+97,890,899,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+97,900,909,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+97,910,919,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+97,920,929,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+97,930,939,Bharti Airtel Limited,Uttar Pradesh(E),10
+97,940,949,Bharti Airtel Limited,Uttar Pradesh(E),10
+97,950,959,Idea Cellular Ltd.,Uttar Pradesh(E),10
+97,960,969,Vodafone Essar Spacetel Ltd.,J & K,10
+97,970,979,Bharti Airtel Limited,J & K,10
+97,980,989,Reliance Telecommunication Ltd.(GSM),Bihar,10
+97,990,999,Bharti Hexacom Ltd.,Rajasthan,10
+98,000,009,Bharti Airtel Limited,West Bengal,10
+98,010,019,Bharti Airtel Limited,Bihar,10
+98,020,029,Dishnet Wireless Ltd.,Haryana,10
+98,030,039,Dishnet Wireless Ltd.,Punjab,10
+98,040,049,Dishnet Wireless Ltd.,Kolkata,10
+98,050,059,Bharti Airtel Limited,Himachal Pradesh,10
+98,060,069,Dishnet Wireless Ltd.,Madhya Pradesh,10
+98,070,079,Dishnet Wireless Ltd.,Uttar Pradesh(E),10
+98,080,089,Dishnet Wireless Ltd.,Uttar Pradesh(W),10
+98,090,099,Dishnet Wireless Ltd.,Kerala,10
+98,100,109,Bharti Airtel Limited,Delhi,10
+98,110,119,Vodafone Essar Mobile Services Ltd.,Delhi,10
+98,120,129,Idea Cellular Ltd.,Haryana,10
+98,130,139,Vodafone Essar Digilink Ltd.,Haryana,10
+98,140,149,Spice Communications Ltd.,Punjab,10
+98,150,159,Bharti Airtel Limited,Punjab,10
+98,160,169,Bharti Airtel Limited,Himachal Pradesh,10
+98,170,179,Reliance Telecommunication Ltd.(GSM),Himachal Pradesh,10
+98,180,189,Bharti Airtel Limited,Delhi,10
+98,190,199,Vodafone Essar Ltd.,Mumbai,10
+98,200,209,Vodafone Essar Ltd.,Mumbai,10
+98,210,219,Loop Mobile (India) Ltd.,Mumbai,10
+98,220,229,Idea Cellular Ltd.,Maharashtra,10
+98,230,239,Vodafone Essar Cellular Ltd.,Maharashtra,10
+98,240,249,Idea Cellular Ltd.,Gujarat,10
+98,250,259,Vodafone Essar Gujarat Ltd.,Gujarat,10
+98,260,269,Idea Cellular Ltd.,Madhya Pradesh,10
+98,270,279,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+98,280,289,Vodafone Essar Digilink Ltd.,Rajasthan,10
+98,290,299,Bharti Hexacom Ltd.,Rajasthan,10
+98,300,309,Vodafone Essar East Ltd.,Kolkata,10
+98,310,319,Bharti Airtel Limited,Kolkata,10
+98,320,329,Reliance Telecommunication Ltd.(GSM),West Bengal,10
+98,330,339,Vodafone Essar Ltd.,Mumbai,10
+98,350,359,Reliance Telecommunication Ltd.(GSM),Bihar,10
+98,360,369,Vodafone Essar East Ltd.,Kolkata,10
+98,370,379,Idea Cellular Ltd.,Uttar Pradesh(W),10
+98,380,389,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+98,390,399,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+98,400,409,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+98,410,419,Aircel Cellular Limited,Chennai,10
+98,420,429,Aircel Ltd.,Tamilnadu,10
+98,430,439,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+98,440,449,Spice Communications Ltd.,Karnataka,10
+98,450,459,Bharti Airtel Limited,Karnataka,10
+98,460,469,Vodafone Essar Cellular Ltd.,Kerala,10
+98,470,479,Idea Cellular Ltd.,Kerala,10
+98,480,489,Idea Cellular Ltd.,Andhra Pradesh,10
+98,490,499,Bharti Airtel Limited,Andhra Pradesh,10
+98,500,509,Idea Cellular Ltd.,Maharashtra,10
+98,510,519,Dishnet Wireless Ltd.,West Bengal,10
+98,520,529,Dishnet Wireless Ltd.,Bihar,10
+98,530,539,Dishnet Wireless Ltd.,Orissa,10
+98,540,549,Dishnet Wireless Ltd.,Assam,10
+98,550,559,Spice Communications Ltd.,Punjab,10
+98,560,569,Dishnet Wireless Ltd.,North East India,10
+98,570,579,Dishnet Wireless Ltd.,Himachal Pradesh,10
+98,580,589,Dishnet Wireless Ltd.,J & K,10
+98,590,599,Dishnet Wireless Ltd.,Assam,10
+98,600,609,Bharti Airtel Limited,Maharashtra,10
+98,610,619,Reliance Telecommunication Ltd.(GSM),Orissa,10
+98,620,629,Bharti Hexacom Ltd.,North East India,10
+98,630,639,Reliance Telecommunication Ltd.(GSM),North East India,10
+98,640,649,Reliance Telecommunication Ltd.(GSM),Assam,10
+98,650,659,Aircel Ltd.,Tamilnadu,10
+98,660,669,Bharti Airtel Limited,Andhra Pradesh,10
+98,670,679,Bharti Airtel Limited,Mumbai,10
+98,680,689,MTNL,Delhi,10
+98,690,699,MTNL,Mumbai,10
+98,700,709,Loop Mobile (India) Ltd.,Mumbai,10
+98,710,719,Bharti Airtel Limited,Delhi,10
+98,720,729,Bharti Airtel Limited,Punjab,10
+98,730,739,Vodafone Essar Mobile Services Ltd.,Delhi,10
+98,740,749,Vodafone Essar East Ltd.,Kolkata,10
+98,750,759,Sistema Shyam TeleServices Ltd.(CDMA),Rajasthan,10
+98,760,769,Bharti Airtel Limited,Punjab,10
+98,770,779,Quadrant televentures Ltd,Punjab,10
+98,780,789,Bharti Airtel Limited,Punjab,10
+98,790,799,Vodafone Essar Gujarat Ltd.,Gujarat,10
+98,800,809,Bharti Airtel Limited,Karnataka,10
+98,810,819,Idea Cellular Ltd.,Maharashtra,10
+98,820,829,Idea Cellular Ltd.,Himachal Pradesh,10
+98,830,839,Reliance Telecommunication Ltd.(GSM),Kolkata,10
+98,840,849,Vodafone Essar South Ltd.,Chennai,10
+98,850,859,Vodafone Essar South Ltd.,Andhra Pradesh,10
+98,860,869,Vodafone Essar South Ltd.,Karnataka,10
+98,870,879,Idea Cellular Ltd.,Rajasthan,10
+98,880,889,Vodafone Essar South Ltd.,Punjab,10
+98,890,899,Idea Cellular Ltd.,Uttar Pradesh(E),10
+98,900,909,Bharti Airtel Limited,Maharashtra,10
+98,910,919,Idea Cellular Ltd.,Delhi,10
+98,920,929,Bharti Airtel Limited,Mumbai,10
+98,930,939,Bharti Airtel Limited,Madhya Pradesh,10
+98,940,949,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+98,950,959,Bharti Airtel Limited,Kerala,10
+98,960,969,Bharti Airtel Limited,Haryana,10
+98,970,979,Bharti Airtel Limited,Uttar Pradesh(W),10
+98,980,989,Bharti Airtel Limited,Gujarat,10
+98,990,999,Vodafone Essar Mobile Services Ltd.,Delhi,10
+99,000,009,Bharti Airtel Limited,Karnataka,10
+99,010,019,Bharti Airtel Limited,Karnataka,10
+99,020,029,Bharti Airtel Limited,Karnataka,10
+99,030,039,Bharti Airtel Limited,Kolkata,10
+99,040,049,Idea Cellular Ltd.,Gujarat,10
+99,050,059,Reliance Telecommunication Ltd.(GSM),Bihar,10
+99,060,069,Bharti Airtel Limited,J & K,10
+99,070,079,Reliance Telecommunication Ltd.(GSM),Madhya Pradesh,10
+99,080,089,Bharti Airtel Limited,Andhra Pradesh,10
+99,090,099,Vodafone Essar Gujarat Ltd.,Gujarat,10
+99,100,109,Bharti Airtel Limited,Delhi,10
+99,110,119,Idea Cellular Ltd.,Delhi,10
+99,120,129,Idea Cellular Ltd.,Andhra Pradesh,10
+99,130,139,Vodafone Essar Gujarat Ltd.,Gujarat,10
+99,140,149,Spice Communications Ltd.,Punjab,10
+99,150,159,Bharti Airtel Limited,Punjab,10
+99,160,169,Vodafone Essar South Ltd.,Karnataka,10
+99,170,179,Idea Cellular Ltd.,Uttar Pradesh(W),10
+99,180,189,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+99,190,199,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+99,200,209,Vodafone Essar Ltd.,Mumbai,10
+99,210,219,Idea Cellular Ltd.,Maharashtra,10
+99,220,229,Idea Cellular Ltd.,Maharashtra,10
+99,230,239,Vodafone Essar Cellular Ltd.,Maharashtra,10
+99,240,249,Idea Cellular Ltd.,Gujarat,10
+99,250,259,Vodafone Essar Gujarat Ltd.,Gujarat,10
+99,260,269,Idea Cellular Ltd.,Madhya Pradesh,10
+99,270,279,Idea Cellular Ltd.,Uttar Pradesh(W),10
+99,280,289,Bharti Hexacom Ltd.,Rajasthan,10
+99,290,299,Bharti Hexacom Ltd.,Rajasthan,10
+99,300,309,Vodafone Essar Ltd.,Mumbai,10
+99,310,319,Bharti Airtel Limited,Bihar,10
+99,320,329,Bharti Airtel Limited,West Bengal,10
+99,330,339,Bharti Airtel Limited,West Bengal,10
+99,340,349,Bharti Airtel Limited,Bihar,10
+99,350,359,Bharti Airtel Limited,Uttar Pradesh(E),10
+99,360,369,Bharti Airtel Limited,Uttar Pradesh(E),10
+99,370,379,Bharti Airtel Limited,Orissa,10
+99,380,389,Bharti Airtel Limited,Orissa,10
+99,390,399,Bharti Airtel Limited,Bihar,10
+99,400,409,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+99,410,419,Aircel Cellular Limited,Chennai,10
+99,420,429,Aircel Ltd.,Tamilnadu,10
+99,430,439,Vodafone Essar Cellular Ltd.,Tamilnadu,10
+99,440,449,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+99,450,459,Bharti Airtel Limited,Karnataka,10
+99,460,469,Vodafone Essar Cellular Ltd.,Kerala,10
+99,470,479,Idea Cellular Ltd.,Kerala,10
+99,480,489,Idea Cellular Ltd.,Andhra Pradesh,10
+99,490,499,Bharti Airtel Limited,Andhra Pradesh,10
+99,500,509,Bharti Hexacom Ltd.,Rajasthan,10
+99,510,519,Idea Cellular Ltd.,Andhra Pradesh,10
+99,520,529,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+99,530,539,Vodafone Essar Mobile Services Ltd.,Delhi,10
+99,540,549,Bharti Airtel Limited,Assam,10
+99,550,559,Bharti Airtel Limited,Bihar,10
+99,560,569,Bharti Airtel Limited,Uttar Pradesh(E),10
+99,570,579,Bharti Airtel Limited,Assam,10
+99,580,589,Bharti Airtel Limited,Delhi,10
+99,590,599,Bharti Airtel Limited,Andhra Pradesh,10
+99,600,609,Bharti Airtel Limited,Maharashtra,10
+99,610,619,Idea Cellular Ltd.,Kerala,10
+99,620,629,Vodafone Essar South Ltd.,Chennai,10
+99,630,639,Bharti Airtel Limited,Andhra Pradesh,10
+99,640,649,Spice Communications Ltd.,Karnataka,10
+99,650,659,Aircel Ltd.,Tamilnadu,10
+99,660,669,Vodafone Essar South Ltd.,Andhra Pradesh,10
+99,670,679,Bharti Airtel Limited,Mumbai,10
+99,680,689,MTNL,Delhi,10
+99,690,699,MTNL,Mumbai,10
+99,700,709,Bharti Airtel Limited,Maharashtra,10
+99,710,719,Bharti Airtel Limited,Delhi,10
+99,720,729,Bharti Airtel Limited,Karnataka,10
+99,730,739,Bharti Airtel Limited,Bihar,10
+99,740,749,Bharti Airtel Limited,Gujarat,10
+99,750,759,Bharti Airtel Limited,Maharashtra,10
+99,760,769,Aircel Ltd.,Tamilnadu,10
+99,770,779,Idea Cellular Ltd.,Madhya Pradesh,10
+99,780,789,Vodafone Essar Gujarat Ltd.,Gujarat,10
+99,790,799,Vodafone Essar Gujarat Ltd.,Gujarat,10
+99,800,809,Bharti Airtel Limited,Karnataka,10
+99,810,819,Bharti Airtel Limited,Madhya Pradesh,10
+99,820,829,Vodafone Essar Digilink Ltd.,Rajasthan,10
+99,830,839,Vodafone Essar Digilink Ltd.,Rajasthan,10
+99,840,849,Vodafone Essar Digilink Ltd.,Uttar Pradesh(E),10
+99,850,859,Vodafone Essar South Ltd.,Andhra Pradesh,10
+99,860,869,Vodafone Essar South Ltd.,Karnataka,10
+99,870,879,Bharti Airtel Limited,Mumbai,10
+99,880,889,Vodafone Essar South Ltd.,Punjab,10
+99,890,899,Bharti Airtel Limited,Andhra Pradesh,10
+99,900,909,Idea Cellular Ltd.,Delhi,10
+99,910,919,Vodafone Essar Digilink Ltd.,Haryana,10
+99,920,929,Idea Cellular Ltd.,Haryana,10
+99,930,939,Bharti Airtel Limited,Madhya Pradesh,10
+99,940,949,Bharti Airtel Limited,Tamilnadu incl. Chennai,10
+99,950,959,Bharti Airtel Limited,Kerala,10
+99,960,969,Bharti Airtel Limited,Haryana,10
+99,970,979,Bharti Airtel Limited,Uttar Pradesh(W),10
+99,980,989,Bharti Airtel Limited,Gujarat,10
+99,990,999,Vodafone Essar Mobile Services Ltd.,Delhi,10

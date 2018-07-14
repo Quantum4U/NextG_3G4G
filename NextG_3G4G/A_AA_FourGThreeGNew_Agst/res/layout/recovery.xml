@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/darkblue"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/brown"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Password Recovery"
+            android:textColor="@color/deep_white"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:orientation="vertical" >
+            
+              <TextView
+                android:id="@+id/hintquest"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="value" android:textColor="@color/v2_blue" android:layout_marginTop="5dp" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:layout_gravity="center" android:gravity="center"/>
+            
+
+            <EditText
+                android:id="@+id/hintqn"
+                android:layout_width="200dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="50dp"
+              android:maxLength="30"
+                android:hint="     Enter Answer"
+              android:textColor="@color/deep_white"
+              android:textColorHint="@color/deep_white"
+                android:paddingLeft="10dp" android:layout_gravity="center" android:singleLine="true" android:paddingRight="10dp">
+
+                <requestFocus />
+            </EditText>
+
+           
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Please enter your hint answer which you have use during application setup." android:textColor="@color/v2_blue" android:layout_marginTop="5dp" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:layout_gravity="center" android:gravity="center"/>
+
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+               
+                android:text="DONE"
+                android:textColor="@color/black" android:layout_marginTop="25dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

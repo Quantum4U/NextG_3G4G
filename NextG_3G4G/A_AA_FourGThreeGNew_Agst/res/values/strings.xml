@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<string name="pindi_app_name">3G To 4G &amp; Sim Details</string>-->
+    <!--<string name="pindi_app_name">4G Converter &amp; SIM Info Prank</string>-->
+    <string name="pindi_app_name">3G To 4G Switch | Speed Test </string>
+
+
+    <string name="pindi_pindi_phonemodle">Phone Model</string>
+    <string name="pindi_devicemanuf">Device Manufacturer</string>
+    <string name="pindi_phoneresolution">Phone Resolution</string>
+    <string name="pindi_deviceimei">Device IMEI</string>
+    <string name="pindi_androidosname">Android OS Name</string>
+    <string name="pindi_apilevel">API Level</string>
+    <string name="pindi_devicenetworkiso">Device NetworkCountryIso</string>
+    <string name="pindi_deviceip">Device IP</string>
+    <string name="pindi_mobiledata">Mobile Data</string>
+    <string name="pindi_devicemacads">Device MAC Address</string>
+    <string name="pindi_roaming">Roaming</string>
+    <string name="pindi_operatorname">Operator Name</string>
+    <string name="pindi_simnumber">SIM Number</string>
+    <string name="pindi_simcountryiso">SIM CountryIso</string>
+    <string name="pindi_seimoperratorcode">SIM Operator Code</string>
+    <string name="pindi_checkmainblance">Check Main Balance</string>
+    <string name="pindi_checkinternateblc">Check Internet Balance</string>
+    <string name="pindi_bestoffers">Best Offers</string>
+    <string name="pindi_knowyourmob">Know You Mobile Number</string>
+    <string name="pindi_knowyourmobilenumber">Know Your Mobile Number</string>
+    <string name="pindi_ussdare">*Note- USSD are subject to Service Provider It may change time to time by service Provider,We are not responsible its not work for you</string>
+    <string name="pindi_CHANGELANGUAGE">CHANGE LANGUAGE</string>
+    <string name="pindi_RATEAPP">Rate App</string>
+    <string name="pindi_MOREAPP">More App</string>
+    <string name="pindi_FEEDBACK">Feedback</string>
+    <string name="pindi_SHAREAPP">Share App</string>
+    <string name="pindi_UPDATEAPP">Update App</string>
+    <string name="pindi_fourgconveter">4G Switch</string>
+    <string name="pindi_phonedetails">Phone Details</string>
+    <string name="pindi_simdetails">Sim Details</string>
+    <string name="pindi_speedcheck">Speed Check</string>
+    <string name="pindi_converto4g">Switch to 4G</string>
+    <string name="pindi_pleasewait"> Please wait for a moment..</string>
+    <string name="pindi_converto3g">Switch to 3G</string>
+    <string name="pindi_pleaserate">Please Rate the application</string>
+    <string name="pindi_string_picker_dialog_title">Select Language</string>
+    <string name="pindi_string_picker_dialog_ok">OK</string>
+    <string name="pindi_string_picker_dialog_cancel">Cancel</string>
+    <string name="pindi_text_on_lang_change">To Reflect Changes you have to restart App</string>
+    <string name="pindi_checknow">Check Now</string>
+    <string name="pindi_downloadspeed">Download Speed</string>
+    <string name="pindi_uploadspeed">Upload Speed</string>
+    <string name="pindi_ReCheck">ReCheck</string>
+    <string name="pindi_strSDRequirement">Please insert sdcard to check uploading speed</string>
+    <string name="pindi_nonetworkcon">No Network Connection</string>
+    <string name="pindi_checkingspeed">Checking Speed</string>
+    <string name="pindi_doouwantto">Do you want to exit from App?</string>
+    <string name="pindi_NO">No</string>
+    <string name="pindi_Yes">Yes</string>
+    <string name="pindi_ad_unit_firstgoogle">ca-app-pub-3451337100490595/6763572461</string>
+    <string name="pindi_ad_unit_firstsams">ca-app-pub-3451337100490595/3039990465</string>
+    <string name="pindi_ad_unit_firstopera">ca-app-pub-3451337100490595/7609790865</string>
+    <string name="pindi_ad_unit_id2">ca-app-pub-3451337100490595/6133057661</string>
+    <string name="pindi_ad_unit_id">ca-app-pub-3451337100490595/4656324469</string>
+    <string name="pindi_ad_unit_id_int">ca-app-pub-3451337100490595/4516723661</string>
+    <string name="menu_lang">CHANGE LANGUAGE</string>
+    <string name="menu_moreapp">MORE APP</string>
+    <string name="menu_exit_app">EXIT APP</string>
+    <string name="menu_rateus">RATE APP</string>
+    <string name="menu_feedback">FEEDBACK</string>
+    <string name="menu_share">SHARE APP</string>
+    <string name="menu_removeads">REMOVE ADS</string>
+
+    <string-array name="root_array">
+        <item>Phone Model:</item>
+        <item>Demo Ads</item>
+        <item>Device Manufacturer:</item>
+        <item>Phone Resolution:</item>
+        <item>Device IMEI:</item>
+        <item>Android OS Name:</item>
+        <item>API Level:</item>
+        <item>Device Network Country ISO:</item>
+    </string-array>
+    <string-array name="static_array">
+        <item>Operator Name:</item>
+        <item>SIM Number:</item>
+        <item>SIM CountryISO:</item>
+        <item>SIM Operator Code:</item>
+    </string-array>
+
+    <string name="mainbalance">Main Balance</string>
+    <string name="intAndBal">Internet \n Balance</string>
+    <string name="bestOffers">Best Offers</string>
+    <string name="mobNumber">Tap here to check your Mobile Number</string>
+    <string name="simDetails">Sim Details</string>
+    <string name="downloadSpeed">Download Speed</string>
+    <string name="UploadSpeed">Upload Speed</string>
+    <string name="advantage">Advantages</string>
+
+    <string name="upgrade_firstmsg">No ADS</string>
+
+    <string name="upgrade_secondmsg">All futures upgrades free</string>
+
+    <string name="upgrade_thirdmsg">No monthly charges</string>
+
+    <string name="upgrade_fourthmsg">No recurring,lifetime payment once</string>
+
+    <string name="upgrade_name">Upgrade To Premium</string>
+
+    <string name="upgrade_now">Upgrade Now</string>
+
+    <string name="forAlert">Want to exit from app?</string>
+    <string name="forOption">Exit</string>
+    <string name="forMoreOption">More Apps</string>
+
+    <string name="internetConnetion">Internet Connection Required !</string>
+
+    <string name="remove_ads">Upgrade To Premium</string>
+    <string name="titleInLanguage">Select Your Language</string>
+    <string name="rate">Rate</string>
+    <string name="freeapp">Get Free Apps</string>
+    <string name="share">Share</string>
+    <string name="fedback">Feedback</string>
+    <string name="aboutus">About Us</string>
+
+</resources>

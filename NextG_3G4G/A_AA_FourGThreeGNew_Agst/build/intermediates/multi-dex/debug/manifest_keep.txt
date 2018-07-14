@@ -1,0 +1,3 @@
+# Referenced at /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/manifests/full/debug/AndroidManifest.xml:47
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

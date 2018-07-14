@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/bg_version"
+
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetStartWithNavigation="0dp"></android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/adsholder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:visibility="visible">
+
+        <LinearLayout
+            android:id="@+id/adsbanner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"></LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/adsholder"
+        android:layout_below="@+id/toolbar">
+
+
+        <RelativeLayout
+            android:id="@+id/imageLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Tap to view your photo"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchPhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/audioLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageLayout"
+            android:orientation="horizontal"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Tap to view your music"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchMusic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/videoLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/audioLayout"
+            android:orientation="horizontal"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Tap to view your video"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchVideo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/apkLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/videoLayout"
+            android:orientation="horizontal"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Tap to view your app"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchAPK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/imcomingLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/apkLayout"
+            android:orientation="horizontal"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/text44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Show incoming caller details"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchIncoming"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/outgoingLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imcomingLayout"
+            android:orientation="horizontal"
+            android:padding="6dp">
+
+            <TextView
+                android:id="@+id/text55"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Show outgoing caller details"
+                android:textColor="@android:color/black" />
+
+            <Switch
+                android:id="@+id/switchOutGoing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:checked="true" />
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/tvLine"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/outgoingLayout"
+            android:background="@android:color/white"
+            android:padding="6dp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+
+        <RelativeLayout
+            android:id="@+id/layoutCallID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvLine"
+            android:orientation="horizontal"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/listViewClickUpdate"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Caller ID"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/text56"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Manage Caller Id Settings"
+                    android:textColor="@android:color/white" />
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/listViewClickUpdate"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:background="@drawable/rounded_curners"
+                android:clickable="false"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="Manage"
+                android:textColor="@color/white"
+                android:textSize="10dp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

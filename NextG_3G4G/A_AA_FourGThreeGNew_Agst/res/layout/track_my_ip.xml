@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/deep_white">
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        
+
+       
+       
+        <LinearLayout
+            android:id="@+id/LinearLayout_app"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/LinearLayout_cp"
+            android:layout_below="@+id/LinearLayout_top"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/version_ic_icon" >
+
+                <TextView
+                    android:id="@+id/txtViewForTrackMyIP"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="30dip"
+                    android:background="@drawable/version_ic_icon"
+                    android:gravity="center"
+                    android:text="Track My IP"
+                    android:textColor="@color/deep_white"
+                    android:textSize="20dip" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/txtViewForTrackMyIP"
+                    android:layout_marginBottom="30dip"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/txtViewForPrivateIPLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dip"
+                        android:text="Private IP"
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtViewForPrivateIP"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/linearLayout1"
+                    android:layout_marginBottom="30dip"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/txtViewForPublicIPLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dip"
+                        android:text="Public IP"
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtViewForPublicIP"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/linearLayout2"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/txtViewForMACAddressLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dip"
+                        android:text="My MAC Address is : "
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtViewForMACAddress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/black"
+                        android:textSize="20dip"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </RelativeLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

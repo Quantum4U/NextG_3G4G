@@ -1,0 +1,865 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ae16a7b81a7a417967ac7c6b9db9fb93/AndroidManifest.xml:17:1-22:12
+MERGED from [:library] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:lib_progress] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/lib_progress/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-8:12
+MERGED from [:AppNextEngine] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/AppNextEngine/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:16:1-34:12
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/94ba8b9c99ba38786567c853650c3f11/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.ads.mediation:facebook:4.26.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/facebook-4.26.0.0.aar/5b3b63f75a7d4b3cd7a4ada144bd5850/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:17:1-28:12
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:2:1-41:12
+MERGED from [:SOMAAndroid-7.2.1-release:] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/SOMAAndroid-7.2.1-release.aar/1a88368d668155da72389258ac94d89d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/4274b018eea5717de298dcc1c0327005/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/4a16e33d3c5b61924027e179bff933b8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12
+	package
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:multidex:1.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ae16a7b81a7a417967ac7c6b9db9fb93/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ae16a7b81a7a417967ac7c6b9db9fb93/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:17:5-42
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/94ba8b9c99ba38786567c853650c3f11/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/94ba8b9c99ba38786567c853650c3f11/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.ads.mediation:facebook:4.26.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/facebook-4.26.0.0.aar/5b3b63f75a7d4b3cd7a4ada144bd5850/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.ads.mediation:facebook:4.26.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/facebook-4.26.0.0.aar/5b3b63f75a7d4b3cd7a4ada144bd5850/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:20:5-44
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:7:5-9:41
+MERGED from [:SOMAAndroid-7.2.1-release:] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/SOMAAndroid-7.2.1-release.aar/1a88368d668155da72389258ac94d89d/AndroidManifest.xml:8:5-11:329
+MERGED from [:SOMAAndroid-7.2.1-release:] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/SOMAAndroid-7.2.1-release.aar/1a88368d668155da72389258ac94d89d/AndroidManifest.xml:8:5-11:329
+MERGED from [com.android.volley:volley:1.1.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/4274b018eea5717de298dcc1c0327005/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/4274b018eea5717de298dcc1c0327005/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/4a16e33d3c5b61924027e179bff933b8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/4a16e33d3c5b61924027e179bff933b8/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:9:9-35
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:21:5-78
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:19:5-78
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:13:5-79
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:12:22-76
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:13:5-117
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:13:22-114
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:17:5-67
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:20:5-66
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:20:5-66
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:11:5-67
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:18:5-21:23
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:12:5-76
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:12:5-76
+	android:maxSdkVersion
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:20:9-35
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:19:9-60
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:28:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:30:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:32:22-66
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:35:22-64
+application
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:37:5-288:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/AndroidManifest.xml:5:5-20
+MERGED from [:library] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-20
+MERGED from [:library] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-20
+MERGED from [:lib_progress] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/lib_progress/build/intermediates/manifests/full/release/AndroidManifest.xml:6:5-20
+MERGED from [:lib_progress] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/lib_progress/build/intermediates/manifests/full/release/AndroidManifest.xml:6:5-20
+MERGED from [:AppNextEngine] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/AppNextEngine/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-20
+MERGED from [:AppNextEngine] /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/AppNextEngine/build/intermediates/manifests/full/release/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:14:5-18:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:22:5-26:19
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:15:5-39:19
+MERGED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:15:5-39:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:41:9-47
+	tools:overrideLibrary
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:43:9-49
+	android:icon
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:40:9-49
+	android:allowBackup
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:39:9-35
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:42:9-42
+	tools:replace
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:44:9-38
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:38:9-68
+meta-data#com.google.android.gms.version
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:46:9-48:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:47:13-58
+activity#app.pnd.fourg.SplashActivityV3
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:50:9-60:20
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:52:13-51
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:51:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:58:27-74
+activity#app.pnd.fourg.SettingActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:61:9-66
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:61:19-63
+activity#app.pnd.fourg.AppLauncher
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:62:9-68:20
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:64:13-51
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:66:13-69
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:63:13-53
+activity#app.pnd.fourg.HistoryActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:69:9-71:61
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:70:13-57
+activity#app.pnd.fourg.MainActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:72:9-77:83
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:75:13-51
+	android:icon
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:74:13-53
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:77:13-71
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:73:13-54
+activity#version.ux.MajorActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:78:9-81:83
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:81:13-71
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:79:13-52
+activity#app.circular.CircularActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:82:9-85:61
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:84:13-51
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:83:13-57
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:88:9-90:125
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:90:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:89:13-65
+activity#app.adshandler.FullPagePromo
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:93:9-96:71
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:95:13-49
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:96:13-68
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:94:13-56
+service#app.pnd.fourg.MyFirebaseMessagingService
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:107:9-112:19
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:107:18-73
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:108:13-110:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:109:25-75
+service#app.pnd.fourg.MyFirebaseInstanceIDService
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:115:9-119:19
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:115:18-74
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:116:13-118:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:117:17-80
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:117:25-77
+activity#app.pnd.fourg.history.InAppPrompt
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:122:9-124:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:123:13-61
+receiver#callerinfo.PhonecallReceiver
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:127:9-133:20
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:127:19-62
+intent-filter#android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:128:13-131:29
+	android:priority
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:128:28-50
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:129:17-76
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:129:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:130:17-82
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:130:25-79
+activity#callerinfo.CallInfoActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:144:9-147:57
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:147:13-54
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:145:13-55
+activity#version_2.MainActivity_V2
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:149:9-154:58
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:152:13-51
+	android:icon
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:151:13-53
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:154:13-46
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:150:13-53
+activity#version_2.SpeedCheckActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:156:9-158:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:157:13-56
+activity#version_2.SIMDetailsActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:160:9-162:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:162:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:161:13-56
+activity#version_2.PhoneDetailActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:164:9-166:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:166:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:165:13-57
+activity#version_2.CallerActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:168:9-170:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:170:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:169:13-52
+activity#version_2.FourGActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:172:9-174:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:174:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:173:13-51
+activity#version_2.CalerDetailActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:176:9-178:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:178:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:177:13-57
+activity#version_2.UpgradeActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:181:13-53
+activity#app.ui.ANG_AboutActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:203:9-205:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:205:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:204:13-52
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:210:9-216:46
+	android:hardwareAccelerated
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:213:13-47
+	android:resizeableActivity
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:214:13-47
+	tools:ignore
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:216:13-43
+	android:configChanges
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:212:13-115
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:215:13-60
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:211:13-65
+service#com.inmobi.signals.activityrecognition.ActivityRecognitionManager
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:218:9-220:38
+	android:enabled
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:220:13-35
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:219:13-93
+activity#com.smaato.soma.interstitial.InterstitialActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:223:9-226:59
+	android:resizeableActivity
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:226:13-47
+	android:configChanges
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:225:13-74
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:224:13-77
+activity#com.smaato.soma.video.VASTAdActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:227:9-230:59
+	android:resizeableActivity
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:230:13-47
+	android:configChanges
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:229:13-74
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:228:13-64
+activity#com.smaato.soma.ExpandedBannerActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:231:9-234:59
+	android:resizeableActivity
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:234:13-47
+	android:configChanges
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:233:13-74
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:232:13-66
+activity#app.ui.ANG_PrintActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:236:9-238:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:238:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:237:13-52
+receiver#app.fcm.NotificationActionReceiver
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:240:9-244:20
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:240:19-68
+intent-filter#sec_btn
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:241:13-243:29
+action#sec_btn
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:242:17-50
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:242:25-47
+activity#version_2.MapperActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:246:9-255:20
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:247:13-52
+intent-filter#android.intent.category.DEFAULT+appnext4gswitch.MY_CUSTOM_ACTION+com.appnextg.fourg
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:249:13-254:29
+action#appnext4gswitch.MY_CUSTOM_ACTION
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:250:17-75
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:250:25-72
+category#android.intent.category.DEFAULT
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:252:17-76
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:252:27-73
+category#com.appnextg.fourg
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:253:17-63
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:253:27-60
+activity#app.fcm.NotificationTypeFour
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:257:9-261:71
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:259:13-49
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:261:13-68
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:258:13-56
+receiver#app.fcm.InstallReferrerReceiver
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:263:9-270:20
+	android:exported
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:265:13-36
+	android:permission
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:266:13-69
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:264:13-59
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:267:13-269:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:268:17-79
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:268:25-76
+activity#app.adshandler.PromotionActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:272:9-275:71
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:274:13-49
+	android:theme
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:275:13-68
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:273:13-60
+activity#app.inapp.BillingListActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:277:9-279:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:279:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:278:13-57
+activity#app.inapp.BillingDetailActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:281:9-283:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:283:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:282:13-59
+activity#version_2.MoreActivity
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:285:9-287:52
+	android:screenOrientation
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:287:13-49
+	android:name
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:286:13-50
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/AndroidManifest.xml:2:1-290:12 reason: com.astuetz.pagerslidingtabstrip requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/AndroidManifest.xml:32:16-87
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.28.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/AndroidManifest.xml:16:13-68
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/AndroidManifest.xml:23:18-87
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:17-71
+permission#com.appnextg.fourg.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:26:22-76
+uses-permission#com.appnextg.fourg.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:31:13-35:29
+intent-filter#com.appnextg.fourg+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/AndroidManifest.xml:6:79-143
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/AndroidManifest.xml:27:13-51
+activity#com.startapp.android.publish.ads.list3d.List3DActivity
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:16:9-18:52
+	android:theme
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:17:13-82
+activity#com.startapp.android.publish.adsCommon.activities.OverlayActivity
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:19:9-22:64
+	android:configChanges
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:22:13-61
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:20:13-93
+activity#com.startapp.android.publish.adsCommon.activities.FullScreenActivity
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:23:9-26:52
+	android:configChanges
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:25:13-74
+	android:theme
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:24:13-96
+service#com.startapp.android.publish.common.metaData.PeriodicMetaDataService
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:28:9-104
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:28:18-101
+service#com.startapp.android.publish.common.metaData.InfoEventService
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:29:9-97
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:29:18-94
+service#com.startapp.android.publish.common.metaData.PeriodicJobService
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:30:9-32:72
+	android:permission
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:31:13-91
+receiver#com.startapp.android.publish.common.metaData.BootCompleteListener
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:34:9-38:20
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:34:19-99
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:35:13-37:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:36:17-79
+	android:name
+		ADDED from [com.startapp:inapp-sdk:3.7.1] /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/AndroidManifest.xml:36:25-76

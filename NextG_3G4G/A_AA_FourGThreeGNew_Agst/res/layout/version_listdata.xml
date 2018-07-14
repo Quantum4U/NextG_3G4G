@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_version">
+
+
+    <LinearLayout
+        android:id="@+id/nativeads"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="vertical"></LinearLayout>
+
+
+    <TextView
+        android:id="@+id/quant_ad"
+        android:layout_width="40dp"
+        android:layout_height="12dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/yellow"
+        android:gravity="center"
+        android:text="Ad"
+        android:textColor="@android:color/black"
+        android:textSize="10sp"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="62dp"
+        android:orientation="horizontal">
+
+        <app.pnd.fourg.CircleImageView
+            android:id="@+id/iv_phone"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/downloadsy" />
+
+        <TextView
+            android:id="@+id/tv_phone_pre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_phone_post"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/black"
+
+            android:textSize="17sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_phone"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="55dp"
+        android:background="@android:color/darker_gray" />
+
+</RelativeLayout>

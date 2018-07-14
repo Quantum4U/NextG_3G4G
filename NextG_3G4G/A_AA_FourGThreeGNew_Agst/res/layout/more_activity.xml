@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetStartWithNavigation="0dp">
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+<!--            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:id="@+id/layoutRemoveAds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/ivOne"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_pro" />
+
+                    <TextView
+                        android:id="@+id/tvRemoveAds"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivOne"
+                        android:text="@string/remove_ads"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>-->
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:id="@+id/layoutSetting"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivTwo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_setting"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvLang"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivTwo"
+                        android:text="@string/settings"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp">
+
+                <RelativeLayout
+                    android:id="@+id/layoutRate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivFour"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_rate"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvRate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivFour"
+                        android:text="@string/rate"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp">
+
+                <RelativeLayout
+                    android:id="@+id/layoutFreeApp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivFive"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_freeap"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvFreeApp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivFive"
+                        android:text="@string/freeapp"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp">
+
+                <RelativeLayout
+                    android:id="@+id/layoutshare"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivSix"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_share"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvSix"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivSix"
+                        android:text="@string/share"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp">
+
+                <RelativeLayout
+                    android:id="@+id/layoutFeedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivSeven"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_feedback"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvSeven"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivSeven"
+                        android:text="@string/fedback"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:background="@android:color/white"
+                android:padding="3dp"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:id="@+id/layoutAboutUs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white">
+
+                    <ImageView
+                        android:id="@+id/ivThree"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_margin="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/more_aboutus"
+                        android:tint="@color/colorPrimary" />
+
+                    <TextView
+                        android:id="@+id/tvSetting"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/ivThree"
+                        android:text="@string/aboutus"
+                        android:textColor="@android:color/black" />
+
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"></LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/adsbanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"></LinearLayout>
+</RelativeLayout>

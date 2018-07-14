@@ -1,0 +1,88 @@
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/af955e12cdeb138f81754b5dafa261d9/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ae16a7b81a7a417967ac7c6b9db9fb93/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/modules-2/files-2.1/cn.trinea.android.view.autoscrollviewpager/android-auto-scroll-view-pager/1.1.2/8ad9237a8b0965696ea32ca9c1de173e082eaad4/android-auto-scroll-view-pager-1.1.2.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-crash-10.0.1.aar/b769a4188f9c1c368d6b9934a10c4133/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/b3be2a8835c5edbb01c11adec89a2e6d/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.28.2.aar/b67b83313a82eb30a8b6980ed0c5473f/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/94ba8b9c99ba38786567c853650c3f11/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/d694217c1b2661110671c940e08060c6/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-location-10.0.1.aar/ab69e6df1dd3729f258209b1f11278af/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/879054888366cbaba37762eea6b6dcdf/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/548cd272bab9666a1e85ffec739cf619/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/ae92a9502bbcedfd521df77c6b2bef26/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b8a3d075ae3376549ff99908bb7a5357/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/5b20aa0648f7710d93647e243b0e085b/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/3876dd8d92601dbc7a8a60cb53899968/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9f53e0222ba8d45ab5cb51d0a41ff23f/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/0010dc11cb7e6a1a7619ccfbf2717a93/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/004524fcf91abfe19f042edbee7c2ab9/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/f85f06e18925d6815ac6014a434bc979/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/e83d839e7ac8c7ab472cc1aaf82e98f3/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/facebook-4.26.0.0.aar/5b3b63f75a7d4b3cd7a4ada144bd5850/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.2.aar/56f38aeb36b1b5e63aa1bf4280823480/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/inapp-sdk-3.7.1.aar/d39d3ae329659260de330ea5e4409a6e/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/modules-2/files-2.1/com.inmobi.monetization/inmobi-ads/7.0.4/9e50771207c11b127f150362c7cbfb42b113b550/inmobi-ads-7.0.4.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/SOMAAndroid-7.2.1-release.aar/1a88368d668155da72389258ac94d89d/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/SOMAAndroid-7.2.1-release.aar/1a88368d668155da72389258ac94d89d/jars/libs/SMA-moat-mobile-app-kit-2.3.0-.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/a9dc553b5e1bf120222e5ed238c45e16/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/ddfabdd712c8b3351b5234312525d086/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/45a4a6d58d5d40dec741852978450da2/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/265365e03cfcb6b8d6d11a340941c767/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/cd5ca526a2a728a6fd831d69956a6e77/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/08a2cfee2f4bb7f9e187588f93d4ed0f/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/4274b018eea5717de298dcc1c0327005/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/4a16e33d3c5b61924027e179bff933b8/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/8a3120e3cadcd298a38e8b2c8a87ddd1/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/d6243987d890f03821f9f43979ac5418/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d41e9bd9f2e1f7a7eb57c3a76c304e3f/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/dc4347c3ed1c6d706c03595aef6471bb/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/5d239b4f198809b9e23d850ab985a94d/jars/classes.jar(**.class)
+-injars /Users/quantum4u1/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar(**.class)
+-injars /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/lib_progress/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/AppNextEngine/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/classes/debug(**.class)
+-outjars /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/quantum4u1/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/manifests/full/debug/AndroidManifest.xml:47
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

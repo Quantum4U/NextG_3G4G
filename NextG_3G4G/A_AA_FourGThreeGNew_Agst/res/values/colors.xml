@@ -1,0 +1,83 @@
+<resources>
+    <color name="ddcolor">#6c3a3a</color>
+    <color name="blue_bg">#0000ff</color>
+    <color name="roylblue">#4169E1</color>
+
+
+    <color name="red">#7f00</color>
+    <color name="font_color">#138eff</color>
+    <color name="deep_red">#ff0000</color>
+    <color name="color_white">#9fff</color>
+    <color name="deep_white">#FFFFFF</color>
+    <color name="red2">#FF0000</color>
+    <color name="brown">#787878</color>
+    <color name="grey">#5fff</color>
+    <color name="black">#000000</color>
+    <color name="cyan">#9AFEFF</color>
+    <color name="bg">#FFBD82</color>
+    <color name="newblue">#0094d1</color>
+    <color name="newblack">#2e2e2e</color>
+    <color name="ornage">#ca5f46</color>
+    <color name="v2_app_bg">#f0f0f0</color>
+    <color name="v2_blue">#33a0c1</color>
+    <color name="green">#00FF00</color>
+    <color name="black_text">#6b6b6b</color>
+    <color name="solid_green">#f0f0</color>
+    <color name="fullads_color">#606161</color>
+    <color name="dark_grey">#aca3a3</color>
+    <color name="light_grey">#bbbbbb</color>
+    <color name="blue">#2EFE9A</color>
+    <color name="purple">#B93B8F</color>
+    <color name="ptcolor">#c6ff00</color>
+    <color name="greenobutton">#c6ff00</color>
+    <color name="broadcast_green">#c6ff00</color>
+    <color name="notification_header_color">#339fc1</color>
+    <color name="notification_desc_color">#FF3F9FE0</color>
+    <color name="green3">#66ff00</color>
+    <color name="mygreen">#58FA82</color>
+    <color name="darkblue">#000000</color>
+    <color name="darkblue2">#C8FE2E</color>
+    <color name="darkblue3">#0B3B24</color>
+    <color name="darkblue5">#0B061E</color>
+    <color name="darkblue6">#03020A</color>
+
+    <color name="trans">#00000000</color>
+    <color name="select">#0174DF</color>
+    <color name="unselect">#BDBDBD</color>
+    <color name="header">#4C0B5F</color>
+
+    <color name="header1">#FF666666</color>
+    <color name="header2">#FF3F9FE0</color>
+    <color name="header3">#FFC74B46</color>
+    <color name="header4">#FFF4842D</color>
+    <color name="header5">#FF3F9FE0</color>
+    <color name="header6">#FF5161BC</color>
+
+    <color name="greennew">#0066CC</color>
+    <color name="newbottom">#330033</color>
+    <color name="newgreen">#31B404</color>
+
+
+    <!-- new version -->
+
+    <color name="version_cyan">#0CD9DC</color>
+    <color name="version_strip">#50587C</color>
+    <color name="version_background">#DDE3F9</color>
+    <color name="version_meter_bg">#0F1D37</color>
+    <color name="version_header_bg">#0068BE</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="primary_color">#2196f3</color>
+
+    <color name="trasp_caller">#90000000</color>
+    <color name="caller_tint">#4A4E35</color>
+    <color name="caller_tint_text">#68879B</color>
+
+
+    <color name="colorPrimary">#054ff7</color>
+    <color name="colorPrimaryDark">#052e8b</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_version">#ffffff</color>
+    <color name="colororange">#FF7230</color>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "map": [
+                {
+                    "source": "/Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

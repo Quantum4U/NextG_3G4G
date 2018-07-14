@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/promo_bg"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ImageButton
+        android:id="@+id/btn_cross"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:background="@null"
+        android:padding="8dp"
+        android:src="@drawable/ad_cross" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="55dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <ImageView
+            android:id="@+id/app_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textColor="#666666"
+            android:textSize="22sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/dash_line" />
+
+        <TextView
+            android:id="@+id/app_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/ads_text_spacing"
+            android:textColor="#1D1D1D"
+            android:textSize="@dimen/ads_text" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ad_button_bg"
+            android:text="Download Now"
+            android:textColor="@android:color/white" />
+
+        <ImageView
+            android:id="@+id/play_download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:visibility="gone"
+            android:background="@drawable/play_store" />
+
+    </LinearLayout>
+
+</FrameLayout>

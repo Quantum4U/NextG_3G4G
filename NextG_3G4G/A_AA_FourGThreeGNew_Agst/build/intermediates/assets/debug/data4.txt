@@ -1,0 +1,3172 @@
+7000,Jio,Madhya Pradesh,10
+7001,Jio,West Bengal,10
+7002,Jio,Assam,10
+7003,Jio,Kolkata,10
+7004,Jio,Bihar,10
+7005,Jio,North East,10
+7006,Jio,Jammu and Kashmir,10
+7007,Jio,Uttar Pradesh (East),10
+7008,Jio,Odisha,10
+7009,Jio,Punjab,10
+7010,Jio,Tamil Nadu,10
+7011,Jio,New Delhi,10
+7012,Jio,Kerala,10
+7013,Jio,Andhra Pradesh,10
+7014,Jio,Rajasthan,10
+7015,Jio,Haryana,10
+7016,Jio,Gujarat,10
+7017,Jio,Uttar Pradesh (West),10
+7018,Jio,Himachal Pradesh,10
+7019,Jio,Karnataka,10
+7020,Jio,Maharashtra,10
+7021,Jio,Mumbai,10
+7022,Bharti Airtel,Karnataka,10
+7022,Bharti Airtel,Karnataka,10
+7023,Bharti Airtel,Rajasthan,10
+7023,Bharti Airtel,Rajasthan,10
+7024,Bharti Airtel,Madhya Pradesh,10
+7025,Idea,Kerala,10
+7026,Idea,Karnataka,10
+7027,Vodafone,Haryana,10
+7028,Bharti Airtel,Maharastra,10
+7029,Reliance,West Bengal,10
+7030,Vodafone,Maharastra,10
+7031,Aircel,West Bengal,10
+7032,Bharti Airtel,Andhra Pradesh,10
+7033,Bharti Airtel,Bihar,10
+7034,Vodafone,Kerala,10
+7035,Aircel,Assam,10
+7036,Idea,Andhra Pradesh,10
+7037,Uninor,Uttar Pradesh (West),10
+7038,Idea,Maharastra & Goa,10
+7039,Idea,Mumbai,10
+7040,Aircel,Maharastra,10
+7041,Uninor,Gujarat,10
+7042,Bharti Airtel,Delhi,10
+7043,Bharti Airtel,Gujarat,10
+7044,Bharti Airtel,Kolkata,10
+7045,Vodafone,Mumbai,10
+7046,Idea,Gujarat,10
+7047,Videocon Telecom,Madhya Pradesh,10
+7047,Bharti Airtel,West Bengal,10
+7048,Tata Docomo,Gujarat,10
+7049,Idea,Madhya Pradesh & Chhattisgarh,10
+7050,Uninor,Bihar,10
+7051,Bharti Airtel,Jammu & Kashmir,10
+7052,Idea,Uttar Pradesh (East),10
+7053,Aircel,Delhi,10
+7054,Bharti Airtel,Uttar Pradesh (East),10
+7055,Idea,Uttar Pradesh (West),10
+7056,Idea,Haryana,10
+7057,Idea,Maharastra & Goa,10
+7058,Uninor,Maharastra,10
+7059,Aircel,Kolkata,10
+7060,Bharti Airtel,Uttar Pradesh (West),10
+7061,Reliance,Bihar,10
+7062,Aircel,Rajasthan,10
+7063,Bharti Airtel,West Bengal,10
+7064,Vodafone,Odisha,10
+7065,Idea,Delhi & NCR,10
+7066,Vodafone,Maharastra,10
+7067,Reliance,Madhya Pradesh,10
+7068,Uninor,Uttar Pradesh (East),10
+7069,Vodafone,Gujarat,10
+7070,Bharti Airtel,Bihar,10
+7071,Aircel,Uttar Pradesh (East),10
+7072,Vodafone,Gujarat,10
+7073,Bharti Airtel,Rajasthan,10
+7074,Idea,West Bengal,10
+7075,Uninor,Andhra Pradesh,10
+7076,Vodafone,West Bengal,10
+7077,Bharti Airtel,Odisha,10
+7078,Uninor,Uttar Pradesh(West),10
+7079,Idea,Bihar & Jharkhand,10
+7080,Bharti Airtel,Uttar Pradesh(East),10
+7081,Vodafone,Uttar Pradesh(East),10
+7082,Bharti Airtel,Haryana,10
+7083,Idea,Maharashtra & Goa,10
+7084,Idea,Uttar Pradesh(East),10
+7085,Bharti Airtel,North-East,10
+7086,Bharti Airtel,Assam,10
+7087,Bharti Airtel,Punjab,10
+7088,Idea,Uttar Pradesh(West),10
+7089,Idea,Madhya Pradesh & Chhattisgarh,10
+7090,Idea,Karnataka,10
+7091,Bharti Airtel,Bihar,10
+7092,Idea,Tamil Nadu,10
+7093,Bharti Airtel,Andhra Pradesh,10
+7094,Vodafone,Tamil Nadu,10
+7095,Idea,Andhra Pradesh,10
+7096,Idea,Gujarat,10
+7097,Aircel,Andhra Pradesh,10
+7098,Aircel,West Bengal,10
+7099,Telenor,West Bengal,10
+7200,Tata Docomo,Tamil Nadu,10
+7201,Idea,Gujarat,10
+7202,Idea,Gujarat,10
+7203,Idea,Gujarat,10
+7204,Tata Docomo,Karnataka,10
+7205,Tata Docomo,Odisha,10
+7206,Tata Docomo,Haryana,10
+7207,T24 Mobile,Andhra Pradesh,10
+7208,Tata Docomo,Mumbai,10
+7209,Tata Docomo,Bihar,10
+7210,Aircel,New Delhi,10
+7211,Idea,Gujarat,10
+7217,Tata Docomo,Uttar Pradesh (W),10
+7217,Tata Docomo,Uttar Pradesh (W),10
+7218,Bharti Airtel,Maharashtra,10
+7219,Bharti Airtel,Maharashtra,10
+7219,Aircel,Rajasthan,10
+7220,Aircel,Rajasthan,10
+7220,Aircel,Rajasthan,10
+7221,Aircel,Rajasthan,10
+7222,Aircel,Rajasthan,10
+7222,Bharti Airtel,Madhya Pradesh,10
+7223,Bharti Airtel,Madhya Pradesh,10
+7223,Bharti Airtel,Madhya Pradesh,10
+7224,Bharti Airtel,Madhya Pradesh,10
+7225,Bharti Airtel,Madhya Pradesh,10
+7226,Bharti Airtel,Gujarat,10
+7227,Bharti Airtel,Gujarat,10
+7228,Bharti Airtel,Gujarat,10
+7229,Vodafone,Rajasthan,10
+7229,Bharti Airtel,Gujarat,10
+7229,Vodafone,Rajasthan,10
+7230,Vodafone,Rajasthan,10
+7230,Vodafone,Rajasthan,10
+7231,Vodafone,Rajasthan,10
+7232,Vodafone,Rajasthan,10
+7232,Vodafone,Uttar Pradesh(East),10
+7233,Vodafone,Uttar Pradesh(East),10
+7234,Vodafone,Uttar Pradesh(East),10
+7235,Vodafone,Uttar Pradesh(East),10
+7236,Idea,Uttar Pradesh(East),10
+7237,Idea,Uttar Pradesh(East),10
+7238,Idea,Uttar Pradesh(East),10
+7239,Idea,Uttar Pradesh(East),10
+7239,Idea,Rajasthan,10
+7240,Idea,Rajasthan,10
+7240,Idea,Madhya Pradesh,10
+7241,Idea,Madhya Pradesh,10
+7247,Idea,Madhya Pradesh,10
+7247,Idea,Uttar Pradesh(West),10
+7248,Idea,Uttar Pradesh(West),10
+7248,Telenor,Maharashtra,10
+7249,Telenor,Maharashtra,10
+7249,Vodafone,Uttar Pradesh(West),10
+7250,Airtel,Bihar & Jharkhand,10
+7251,Vodafone,Uttar Pradesh(West),10
+7252,Vodafone,Uttar Pradesh(West),10
+7253,Vodafone,Uttar Pradesh(West),10
+7254,Idea,Bihar,10
+7255,Idea,Bihar,10
+7256,Idea,Bihar,10
+7257,Idea,Bihar,10
+7257,Bharti Airtel,Bihar,10
+7258,Bharti Airtel,Bihar,10
+7259,Airtel,Karnataka,10
+7260,Bharti Airtel,Bihar,10
+7261,Bharti Airtel,Bihar,10
+7261,Vodafone,Maharashtra,10
+7262,Vodafone,Maharashtra,10
+7263,Vodafone,Maharashtra,10
+7264,Vodafone,Maharashtra,10
+7265,Idea,Gujarat,10
+7266,Telenor,Uttar Pradesh(East),10
+7267,Telenor,Uttar Pradesh(East),10
+7268,Telenor,Uttar Pradesh(East),10
+7269,Telenor,Uttar Pradesh(East),10
+7269,Aircel,Uttar Pradesh(East),10
+7270,Aircel,Uttar Pradesh(East),10
+7271,Aircel,Uttar Pradesh(East),10
+7272,Aircel,Uttar Pradesh(East),10
+7272,Aircel,Bihar,10
+7273,Aircel,Bihar,10
+7274,Aircel,Bihar,10
+7275,Tata Docomo,Uttar Pradesh (East),10
+7276,Tata Docomo,Maharashtra,10
+7277,Aircel,Bihar & Jharkhand,10
+7278,Aircel,Kolkata,10
+7279,Aircel,Bihar,10
+7280,Vodafone,Bihar,10
+7281,Vodafone,Bihar,10
+7282,Vodafone,Bihar,10
+7283,Idea,Gujarat,10
+7283,Vodafone,Bihar,10
+7284,Idea,Gujarat,10
+7285,Idea,Gujarat,10
+7289,Vodafone,Delhi,10
+7290,Vodafone,Delhi,10
+7291,Vodafone,Delhi,10
+7292,Vodafone,Delhi,10
+7292,Bharti Airtel,Bihar,10
+7293,Aircel,Kerala,10
+7294,Bharti Airtel,Bihar,10
+7295,Bharti Airtel,Bihar,10
+7296,Bharti Airtel,Bihar,10
+7296,Bharti Airtel,Rajasthan,10
+7297,Bharti Airtel,Rajasthan,10
+7298,Aircel,Jammu & Kashmir,10
+7299,Aircel,Chennai,10
+7300,Bharti Airtel,Rajasthan,10
+7300,Bharti Airtel,Uttar Pradesh(West),10
+7301,STel,Bihar & Jharkhand,10
+7301,Aircel,Bihar,10
+7302,Idea,Mumbai,10
+7302,Vodafone,Uttar Pradesh(East),10
+7303,Reliance,Mumbai,10
+7304,Reliance,Maharashtra,10
+7305,Reliance,Tamil Nadu,10
+7306,Reliance,Andhra Pradesh,10
+7307,Reliance,Punjab,10
+7308,Reliance,North East,10
+7309,Idea,Uttar Pradesh (East),10
+7310,Bharti Airtel,Uttar Pradesh(West),10
+7310,Vodafone,Uttar Pradesh (East),10
+7311,Vodafone,Uttar Pradesh(East),10
+7317,Vodafone,Uttar Pradesh(East),10
+7317,Bharti Airtel,Uttar Pradesh (East),10
+7318,Bharti Airtel,Uttar Pradesh (East),10
+7318,Bharti Airtel,West Bengal,10
+7319,Bharti Airtel,West Bengal,10
+7319,Bharti Airtel,Bihar,10
+7320,Bharti Airtel,Bihar,10
+7321,Bharti Airtel,Bihar,10
+7322,Idea,Bihar,10
+7323,Idea,Bihar,10
+7324,Idea,Bihar,10
+7325,Idea,Bihar,10
+7325,Bharti Airtel,Odisha,10
+7326,Bharti Airtel,Odisha,10
+7327,Bharti Airtel,Odisha,10
+7328,Aircel,Andhra Pradesh,10
+7328,Bharti Airtel,Odisha,10
+7329,Aircel,Andhra Pradesh,10
+7330,Aircel,Andhra Pradesh,10
+7330,Bharti Airtel,Andhra Pradesh,10
+7331,Bharti Airtel,Andhra Pradesh,10
+7337,Bharti Airtel,Andhra Pradesh,10
+7337,Bharti Airtel,Karnataka,10
+7338,Bharti Airtel,Karnataka,10
+7338,Bharti Airtel,Tamil Nadu,10
+7339,Bharti Airtel,Tamil Nadu,10
+7339,Bharti Airtel,Rajasthan,10
+7340,Bharti Airtel,Rajasthan,10
+7340,Bharti Airtel,Punjab,10
+7341,Bharti Airtel,Punjab,10
+7347,Idea,Uttar Pradesh(East),10
+7347,Bharti Airtel,Punjab,10
+7348,Idea,Uttar Pradesh(East),10
+7348,Bharti Airtel,Karnataka,10
+7349,Bharti Airtel,Karnataka,10
+7349,Vodafone,Bihar,10
+7350,Idea,Maharashtra,10
+7351,Idea,UP (W) & Uttarakhand,10
+7352,Idea,Bihar & Jharkhand,10
+7353,Spice,Karnataka,10
+7354,Idea,MP & Chhatisgarh,10
+7355,Videocon Telecom,Punjab,10
+7356,Videocon Telecom,Kerala,10
+7356,Aircel,Delhi,10
+7356,Bharti Airtel,Kerala,10
+7357,Videocon Telecom,Haryana,10
+7357,Bharti Airtel,Rajasthan,10
+7358,Videocon Telecom,Tamil Nadu,10
+7358,Aircel,Mumbai,10
+7358,Bharti Airtel,Tamil Nadu,10
+7359,Idea,Gujarat,10
+7360,Vodafone,Bihar,10
+7361,Vodafone,Bihar,10
+7362,Vodafone,Bihar,10
+7362,Bharti Airtel,West Bengal,10
+7363,Bharti Airtel,West Bengal,10
+7364,Bharti Airtel,West Bengal,10
+7365,Bharti Airtel,West Bengal,10
+7366,Bharti Airtel,Bihar,10
+7367,Bharti Airtel,Bihar,10
+7368,Bharti Airtel,Bihar,10
+7369,Bharti Airtel,Bihar,10
+7369,Idea,Bihar,10
+7370,Idea,Bihar,10
+7371,Idea,Bihar,10
+7372,Idea,Bihar,10
+7372,Idea,Rajasthan,10
+7373,Aircel,Tamil Nadu,10
+7374,Idea,Rajasthan,10
+7375,Idea,Rajasthan,10
+7376,BSNL,Uttar Pradesh (East),10
+7377,Idea,Odisha,10
+7378,Idea,Rajasthan,10
+7378,Vodafone,Maharashtra,10
+7379,Vodafone,Uttar Pradesh (East),10
+7380,BSNL,Punjab,10
+7380,Bharti Airtel,Uttar Pradesh(East),10
+7381,Vodafone,Odisha,10
+7382,BSNL,Andhra Pradesh,10
+7383,Uninor,Gujarat,10
+7384,Uninor,West Bengal,10
+7384,Vodafone,Mumbai,10
+7384,Bharti Airtel,West Bengal,10
+7385,Uninor,Maharashtra,10
+7386,Uninor,Andhra Pradesh,10
+7387,Airtel,Maharashtra,10
+7388,Airtel,Uttar Pradesh (East),10
+7389,Airtel,MP & Chhatisgarh,10
+7390,Bharti Airtel,Uttar Pradesh(East),10
+7391,Vodafone,Maharashtra,10
+7392,Telenor,Uttar Pradesh(East),10
+7393,Telenor,Uttar Pradesh(East),10
+7394,Telenor,Uttar Pradesh(East),10
+7395,Telenor,Uttar Pradesh(East),10
+7395,Bharti Airtel,Tamil Nadu,10
+7396,Uninor,Andhra Pradesh,10
+7397,Bharti Airtel,Tamil Nadu,10
+7397,Bharti Airtel,Maharashtra,10
+7398,Uninor,Uttar Pradesh (East),10
+7399,Aircel,Assam,10
+7400,Bharti Airtel,Mumbai,10
+7401,Aircel,Chennai,10
+7402,Aircel,Tamil Nadu,10
+7403,Aircel,Kerala,10
+7404,Tata Docomo,Haryana,10
+7405,Tata Docomo,Gujarat,10
+7406,Vodafone,Karnataka,10
+7407,Vodafone,West Bengal,10
+7408,Vodafone,Uttar Pradesh (East),10
+7409,Vodafone,UP (W) & Uttarakhand,10
+7410,Bharti Airtel,Maharashtra,10
+7410,Vodafone,Rajasthan,10
+7411,Tata Docomo,Karnataka,10
+7412,Vodafone,Rajasthan,10
+7413,Vodafone,Rajasthan,10
+7414,Vodafone,Rajasthan,10
+7415,Tata Docomo,MP & Chhatisgarh,10
+7416,Tata Docomo,Andhra Pradesh,10
+7417,Virgin Mobile,UP (W) & Uttarakhand,10
+7418,Tata Docomo,Tamil Nadu,10
+7419,Reliance,Maharashtra,10
+7421,Aircel,North-East,10
+7422,Aircel,North-East,10
+7423,Aircel,North-East,10
+7424,Aircel,North-East,10
+7424,Bharti Hexacom Ltd.,Rajasthan,10
+7425,Bharti Hexacom Ltd.,Rajasthan,10
+7426,Bharti Hexacom Ltd.,Rajasthan,10
+7427,Bharti Hexacom Ltd.,Rajasthan,10
+7427,Vodafone,West Bengal,10
+7428,Reliance,Delhi,10
+7429,Reliance,Kerala,10
+7430,Vodafone,West Bengal,10
+7431,Vodafone,West Bengal,10
+7432,Vodafone,West Bengal,10
+7433,Vodafone,Gujarat,10
+7434,Vodafone,Gujarat,10
+7435,Vodafone,Gujarat,10
+7436,Vodafone,Gujarat,10
+7436,Vodafone,Odisha,10
+7437,Vodafone,Odisha,10
+7438,Vodafone,Odisha,10
+7439,Reliance,Kolkata,10
+7440,Vodafone,Odisha,10
+7440,Idea,Madhya Pradesh,10
+7441,Idea,Madhya Pradesh,10
+7447,Idea,Madhya Pradesh,10
+7447,Idea,Maharashtra,10
+7448,Idea,Maharashtra,10
+7448,Idea,Tamil Nadu,10
+7449,Idea,Tamil Nadu,10
+7449,Idea,Kolkata,10
+7450,Idea,Kolkata,10
+7451,Telenor,Uttar Pradesh(West),10
+7452,Telenor,Uttar Pradesh(West),10
+7453,Telenor,Uttar Pradesh(West),10
+7454,Telenor,Uttar Pradesh(West),10
+7454,Bharti Airtel,Uttar Pradesh(West),10
+7455,Bharti Airtel,Uttar Pradesh(West),10
+7456,Bharti Airtel,Uttar Pradesh(West),10
+7457,Bharti Airtel,Uttar Pradesh(West),10
+7457,Bharti Airtel,Uttar Pradesh(East),10
+7458,Bharti Airtel,Uttar Pradesh(East),10
+7459,Bharti Airtel,Uttar Pradesh(East),10
+7460,Bharti Airtel,Uttar Pradesh(East),10
+7461,Bharti Airtel,Bihar,10
+7462,Bharti Airtel,Bihar,10
+7463,Bharti Airtel,Bihar,10
+7464,Bharti Airtel,Bihar,10
+7464,Idea,Uttar Pradesh(West),10
+7465,Idea,Uttar Pradesh(West),10
+7466,Idea,Uttar Pradesh(West),10
+7467,Idea,Uttar Pradesh(West),10
+7467,Aircel,West Bengal,10
+7468,Aircel,West Bengal,10
+7469,Aircel,West Bengal,10
+7470,Bharti Airtel,Madhya Pradesh,10
+7470,Aircel,West Bengal,10
+7471,Bharti Airtel,Madhya Pradesh,10
+7477,Bharti Airtel,Madhya Pradesh,10
+7477,Bharti Airtel,West Bengal,10
+7478,Bharti Airtel,West Bengal,10
+7478,Vodafone,West Bengal,10
+7479,Vodafone,West Bengal,10
+7479,Telenor,Bihar,10
+7480,Telenor,Bihar,10
+7481,Telenor,Bihar,10
+7481,Bharti Airtel,Bihar,10
+7482,Bharti Airtel,Bihar,10
+7483,Reliance,Karnataka,10
+7484,Bharti Airtel,Bihar,10
+7485,Bharti Airtel,Bihar,10
+7485,Bharti Airtel,Gujarat,10
+7486,Bharti Airtel,Gujarat,10
+7487,Bharti Airtel,Gujarat,10
+7488,Reliance,Bihar & Jharkhand,10
+7489,Reliance,MP & Chhatisgarh,10
+7490,Bharti Airtel,Gujarat,10
+7491,Idea,Bihar,10
+7492,Idea,Bihar,10
+7493,Idea,Bihar,10
+7494,Idea,Bihar,10
+7494,Tata Docomo,Gujarat,10
+7495,Tata Docomo,Gujarat,10
+7496,Tata Docomo,Gujarat,10
+7497,Bharti Airtel,Uttar Pradesh (East),10
+7497,Tata Docomo,Gujarat,10
+7498,Reliance,Mumbai,10
+7499,Reliance,Uttar Pradesh (East),10
+7500,Idea,UP (W) & Uttarakhand,10
+7501,Tata Docomo,West Bengal,10
+7502,Aircel,Tamil Nadu,10
+7503,Aircel,Delhi,10
+7504,Aircel,Odisha,10
+7505,Reliance,Uttar Pradesh (East),10
+7506,Vodafone,Mumbai,10
+7507,Vodafone,Maharashtra,10
+7508,Vodafone,Punjab,10
+7509,Vodafone,Madhya Pradesh & Chhatisgarh,10
+7510,Idea,Kerala,10
+7510,Bharti Airtel,Uttar Pradesh (East),10
+7511,Idea,Kerala,10
+7517,Idea,Maharashtra,10
+7517,Idea,Maharashtra & Goa,10
+7518,Bharti Airtel,Uttar Pradesh (East),10
+7519,Aircel,Bihar,10
+7520,Reliance,UP(W) & UTTARAKHAND,10
+7521,Bharti Airtel,Uttar Pradesh (East),10
+7522,Bharti Airtel,Uttar Pradesh (East),10
+7522,Idea,Maharashtra,10
+7523,Bharti Airtel,Uttar Pradesh(East),10
+7524,Bharti Airtel,Uttar Pradesh(East),10
+7525,Bharti Airtel,Uttar Pradesh(East),10
+7526,Aircel,Delhi,10
+7526,Bharti Airtel,Uttar Pradesh(East),10
+7527,Aircel,Delhi,10
+7528,Aircel,Delhi,10
+7529,Aircel,Delhi,10
+7529,Aircel,Delhi,10
+7530,Aircel,Delhi,10
+7530,Bharti Airtel,Tamil Nadu,10
+7531,Aircel,Delhi,10
+7532,Aircel,Delhi,10
+7533,Idea,Uttar Pradesh(West),10
+7533,Aircel,Delhi,10
+7534,Idea,Uttar Pradesh(West),10
+7535,Idea,Uttar Pradesh(West),10
+7536,Aircel,Odisha,10
+7536,Idea,Uttar Pradesh(West),10
+7537,Aircel,Odisha,10
+7538,Aircel,Odisha,10
+7538,Bharti Airtel,Tamil Nadu,10
+7539,Aircel,Odisha,10
+7539,Bharti Airtel,Tamil Nadu,10
+7540,Aircel,Odisha,10
+7540,Bharti Airtel,Tamil Nadu,10
+7541,Bharti Airtel,Bihar,10
+7542,Bharti Airtel,Bihar,10
+7543,Bharti Airtel,Bihar,10
+7544,Vodafone,Bihar,10
+7544,Bharti Airtel,Bihar,10
+7545,Vodafone,Bihar,10
+7546,Vodafone,Bihar,10
+7547,Vodafone,West Bengal,10
+7547,Vodafone,Bihar,10
+7548,Vodafone,West Bengal,10
+7548,Bharti Airtel,Tamil Nadu,10
+7549,Vodafone,Bihar & Jharkhand,10
+7550,Vodafone,West Bengal,10
+7550,Bharti Airtel,Tamil Nadu,10
+7550,Aircel,New Delhi,10
+7551,Vodafone,West Bengal,10
+7551,Aircel,New Delhi,10
+7557,Vodafone,West Bengal,10
+7557,Aircel,New Delhi,10
+7557,Idea,Bihar,10
+7557,Idea,Bihar,10
+7558,Idea,Kerala,10
+7558,Bharti Airtel,Maharashtra,10
+7558,Bharti Airtel,Maharashtra,10
+7559,Idea,Kerala,10
+7559,Idea,Himachal Pradesh,10
+7559,Idea,Himachal Pradesh,10
+7559,Bharti Airtel,Maharashtra,10
+7560,Idea,Kerala,10
+7560,Idea,Himachal Pradesh,10
+7560,Idea,Himachal Pradesh,10
+7561,Idea,Bihar,10
+7561,Idea,Kerala,10
+7562,Idea,Bihar,10
+7563,Idea,Bihar,10
+7564,Idea,Bihar,10
+7565,Vodafone,Uttar Pradesh (East),10
+7566,Vodafone,MP & Chhatisgarh,10
+7567,Vodafone,Gujarat,10
+7568,Airtel,Rajasthan,10
+7569,Reliance,Andhra Pradesh,10
+7570,Vodafone,Uttar Pradesh (East),10
+7571,Vodafone,Uttar Pradesh (East),10
+7572,Vodafone,Gujarat,10
+7572,Vodafone,Uttar Pradesh (East),10
+7573,Vodafone,Gujarat,10
+7574,Vodafone,Gujarat,10
+7575,Vodafone,Assam,10
+7575,Vodafone,Gujarat,10
+7576,Vodafone,Assam,10
+7577,Vodafone,Assam,10
+7578,Vodafone,Assam,10
+7579,BSNL,UP (W) & Uttarakhand,10
+7580,Vodafone,Madhya Pradesh,10
+7580,Idea,Himachal Pradesh,10
+7581,Vodafone,Madhya Pradesh,10
+7582,Vodafone,Madhya Pradesh,10
+7583,Bharti Airtel,West Bengal,10
+7583,Vodafone,Madhya Pradesh,10
+7584,Bharti Airtel,West Bengal,10
+7585,Bharti Airtel,West Bengal,10
+7586,Bharti Airtel,West Bengal,10
+7587,BSNL,MP & Chhatisgarh,10
+7588,BSNL,Maharashtra,10
+7589,BSNL,Punjab,10
+7589,Jio,New Delhi,10
+7590,Idea,Himachal Pradesh,10
+7590,Idea,Himachal Pradesh,10
+7591,Idea,Himachal Pradesh,10
+7591,Vodafone,Kerala,10
+7591,Vodafone,Kerala,10
+7591,Idea,Himachal Pradesh,10
+7592,Vodafone,Kerala,10
+7592,Vodafone,Kerala,10
+7593,Vodafone,Kerala,10
+7593,Vodafone,Kerala,10
+7593,Vodafone,Kerala,10
+7594,Vodafone,Kerala,10
+7594,Vodafone,Kerala,10
+7595,Bharti Airtel,Kolkata,10
+7595,Bharti Airtel,Kolkata,10
+7596,Bharti Airtel,Kolkata,10
+7596,Bharti Airtel,Kolkata,10
+7597,BSNL,Rajasthan,10
+7598,BSNL,Tamil Nadu,10
+7599,BSNL,UP (W) & Uttarakhand,10
+7600,Airtel,Gujarat,10
+7601,Reliance,Tamil Nadu,10
+7602,Airtel,West Bengal,10
+7603,Reliance,Tamil Nadu,10
+7603,Bharti Airtel,Kolkata,10
+7603,Bharti Airtel,Kolkata,10
+7604,Reliance,Tamil Nadu,10
+7604,Bharti Airtel,Kolkata,10
+7604,Bharti Airtel,Kolkata,10
+7605,Bharti Airtel,Kolkata,10
+7605,Bharti Airtel,Odisha,10
+7605,Bharti Airtel,Odisha,10
+7605,Bharti Airtel,Kolkata,10
+7606,Bharti Airtel,Odisha,10
+7606,Bharti Airtel,Odisha,10
+7607,Airtel,Uttar Pradesh (East),10
+7608,Bharti Airtel,Odisha,10
+7608,Bharti Airtel,Odisha,10
+7609,Bharti Airtel,Odisha,10
+7609,Bharti Airtel,Odisha,10
+7610,Aircel,Rajasthan,10
+7610,Idea,Madhya Pradesh,10
+7611,Aircel,Rajasthan,10
+7611,Idea,Madhya Pradesh,10
+7615,Aircel,Rajasthan,10
+7617,Idea,Uttar Pradesh (East),10
+7617,Idea,Madhya Pradesh,10
+7617,Vodafone,Uttar Pradesh (West),10
+7618,Idea,Uttar Pradesh (East),10
+7618,Vodafone,Uttar Pradesh (West),10
+7618,Bharti Airtel,Karnataka,10
+7619,Idea,Uttar Pradesh (East),10
+7619,Aircel,Rajasthan,10
+7619,Bharti Airtel,Karnataka,10
+7620,Reliance,Maharashtra,10
+7621,Idea,Gujarat,10
+7622,Idea,Gujarat,10
+7623,Idea,Gujarat,10
+7624,Idea,Gujarat,10
+7624,Bharti Airtel,Karnataka,10
+7625,Bharti Airtel,Karnataka,10
+7625,BSNL,Punjab,10
+7626,BSNL,Punjab,10
+7627,Bharti Airtel,North East,10
+7627,BSNL,Punjab,10
+7628,Bharti Airtel,North East,10
+7629,Bharti Airtel,North East,10
+7630,Bharti Airtel,North East,10
+7631,Vodafone,Bihar & Jharkhand,10
+7632,Bharti Airtel,Bihar,10
+7633,Bharti Airtel,Bihar,10
+7634,Bharti Airtel,Bihar,10
+7635,Bharti Airtel,Bihar,10
+7635,Bharti Airtel,Assam,10
+7636,Bharti Airtel,Assam,10
+7637,Bharti Airtel,Assam,10
+7638,Bharti Airtel,Assam,10
+7638,Bharti Airtel,North East,10
+7639,Vodafone,Tamil Nadu,10
+7640,Bharti Airtel,North East,10
+7641,Bharti Airtel,North East,10
+7642,Bharti Airtel,North East,10
+7643,Telenor,Bihar,10
+7646,BSNL,Chattisgarh,10
+7647,BSNL,Chattisgarh,10
+7648,BSNL,Chattisgarh,10
+7649,BSNL,Himachal Pradesh,10
+7650,BSNL,Himachal Pradesh,10
+7651,BSNL,Himachal Pradesh,10
+7652,BSNL,Himachal Pradesh,10
+7653,BSNL,Odisha,10
+7654,Idea,Bihar & Jharkhand,10
+7655,BSNL,Odisha,10
+7656,BSNL,Odisha,10
+7657,BSNL,Odisha,10
+7658,Idea,Andhra Pradesh,10
+7658,Tata Docomo,Punjab,10
+7659,Idea,Andhra Pradesh,10
+7660,Idea,Andhra Pradesh,10
+7661,Idea,Andhra Pradesh,10
+7662,Idea,Assam,10
+7663,Idea,Assam,10
+7664,Idea,Assam,10
+7665,Vodafone,Rajasthan,10
+7666,Reliance,Mumbai,10
+7667,Reliance,Tamil Nadu,10
+7668,Reliance,Uttar Pradesh (East),10
+7669,Reliance,UP (W) & Uttarakhand,10
+7670,Idea,Assam,10
+7670,Reliance,Andhra Pradesh,10
+7671,Reliance,Andhra Pradesh,10
+7672,Reliance,Andhra Pradesh,10
+7673,Reliance,Andhra Pradesh,10
+7673,Bharti Airtel,Andhra Pradesh,10
+7674,Bharti Airtel,Andhra Pradesh,10
+7675,Bharti Airtel,Andhra Pradesh,10
+7676,Reliance,Karnataka,10
+7677,Reliance,Bihar & Jharkhand,10
+7678,Idea,Uttar Pradesh (East),10
+7678,Bharti Airtel,Mumbai,10
+7678,Jio,New Delhi,10
+7679,Reliance,West Bengal,10
+7680,Bharti Airtel,Andhra Pradesh,10
+7681,Bharti Airtel,Odisha,10
+7681,Tata Docomo,Punjab,10
+7682,Bharti Airtel,Odisha,10
+7683,Bharti Airtel,Odisha,10
+7683,Tata Docomo,Punjab,10
+7684,Bharti Airtel,Odisha,10
+7685,Aircel,Kolkata,10
+7686,Aircel,Kolkata,10
+7687,Aircel,Kolkata,10
+7688,Aircel,Kolkata,10
+7688,Idea,Rajasthan,10
+7689,Idea,Rajasthan,10
+7690,Idea,Rajasthan,10
+7691,Idea,Madhya Pradesh,10
+7691,Idea,Rajasthan,10
+7692,Idea,Madhya Pradesh,10
+7693,Idea,Madhya Pradesh,10
+7694,Idea,Madhya Pradesh,10
+7695,Reliance,Tamil Nadu,10
+7696,Tata Docomo,Punjab,10
+7697,Idea,MP & Chhatisgarh,10
+7698,Idea,Gujarat,10
+7699,Idea,West Bengal,10
+7700,Videocon Telecom,Haryana,10
+7700,Bharti Airtel,Bihar,10
+7701,Tata Docomo,Punjab,10
+7701,Tata Docomo,Madhya Pradesh,10
+7702,Airtel,Andhra Pradesh,10
+7703,Vodafone,Uttar Pradesh (East),10
+7703,Vodafone,Uttar Pradesh (East),10
+7703,Tata Docomo,Punjab,10
+7704,Vodafone,Uttar Pradesh (East),10
+7704,Vodafone,Uttar Pradesh (East),10
+7705,Vodafone,Uttar Pradesh (East),10
+7705,Vodafone,Uttar Pradesh (East),10
+7706,Vodafone,Uttar Pradesh (East),10
+7707,Aircel,Rajasthan,10
+7707,Idea,Bihar,10
+7707,Idea,Bihar,10
+7708,Airtel,Tamil Nadu,10
+7709,Airtel,Maharashtra,10
+7710,Aircel,Rajasthan,10
+7711,Aircel,Rajasthan,10
+7712,Idea,Uttar Pradesh (East),10
+7712,Aircel,Rajasthan,10
+7713,Idea,Uttar Pradesh (East),10
+7714,Idea,Uttar Pradesh (East),10
+7715,Bharti Airtel,Mumbai,10
+7715,Idea,Uttar Pradesh (East),10
+7715,Bharti Airtel,Mumbai,10
+7716,Bharti Airtel,Mumbai,10
+7717,Bharti Airtel,Mumbai,10
+7717,Jio,Bihar,10
+7718,Bharti Airtel,Mumbai,10
+7718,Vodafone,West Bengal,10
+7719,Idea,Maharashtra,10
+7719,Vodafone,West Bengal,10
+7720,Idea,Maharashtra,10
+7721,Idea,Maharashtra,10
+7722,Reliance,Madhya Pradesh,10
+7722,Idea,Maharashtra,10
+7723,Reliance,Madhya Pradesh,10
+7724,Reliance,Madhya Pradesh,10
+7725,Idea,Madhya Pradesh,10
+7725,Reliance,Madhya Pradesh,10
+7725,Bharti Airtel,Rajasthan,10
+7726,Bharti Airtel,Rajasthan,10
+7727,Idea,Madhya Pradesh,10
+7727,Bharti Airtel,Rajasthan,10
+7728,Idea,Madhya Pradesh,10
+7728,Bharti Airtel,Rajasthan,10
+7729,Idea,Andhra Pradesh,10
+7730,Idea,Andhra Pradesh,10
+7731,Idea,Andhra Pradesh,10
+7732,Idea,Rajasthan,10
+7732,Idea,Andhra Pradesh,10
+7733,Idea,Rajasthan,10
+7734,Idea,Rajasthan,10
+7735,Reliance,Odisha,10
+7736,Tata Docomo,Kerala,10
+7737,Tata Docomo,Rajasthan,10
+7738,Airtel,Mumbai,10
+7739,Airtel,Bihar & Jharkhand,10
+7740,Idea,Rajasthan,10
+7741,Idea,Maharashtra,10
+7742,Airtel,Rajasthan,10
+7743,Idea,Maharashtra,10
+7744,Idea,Maharashtra,10
+7745,Idea,Madhya Pradesh,10
+7745,Idea,Maharashtra,10
+7746,Idea,Madhya Pradesh,10
+7747,Idea,Madhya Pradesh,10
+7748,Idea,Madhya Pradesh,10
+7749,Bharti Airtel,Odisha,10
+7750,Bharti Airtel,Odisha,10
+7751,Bharti Airtel,Odisha,10
+7752,Bharti Airtel,Uttar Pradesh (East),10
+7752,Bharti Airtel,Odisha,10
+7753,Bharti Airtel,Uttar Pradesh (East),10
+7754,Bharti Airtel,Uttar Pradesh (East),10
+7755,Bharti Airtel,Maharashtra,10
+7755,Bharti Airtel,Uttar Pradesh (East),10
+7756,Bharti Airtel,Maharashtra,10
+7757,Bharti Airtel,Maharashtra,10
+7758,Bharti Airtel,Maharashtra,10
+7759,Bharti Airtel,Bihar,10
+7760,Airtel,Karnataka,10
+7761,Bharti Airtel,Bihar,10
+7761,Bharti Airtel,Bihar,10
+7762,Bharti Airtel,Bihar,10
+7763,Bharti Airtel,Bihar,10
+7763,Bharti Airtel,Bihar,10
+7764,Bharti Airtel,Bihar,10
+7765,Bharti Airtel,Bihar,10
+7766,Bharti Airtel,Bihar,10
+7767,Vodafone,Maharashtra,10
+7768,Vodafone,Maharashtra,10
+7769,Vodafone,Maharashtra,10
+7769,Vodafone,Maharashtra,10
+7770,Vodafone,Maharashtra,10
+7770,Idea,Madhya Pradesh,10
+7771,Idea,Madhya Pradesh,10
+7772,Idea,Madhya Pradesh,10
+7773,Idea,Maharashtra,10
+7773,Idea,Madhya Pradesh,10
+7774,Idea,Maharashtra,10
+7774,Idea,Maharashtra,10
+7775,Idea,Maharashtra,10
+7775,Idea,Maharashtra,10
+7776,Idea,Maharashtra,10
+7776,Idea,Maharashtra,10
+7777,Uninor,Gujarat,10
+7777,Uninor,Gujarat,10
+7777,Bharti Airtel,Mumbai,10
+7777,Tata Docomo,Madhya Pradesh,10
+7777,Bharti Airtel,Bihar,10
+7778,Uninor,Gujarat,10
+7778,Uninor,Gujarat,10
+7779,Uninor,Gujarat,10
+7779,Bharti Airtel,Bihar,10
+7779,Uninor,Gujarat,10
+7780,Jio,Jammu & Kashmir,10
+7780,Jio,Andhra Pradesh,10
+7780,Idea,Bihar,10
+7780,Idea,Bihar,10
+7781,Bharti Airtel,Bihar,10
+7782,Bharti Airtel,Bihar,10
+7783,Aircel,Uttar Pradesh (E),10
+7783,Bharti Airtel,Bihar,10
+7784,Aircel,Uttar Pradesh (E),10
+7785,Aircel,Uttar Pradesh (E),10
+7786,Aircel,Uttar Pradesh (E),10
+7787,Idea,Odisha,10
+7788,Idea,Odisha,10
+7789,Idea,Odisha,10
+7790,Aircel,Rajasthan,10
+7790,Idea,Odisha,10
+7791,Aircel,Rajasthan,10
+7792,Aircel,Rajasthan,10
+7793,Uninor,Andhra Pradesh,10
+7793,Aircel,Rajasthan,10
+7794,Uninor,Andhra Pradesh,10
+7795,Tata Docomo,Karnataka,10
+7796,Tata Docomo,Delhi,10
+7797,Vodafone,West Bengal,10
+7798,Vodafone,Maharashtra,10
+7799,Vodafone,Andhra Pradesh,10
+7800,Vodafone,Uttar Pradesh (East),10
+7801,Uninor,Gujarat,10
+7801,Uninor,Andhra Pradesh,10
+7802,Uninor,Gujarat,10
+7803,Reliance,Madhya Pradesh,10
+7804,Reliance,Madhya Pradesh,10
+7805,Reliance,Madhya Pradesh,10
+7806,Reliance,Madhya Pradesh,10
+7806,Reliance,Tamil Nadu,10
+7807,STel,Himachal Pradesh,10
+7807,Bharti Airtel,Karnataka,10
+7807,Bharti Airtel,Himachal Pradesh,10
+7808,STel,Bihar & Jharkhand,10
+7808,Idea,Karnataka,10
+7808,Vodafone,Bihar,10
+7809,STel,Odisha,10
+7809,Aircel,Odisha,10
+7810,Reliance,Tamil Nadu,10
+7810,Reliance,Tamil Nadu,10
+7811,Reliance,Tamil Nadu,10
+7811,Reliance,Tamil Nadu,10
+7812,Reliance,Karnataka,10
+7812,Reliance,Tamil Nadu,10
+7812,Reliance,Karnataka,10
+7812,Reliance,Tamil Nadu,10
+7813,Reliance,Karnataka,10
+7813,Reliance,Karnataka,10
+7814,Reliance,Punjab,10
+7815,Reliance,Karnataka,10
+7815,Reliance,Karnataka,10
+7816,Reliance,Karnataka,10
+7816,Reliance,Tamil Nadu,10
+7816,Reliance,Karnataka,10
+7817,Reliance,Gujarat,10
+7818,Reliance,Gujarat,10
+7819,Reliance,Gujarat,10
+7820,Reliance,Rajasthan,10
+7820,Reliance,Gujarat,10
+7821,Reliance,Rajasthan,10
+7822,Reliance,Rajasthan,10
+7823,Reliance,Chennai,10
+7823,Reliance,Rajasthan,10
+7824,Reliance,Chennai,10
+7825,Reliance,Chennai,10
+7826,Reliance,Chennai,10
+7827,Reliance,Delhi,10
+7828,Reliance,MP & Chhatisgarh,10
+7829,Vodafone,Karnataka,10
+7830,Vodafone,UP (W) & Uttarakhand,10
+7831,Vodafone,Himachal Pradesh,10
+7832,Vodafone,Himachal Pradesh,10
+7833,Vodafone,Himachal Pradesh,10
+7834,Idea,Delhi,10
+7834,Vodafone,Himachal Pradesh,10
+7835,Idea,Delhi,10
+7836,Idea,Delhi,10
+7837,Vodafone,Punjab,10
+7838,Vodafone,Delhi,10
+7839,BSNL,Uttar Pradesh (East),10
+7840,Uninor,Maharashtra,10
+7840,Idea,Delhi,10
+7840,Uninor,Maharashtra,10
+7841,Uninor,Maharashtra,10
+7841,Uninor,Maharashtra,10
+7842,Virgin Mobile,Andhra Pradesh,10
+7843,Uninor,Maharashtra,10
+7843,Aircel,Uttar Pradesh (E),10
+7843,Aircel,Uttar Pradesh (E),10
+7843,Uninor,Maharashtra,10
+7843,Aircel,Uttar Pradesh (E),10
+7844,Aircel,Uttar Pradesh (E),10
+7844,Aircel,Uttar Pradesh (E),10
+7844,Aircel,Uttar Pradesh (E),10
+7845,Virgin Mobile,Tamil Nadu,10
+7846,Reliance,Karnataka,10
+7846,Reliance,Karnataka,10
+7846,Reliance,Karnataka,10
+7847,Reliance,Karnataka,10
+7847,Reliance,Karnataka,10
+7847,Reliance,Karnataka,10
+7848,Reliance,Karnataka,10
+7848,Reliance,Karnataka,10
+7848,Reliance,Karnataka,10
+7849,Reliance,Uttar Pradesh (E),10
+7849,Reliance,Karnataka,10
+7849,Reliance,Uttar Pradesh (E),10
+7849,Reliance,Karnataka,10
+7849,Reliance,Uttar Pradesh (E),10
+7849,Reliance,Karnataka,10
+7850,Reliance,Uttar Pradesh (E),10
+7850,Reliance,Uttar Pradesh (E),10
+7850,Reliance,Uttar Pradesh (E),10
+7851,Reliance,Uttar Pradesh (E),10
+7851,Reliance,Uttar Pradesh (E),10
+7851,Reliance,Uttar Pradesh (E),10
+7852,Reliance,Odisha,10
+7852,Reliance,Uttar Pradesh (E),10
+7852,Reliance,Uttar Pradesh (E),10
+7852,Reliance,Uttar Pradesh (E),10
+7853,Reliance,Odisha,10
+7854,Reliance,Odisha,10
+7855,Reliance,Odisha,10
+7856,Reliance,Bihar,10
+7857,Reliance,Bihar,10
+7858,Reliance,Bihar,10
+7859,Reliance,Bihar,10
+7860,Idea,Uttar Pradesh (East),10
+7861,Reliance,Delhi,10
+7862,Reliance,Delhi,10
+7863,Reliance,West Bengal,10
+7863,Reliance,Delhi,10
+7864,Reliance,West Bengal,10
+7865,Reliance,West Bengal,10
+7866,Reliance,West Bengal,10
+7867,Vodafone,Tamil Nadu,10
+7868,Vodafone,Tamil Nadu,10
+7869,Airtel,MP & Chhatisgarh,10
+7869,Reliance,Delhi,10
+7869,Aircel,Madhya Pradesh,10
+7869,Aircel,Madhya Pradesh,10
+7870,Uninor,Bihar & Jharkhand,10
+7871,Uninor,Tamil Nadu,10
+7872,Vodafone,West Bengal,10
+7873,Vodafone,Odisha,10
+7874,Vodafone,Gujarat,10
+7875,Vodafone,Maharashtra,10
+7876,Reliance,Haryana,10
+7877,Reliance,Rajasthan,10
+7878,Reliance,Gujarat,10
+7879,Reliance,MP & Chhatisgarh,10
+7880,Tata Docomo,Madhya Pradesh,10
+7880,Bharti Airtel,Uttar Pradesh (E),10
+7881,Bharti Airtel,Uttar Pradesh (E),10
+7887,Bharti Airtel,Uttar Pradesh (E),10
+7887,Idea,Maharashtra,10
+7888,Idea,Maharashtra,10
+7888,Jio,Punjab,10
+7889,Jio,Punjab,10
+7889,Jio,Jammu & Kashmir,10
+7890,Idea,Kolkata,10
+7891,Idea,Rajasthan,10
+7892,Jio,Karnataka,10
+7893,Airtel,Andhra Pradesh,10
+7894,Airtel,Odisha,10
+7895,Airtel,UP (W) & Uttarakhand,10
+7896,Airtel,Assam,10
+7897,Airtel,Uttar Pradesh (East),10
+7898,Airtel,MP & Chhatisgarh,10
+7899,Uninor,Karnataka,10
+7899,Idea,Tamil Nadu,10
+7900,Videocon,Haryana,10
+7900,Bharti Airtel,Mumbai,10
+7900,Idea,Uttar Pradesh (East),10
+7901,BSNL,Andhra Pradesh,10
+7902,Idea,Uttar Pradesh (East),10
+7902,Idea,Kerala,10
+7903,Jio,Bihar,10
+7904,Jio,Tamil Nadu,10
+7905,Jio,Uttar Pradesh (East),10
+7906,Jio,Uttar Pradesh (West),10
+7907,Jio,Kerala,10
+7908,Jio,West Bengal,10
+7909,Jio,Bihar,10
+7909,Idea,Kerala,10
+7909,Idea,Madhya Pradesh,10
+7970,Bharti Airtel,Bihar,10
+7970,Idea,Madhya Pradesh,10
+7972,Jio,Maharashtra,10
+7974,Jio,Madhya Pradesh,10
+7975,Jio,Karnataka,10
+7976,Jio,Rajasthan,10
+7977,Jio,Mumbai,10
+7978,Jio,Odisha,10
+7979,Jio,Bihar,10
+7980,Jio,Kolkata,10
+7981,Jio,Andhra Pradesh,10
+7982,Jio,New Delhi,10
+7983,Jio,Uttar Pradesh (West),10
+7984,Jio,Gujarat,10
+7985,Jio,Uttar Pradesh (East),10
+7988,Jio,Haryana,10
+7990,Jio,Gujarat,10
+7991,Jio,Bihar,10
+7991,Bharti Airtel,Uttar Pradesh (East),10
+7991,Bharti Airtel,Odisha,10
+7992,Jio,Bihar,10
+7992,Idea,Odisha,10
+7992,Bharti Airtel,Uttar Pradesh (East),10
+7993,Bharti Airtel,Andhra Pradesh,10
+7994,Bharti Airtel,Kerala,10
+7995,Bharti Airtel,Andhra Pradesh,10
+7996,Idea,Karnataka,10
+7997,Idea,Andhra Pradesh,10
+7998,Aircel,Kolkata,10
+7999,Videocon Telecom,Madhya Pradesh,10
+7999,Jio,Madhya Pradesh,10
+8000,Reliance,Gujarat,10
+8001,Vodafone,West Bengal,10
+8002,Airtel,Bihar & Jharkhand,10
+8003,Airtel,Rajasthan,10
+8004,BSNL,Uttar Pradesh (East),10
+8005,BSNL,Uttar Pradesh (East),10
+8005,Jio,Rajasthan,10
+8006,Vodafone,UP (W) & Uttarakhand,10
+8007,Vodafone,Maharashtra,10
+8008,Airtel,Andhra Pradesh,10
+8009,Airtel,Uttar Pradesh (East),10
+8010,Reliance,Delhi,10
+8011,Airtel,Assam,10
+8012,Aircel,Tamil Nadu,10
+8013,Aircel,Kolkata,10
+8014,Aircel,North East,10
+8015,Tata Docomo,Tamil Nadu,10
+8016,Airtel,West Bengal,10
+8017,Vodafone,Kolkata,10
+8018,Airtel,Odisha,10
+8019,Tata Docomo,Andhra Pradesh,10
+8050,Tata Docomo,Karnataka,10
+8051,Vodafone,Bihar & Jharkhand,10
+8052,Vodafone,Uttar Pradesh (East),10
+8053,Vodafone,Haryana,10
+8054,Vodafone,Punjab,10
+8055,Reliance,Maharashtra,10
+8056,Airtel,Tamil Nadu,10
+8057,Idea,UP (W) & Uttarakhand,10
+8058,Idea,Rajasthan,10
+8059,Idea,Haryana,10
+8070,Aircel,Mumbai,10
+8074,Jio,Andhra Pradesh,10
+8075,Jio,Kerala,10
+8076,Jio,New Delhi,10
+8077,Jio,Uttar Pradesh (West),10
+8078,Jio,Rajasthan,10
+8078,BSNL,Kerala,10
+8079,BSNL,Kerala,10
+8079,Idea,Odisha,10
+8080,Reliance,Mumbai,10
+8081,Reliance,Uttar Pradesh (East),10
+8082,Loop Mobile,Mumbai,10
+8083,Aircel,Bihar & Jharkhand,10
+8084,Airtel,Bihar & Jharkhand,10
+8085,Airtel,MP & Chhatisgarh,10
+8086,Vodafone,Kerala,10
+8087,Tata Docomo,Maharashtra,10
+8088,Reliance,Karnataka,10
+8089,Tata Docomo,Kerala,10
+8090,Tata Docomo,Uttar Pradesh (East),10
+8091,Tata Docomo,Himachal Pradesh,10
+8092,Tata Docomo,Bihar & Jharkhand,10
+8093,Tata Docomo,ORISSA,10
+8094,Vodafone,Rajasthan,10
+8095,Vodafone,Karnataka,10
+8096,Idea,Andhra Pradesh,10
+8097,Tata Docomo,Mumbai,10
+8098,Vodafone,Tamil Nadu,10
+8099,Reliance,Andhra Pradesh,10
+8100,Reliance,Kolkata,10
+8101,Reliance,West Bengal,10
+8102,Reliance,Bihar & Jharkhand,10
+8103,Reliance,MP & Chhatisgarh,10
+8104,MTS,Rajasthan,10
+8105,Airtel,Karnataka,10
+8106,Airtel,Andhra Pradesh,10
+8107,Airtel,Rajasthan,10
+8108,Idea,Mumbai,10
+8109,Tata Docomo,MP & Chhatisgarh,10
+8110,Vodafone,Tamil Nadu,10
+8111,Idea,Kerala,10
+8111,Idea,Kerala,10
+8111,Idea,Kerala,10
+8111,Vodafone,Tamil Nadu,10
+8112,Jio,Rajasthan,10
+8112,Idea,Uttar Pradesh (East),10
+8112,Idea,Odisha,10
+8113,Idea,Kerala,10
+8113,Idea,Kerala,10
+8113,Idea,Kerala,10
+8114,Jio,Rajasthan,10
+8114,Idea,Uttar Pradesh (East),10
+8114,Bharti Airtel,Odisha,10
+8115,Uninor,Uttar Pradesh (East),10
+8116,Airtel,West Bengal,10
+8117,Uninor,Odisha,10
+8117,Uninor,Uttar Pradesh(West),10
+8117,Bharti Airtel,Odisha,10
+8118,Bharti Airtel,North East,10
+8118,Uninor,Odisha,10
+8118,Uninor,Uttar Pradesh(West),10
+8118,Jio,Rajasthan,10
+8118,Bharti Airtel,Odisha,10
+8119,Bharti Airtel,North East,10
+8120,Idea,MP & Chhatisgarh,10
+8121,Reliance,Andhra Pradesh,10
+8121,Tata Docomo,Andhra Pradesh,10
+8122,Tata Docomo,Tamil Nadu,10
+8123,Tata Docomo,Karnataka,10
+8124,Idea,Tamil Nadu,10
+8125,Tata Docomo,Andhra Pradesh,10
+8126,Airtel,UP (W) & Uttarakhand,10
+8127,Airtel,Uttar Pradesh (East),10
+8128,Airtel,Gujarat,10
+8129,Airtel,Kerala,10
+8130,Airtel,Delhi,10
+8131,Bharti Airtel,North East,10
+8132,Bharti Airtel,North East,10
+8133,Bharti Airtel,Assam,10
+8134,Bharti Airtel,Assam,10
+8135,Bharti Airtel,Assam,10
+8136,Bharti Airtel,Kerala,10
+8136,Bharti Airtel,Assam,10
+8137,Bharti Airtel,Kerala,10
+8138,Bharti Airtel,Kerala,10
+8139,Idea,Karnataka,10
+8139,Bharti Airtel,Kerala,10
+8140,Idea,Gujarat,10
+8141,Vodafone,Gujarat,10
+8142,Vodafone,Andhra Pradesh,10
+8143,Tata Docomo,Andhra Pradesh,10
+8144,Reliance,Tamil Nadu,10
+8145,Vodafone,West Bengal,10
+8146,Airtel,Punjab,10
+8147,Tata Docomo,Karnataka,10
+8148,Tata Docomo,Tamil Nadu,10
+8149,Tata Docomo,Maharashtra,10
+8150,Idea,Karnataka,10
+8151,Idea,Karnataka,10
+8152,Idea,Karnataka,10
+8153,Idea,Gujarat,10
+8153,Idea,Gujarat,10
+8153,Idea,Gujarat,10
+8154,Idea,Gujarat,10
+8154,Idea,Gujarat,10
+8154,Idea,Gujarat,10
+8155,Idea,Gujarat,10
+8155,Idea,Gujarat,10
+8155,Idea,Gujarat,10
+8156,Idea,Kerala,10
+8156,Idea,Gujarat,10
+8156,Idea,Kerala,10
+8156,Idea,Gujarat,10
+8156,Idea,Kerala,10
+8156,Idea,Gujarat,10
+8157,Idea,Kerala,10
+8157,Idea,Kerala,10
+8157,Idea,Kerala,10
+8158,Bharti Airtel,West Bengal,10
+8159,Bharti Airtel,West Bengal,10
+8160,Jio,Gujarat,10
+8167,Bharti Airtel,West Bengal,10
+8169,Jio,Mumbai,10
+8170,Bharti Airtel,West Bengal,10
+8171,Airtel,UP (W) & Uttarakhand,10
+8172,Bharti Airtel,Uttar Pradesh (E),10
+8172,Bharti Airtel,West Bengal,10
+8173,Bharti Airtel,Uttar Pradesh (E),10
+8174,Bharti Airtel,Uttar Pradesh (E),10
+8175,Bharti Airtel,Uttar Pradesh (E),10
+8175,Tata Docomo,Uttar Pradesh (East),10
+8175,Tata Docomo,Uttar Pradesh (E),10
+8175,Tata Docomo,Uttar Pradesh (E),10
+8176,Tata Docomo,Uttar Pradesh (East),10
+8176,Tata Docomo,Uttar Pradesh (E),10
+8176,Tata Docomo,Uttar Pradesh (E),10
+8177,Tata Docomo,Uttar Pradesh (East),10
+8177,Tata Docomo,Uttar Pradesh (E),10
+8177,Tata Docomo,Uttar Pradesh (E),10
+8177,Uninor,Maharashtra,10
+8178,Jio,New Delhi,10
+8179,Airtel,Andhra Pradesh,10
+8180,Uninor,Maharashtra,10
+8181,Aircel,Uttar Pradesh (E),10
+8181,Aircel,Uttar Pradesh (E),10
+8181,Aircel,Uttar Pradesh (E),10
+8182,MTS,Karnataka,10
+8182,Aircel,Uttar Pradesh (E),10
+8182,Aircel,Uttar Pradesh (E),10
+8182,Aircel,Uttar Pradesh (E),10
+8183,MTS,Karnataka,10
+8184,Idea,Andhra Pradesh,10
+8184,MTS,Karnataka,10
+8185,Idea,Andhra Pradesh,10
+8186,Idea,Andhra Pradesh,10
+8187,Idea,Andhra Pradesh,10
+8187,Uninor,Maharashtra,10
+8187,Tata Docomo,Uttar Pradesh (East),10
+8187,Tata Docomo,Uttar Pradesh (E),10
+8187,Tata Docomo,Uttar Pradesh (E),10
+8188,Tata Docomo,Uttar Pradesh (East),10
+8188,Tata Docomo,Uttar Pradesh (E),10
+8188,Tata Docomo,Uttar Pradesh (E),10
+8189,Idea,Tamil Nadu,10
+8189,Tata Docomo,Uttar Pradesh (East),10
+8189,Tata Docomo,Uttar Pradesh (E),10
+8189,Tata Docomo,Uttar Pradesh (E),10
+8190,Idea,Tamil Nadu,10
+8191,Idea,Uttar Pradesh (W),10
+8192,Idea,Uttar Pradesh (W),10
+8193,Idea,Uttar Pradesh (W),10
+8194,Idea,Punjab,10
+8194,Idea,Uttar Pradesh (W),10
+8195,Idea,Punjab,10
+8196,Idea,Punjab,10
+8197,Airtel,Karnataka,10
+8198,Idea,Haryana,10
+8198,Idea,Punjab,10
+8199,Idea,Haryana,10
+8200,Jio,Gujarat,10
+8207,Bharti Airtel,West Bengal,10
+8207,Idea,Bihar,10
+8207,Idea,Bihar,10
+8208,Jio,Maharashtra,10
+8210,Jio,Bihar,10
+8217,Jio,Karnataka,10
+8218,Jio,Uttar Pradesh (West),10
+8219,Jio,Himachal Pradesh,10
+8220,Airtel,Tamil Nadu,10
+8221,Idea,Haryana,10
+8222,Idea,Haryana,10
+8223,Idea,Madhya Pradesh,10
+8224,Idea,Madhya Pradesh,10
+8225,Idea,Madhya Pradesh,10
+8226,Idea,Bihar,10
+8226,Idea,Madhya Pradesh,10
+8227,Idea,Bihar,10
+8228,Idea,Bihar,10
+8229,Reliance,Kolkata,10
+8229,Idea,Bihar,10
+8230,Reliance,Kolkata,10
+8231,Reliance,Kolkata,10
+8232,Reliance,Kolkata,10
+8233,Tata Docomo,Rajasthan,10
+8234,Reliance,Madhya Pradesh,10
+8235,Tata Docomo,Bihar & Jharkhand,10
+8236,Reliance,Madhya Pradesh,10
+8237,Tata Docomo,Maharashtra,10
+8238,Vodafone,Gujarat,10
+8239,Vodafone,Rajasthan,10
+8240,Jio,Kolkata,10
+8247,Jio,Andhra Pradesh,10
+8248,Jio,Tamil Nadu,10
+8249,Jio,Odisha,10
+8250,Jio,West Bengal,10
+8251,Reliance,Madhya Pradesh,10
+8252,Reliance,Bihar & Jharkhand,10
+8253,Reliance,Assam,10
+8253,Reliance,Madhya Pradesh,10
+8254,Reliance,Assam,10
+8255,Reliance,Assam,10
+8256,Vodafone,North East,10
+8256,Reliance,Assam,10
+8257,Vodafone,North East,10
+8258,Vodafone,North East,10
+8259,Vodafone,North East,10
+8260,Reliance,Odisha,10
+8261,Reliance,Himachal Pradesh,10
+8262,Reliance,Himachal Pradesh,10
+8263,Reliance,Himachal Pradesh,10
+8264,Videocon Telecom,Gujarat,10
+8264,Bharti Airtel,Punjab,10
+8264,Bharti Airtel,Maharashtra,10
+8264,Bharti Airtel,Maharashtra,10
+8265,Reliance,Himachal Pradesh,10
+8267,Tata Docomo,Uttar Pradesh (East),10
+8268,Videocon Telecom,Mumbai,10
+8269,Videocon Telecom,MP & Chhatisgarh,10
+8269,Bharti Airtel,Madhya Pradesh,10
+8269,Bharti Airtel,Madhya Pradesh,10
+8270,Vodafone,Tamil Nadu,10
+8270,Vodafone,Tamil Nadu,10
+8270,Vodafone,Tamil Nadu,10
+8271,Uninor,Bihar & Jharkhand,10
+8272,Reliance,Kolkata,10
+8273,Uninor,UP (W) & Uttarakhand,10
+8274,Tata Docomo,Kolkata West Bengal,10
+8274,Reliance,Kolkata,10
+8275,BSNL,Maharashtra,10
+8276,Reliance,Kolkata,10
+8277,BSNL,Karnataka,10
+8278,BSNL,Haryana,10
+8279,BSNL,Rajasthan,10
+8279,Jio,Andhra Pradesh,10
+8279,Jio,Uttar Pradesh (West),10
+8280,BSNL,Odisha,10
+8281,BSNL,Kerala,10
+8282,Reliance,Kolkata,10
+8283,Bharti Airtel,Punjab,10
+8284,Bharti Airtel,Punjab,10
+8285,Aircel,Delhi,10
+8286,Aircel,Mumbai,10
+8287,Reliance,Delhi,10
+8288,Bharti Airtel,Punjab,10
+8288,Bharti Airtel,Punjab,10
+8288,Bharti Airtel,Punjab,10
+8289,BSNL,Kerala,10
+8289,Bharti Airtel,Punjab,10
+8290,Airtel,Rajasthan,10
+8291,Uninor,Mumbai,10
+8292,Airtel,Bihar & Jharkhand,10
+8293,Tata Docomo,West Bengal,10
+8294,Airtel,Bihar & Jharkhand,10
+8295,Airtel,Haryana,10
+8296,Bharti Airtel,Karnataka,10
+8296,Bharti Airtel,Karnataka,10
+8297,Vodafone,Andhra Pradesh,10
+8298,Vodafone,Bihar & Jharkhand,10
+8299,Jio,Uttar Pradesh (East),10
+8300,BSNL,Tamil Nadu,10
+8300,Jio,Uttar Pradesh (West),10
+8300,Jio,Bihar,10
+8301,BSNL,Kerala,10
+8302,Reliance,Rajasthan,10
+8303,Reliance,Uttar Pradesh (East),10
+8304,BSNL,Kerala,10
+8305,Reliance,MP & Chhatisgarh,10
+8306,Reliance,Gujarat,10
+8307,Reliance,UP (W) & Uttarakhand,10
+8308,Idea,Maharashtra,10
+8310,Jio,Karnataka,10
+8317,Idea,Maharashtra,10
+8317,Jio,Uttar Pradesh (East),10
+8317,Jio,Karnataka,10
+8317,Jio,Andhra Pradesh,10
+8317,Idea,Bihar,10
+8317,Idea,Bihar,10
+8317,Idea,Bihar,10
+8320,Jio,Gujarat,10
+8327,Vodafone,West Bengal,10
+8328,Jio,Andhra Pradesh,10
+8328,Vodafone,West Bengal,10
+8329,Jio,Maharashtra,10
+8330,BSNL,Andhra Pradesh,10
+8330,BSNL,Kerala,10
+8331,BSNL,Andhra Pradesh,10
+8332,BSNL,Andhra Pradesh,10
+8333,BSNL,Andhra Pradesh,10
+8334,Vodafone,Kolkata,10
+8335,Vodafone,Kolkata,10
+8336,Vodafone,Kolkata,10
+8337,Vodafone,Odisha,10
+8338,Vodafone,Odisha,10
+8339,Vodafone,Odisha,10
+8340,Jio,Bihar,10
+8340,Idea,Andhra Pradesh,10
+8340,Idea,Andhra Pradesh,10
+8341,Uninor,Andhra Pradesh,10
+8342,Vodafone,Odisha,10
+8343,Idea,West Bengal,10
+8344,Aircel,Tamil Nadu,10
+8345,Idea,West Bengal,10
+8346,Idea,West Bengal,10
+8347,Idea,Gujarat,10
+8348,Vodafone,West Bengal,10
+8349,Airtel,MP & Chhatisgarh,10
+8350,Idea,West Bengal,10
+8350,Idea,Himachal Pradesh,10
+8351,Idea,Himachal Pradesh,10
+8352,Idea,Himachal Pradesh,10
+8353,Uninor,Uttar Pradesh (East),10
+8353,Idea,Himachal Pradesh,10
+8354,Uninor,Uttar Pradesh (East),10
+8355,Uninor,Uttar Pradesh (East),10
+8355,Uninor,Mumbai,10
+8356,Uninor,Mumbai,10
+8357,Vodafone,Madhya Pradesh,10
+8358,Vodafone,Madhya Pradesh,10
+8359,Vodafone,Madhya Pradesh,10
+8360,Jio,Punjab,10
+8367,Idea,Andhra Pradesh,10
+8367,Idea,Andhra Pradesh,10
+8367,Vodafone,West Bengal,10
+8368,Jio,New Delhi,10
+8369,Jio,Mumbai,10
+8370,Vodafone,West Bengal,10
+8370,Vodafone,Madhya Pradesh,10
+8371,Vodafone,West Bengal,10
+8372,Vodafone,West Bengal,10
+8373,Vodafone,Delhi,10
+8373,Vodafone,West Bengal,10
+8374,Airtel,Andhra Pradesh,10
+8375,Vodafone,Delhi,10
+8376,Vodafone,Delhi,10
+8377,Vodafone,Delhi,10
+8378,Idea,Maharashtra & Goa,10
+8379,Idea,Maharashtra & Goa,10
+8380,Idea,Maharashtra & Goa,10
+8381,Idea,Maharashtra & Goa,10
+8381,Uninor,Uttar Pradesh (East),10
+8382,Uninor,Uttar Pradesh (East),10
+8383,Uninor,Mumbai,10
+8383,Jio,Rajasthan,10
+8384,Uninor,Mumbai,10
+8384,Aircel,Rajasthan,10
+8384,Jio,Uttar Pradesh (West),10
+8385,Uninor,Mumbai,10
+8385,Aircel,Rajasthan,10
+8386,Aircel,Rajasthan,10
+8386,Aircel,Rajasthan,10
+8386,Aircel,Rajasthan,10
+8387,Aircel,Rajasthan,10
+8388,Reliance,West Bengal,10
+8389,Reliance,West Bengal,10
+8390,Vodafone,Maharashtra,10
+8390,Jio,Andhra Pradesh,10
+8391,Reliance,West Bengal,10
+8392,Vodafone,Uttar Pradesh (W),10
+8392,Reliance,West Bengal,10
+8393,Vodafone,Uttar Pradesh (W),10
+8394,Vodafone,Uttar Pradesh (W),10
+8395,Vodafone,Haryana,10
+8395,Vodafone,Uttar Pradesh (W),10
+8396,Vodafone,Haryana,10
+8397,Vodafone,Haryana,10
+8398,Vodafone,Haryana,10
+8399,Vodafone,Assam,10
+8400,Airtel,Uttar Pradesh (East),10
+8401,Uninor,Gujarat,10
+8402,Vodafone,Assam,10
+8403,Vodafone,Assam,10
+8404,Vodafone,Bihar,10
+8404,Vodafone,Assam,10
+8405,Vodafone,Bihar,10
+8406,Vodafone,Bihar,10
+8407,Vodafone,Maharashtra,10
+8407,Vodafone,Bihar,10
+8408,Vodafone,Maharashtra,10
+8409,Uninor,Bihar & Jharkhand,10
+8410,Aircel,UP (W) & Uttarakhand,10
+8411,Vodafone,Maharashtra,10
+8412,Vodafone,Maharashtra,10
+8413,Bharti Airtel,North-East,10
+8414,Bharti Airtel,North-East,10
+8415,Bharti Airtel,North-East,10
+8416,Idea,Uttar Pradesh (E),10
+8416,Bharti Airtel,North-East,10
+8417,Idea,Uttar Pradesh (E),10
+8418,Idea,Uttar Pradesh (E),10
+8419,Idea,Mumbai,10
+8419,Idea,Uttar Pradesh (E),10
+8420,Airtel,Kolkata,10
+8421,Uninor,Maharashtra,10
+8422,Idea,Mumbai,10
+8423,Uninor,Uttar Pradesh (East),10
+8424,Idea,Mumbai,10
+8425,Idea,Mumbai,10
+8426,Idea,Rajasthan,10
+8427,Airtel,Punjab,10
+8428,Videocon Telecom,Tamil Nadu,10
+8428,Idea,Tamil Nadu,10
+8429,Reliance,Uttar Pradesh (East),10
+8430,Reliance,UP (W) & Uttarakhand,10
+8430,Vodafone,West Bengal,10
+8431,Reliance,Karnataka,10
+8432,MTS,Rajasthan,10
+8433,MTS,Mumbai,10
+8433,Jio,Uttar Pradesh (West),10
+8433,Idea,Uttar Pradesh (East),10
+8434,MTS,Bihar & Jharkhand,10
+8434,Uninor,Bihar,10
+8435,Idea,MP & Chhatisgarh,10
+8436,Uninor,West Bengal,10
+8437,Spice,Punjab,10
+8438,Tata Docomo,Tamil Nadu,10
+8439,Tata Docomo,UP (W) & Uttarakhand,10
+8440,Idea,Rajasthan,10
+8441,Idea,Rajasthan,10
+8442,Reliance,West Bengal,10
+8442,Reliance,West Bengal,10
+8442,Reliance,Kolkata,10
+8442,Idea,Rajasthan,10
+8443,Reliance,Kolkata,10
+8444,Reliance,Kolkata,10
+8445,Uninor,UP (W) & Uttarakhand,10
+8446,Tata Docomo,Maharashtra,10
+8447,Vodafone,Delhi,10
+8448,Reliance,Mumbai,10
+8449,Idea,UP (W) & Uttarakhand,10
+8450,Bharti Airtel,Mumbai,10
+8450,Reliance,Kolkata,10
+8451,Bharti Airtel,Mumbai,10
+8452,Bharti Airtel,Mumbai,10
+8453,MTS,Karnataka,10
+8454,Bharti Airtel,Mumbai,10
+8455,Bharti Airtel,Odisha,10
+8456,Bharti Airtel,Odisha,10
+8457,Bharti Airtel,Odisha,10
+8458,Bharti Airtel,Odisha,10
+8458,Idea,Madhya Pradesh,10
+8459,MTS,Delhi,10
+8460,Tata Docomo,Gujarat,10
+8461,Idea,MP & Chhatisgarh,10
+8462,Idea,MP & Chhatisgarh,10
+8463,Idea,Andhra Pradesh,10
+8463,Idea,MP & Chhatisgarh,10
+8464,Idea,Andhra Pradesh,10
+8465,Idea,Andhra Pradesh,10
+8466,Idea,Andhra Pradesh,10
+8469,Vodafone,Gujarat,10
+8471,Bharti Airtel,Assam,10
+8472,Bharti Airtel,Assam,10
+8473,Bharti Airtel,Assam,10
+8474,Idea,Uttar Pradesh (W),10
+8474,Bharti Airtel,Assam,10
+8475,Idea,Uttar Pradesh (W),10
+8476,Idea,Uttar Pradesh (W),10
+8477,Idea,Uttar Pradesh (W),10
+8478,Idea,Kolkata,10
+8479,Idea,Kolkata,10
+8480,BSNL,Uttar Pradesh (East),10
+8481,Idea,Kolkata,10
+8482,Idea,Kolkata,10
+8482,Uninor,Maharashtra,10
+8483,Uninor,Maharashtra,10
+8484,Uninor,Maharashtra,10
+8485,Uninor,Gujarat,10
+8485,Uninor,Maharashtra,10
+8485,Uninor,Maharashtra,10
+8486,Vodafone,Assam,10
+8487,Uninor,Gujarat,10
+8488,Uninor,Gujarat,10
+8489,Vodafone,Tamil Nadu,10
+8489,Uninor,Gujarat,10
+8490,Uninor,Gujarat,10
+8491,Bharti Airtel,Jammu & Kashmir,10
+8492,Bharti Airtel,Jammu & Kashmir,10
+8493,Bharti Airtel,Jammu & Kashmir,10
+8494,Spice,Karnataka,10
+8494,Bharti Airtel,Jammu & Kashmir,10
+8495,Spice,Karnataka,10
+8496,Spice,Karnataka,10
+8497,Idea,Andhra Pradesh,10
+8497,Spice,Karnataka,10
+8498,Idea,Andhra Pradesh,10
+8499,Idea,Andhra Pradesh,10
+8500,BSNL,Andhra Pradesh,10
+8501,Idea,Andhra Pradesh,10
+8502,Idea,Rajasthan,10
+8503,Idea,Rajasthan,10
+8504,Idea,Rajasthan,10
+8505,Idea,Delhi,10
+8505,Idea,Rajasthan,10
+8506,Idea,Delhi,10
+8507,Aircel,Bihar & Jharkhand,10
+8508,Aircel,Tamil Nadu,10
+8509,Reliance,West Bengal,10
+8510,Idea,Delhi,10
+8511,Airtel,Gujarat,10
+8512,Idea,Delhi,10
+8512,Idea,West Bengal,10
+8513,Idea,West Bengal,10
+8514,Idea,West Bengal,10
+8515,Idea,West Bengal,10
+8516,Vodafone,MP,10
+8517,Vodafone,MP,10
+8518,Vodafone,MP,10
+8519,Uninor,Andhra Pradesh,10
+8520,Uninor,Andhra Pradesh,10
+8521,Airtel,Bihar & Jharkhand,10
+8522,Uninor,Andhra Pradesh,10
+8523,Uninor,Andhra Pradesh,10
+8523,Uninor,Tamil Nadu,10
+8524,Vodafone,Tamil Nadu,10
+8525,Vodafone,Tamil Nadu,10
+8526,Aircel,Tamil Nadu,10
+8527,Airtel,Delhi,10
+8528,HFCL,Punjab,10
+8529,Videocon Telecom,Haryana,10
+8529,Bharti Airtel,Rajasthan,10
+8530,Videocon Telecom,Gujarat,10
+8531,Vodafone,Tamil Nadu,10
+8531,BSNL,Assam,10
+8532,Uninor,UP (W) & Uttarakhand,10
+8533,Uninor,UP (W) & Uttarakhand,10
+8534,Uninor,UP (W) & Uttarakhand,10
+8535,Uninor,UP (W) & Uttarakhand,10
+8535,Uninor,West Bengal,10
+8536,Uninor,West Bengal,10
+8537,Uninor,West Bengal,10
+8538,Uninor,West Bengal,10
+8538,Uninor,West Bengal,10
+8538,Uninor,Bihar & Jharkhand,10
+8539,Uninor,Bihar & Jharkhand,10
+8540,Uninor,Bihar & Jharkhand,10
+8541,Uninor,Bihar & Jharkhand,10
+8541,Uninor,Bihar & Jharkhand,10
+8542,Uninor,Uttar Pradesh (East),10
+8543,Uninor,Uttar Pradesh (East),10
+8544,BSNL,Bihar & Jharkhand,10
+8545,Uninor,Uttar Pradesh (East),10
+8546,Uninor,Karnataka,10
+8546,Uninor,Uttar Pradesh (East),10
+8547,BSNL,Kerala,10
+8548,Uninor,Karnataka,10
+8549,Uninor,Karnataka,10
+8550,Uninor,Karnataka,10
+8550,Vodafone,Maharashtra,10
+8551,Vodafone,Maharashtra,10
+8552,Vodafone,Maharashtra,10
+8553,Aircel,Karnataka,10
+8554,Vodafone,Maharashtra,10
+8556,Vodafone,Punjab,10
+8557,Vodafone,Punjab,10
+8558,Vodafone,Punjab,10
+8559,Vodafone,Punjab,10
+8559,Aircel,Rajasthan,10
+8560,Aircel,Rajasthan,10
+8561,Aircel,Rajasthan,10
+8562,Aircel,Uttar Pradesh (East),10
+8562,Aircel,Rajasthan,10
+8563,Aircel,Uttar Pradesh (East),10
+8564,Aircel,Uttar Pradesh (East),10
+8565,Aircel,Uttar Pradesh (East),10
+8566,Aircel,Punjab,10
+8567,Aircel,Punjab,10
+8568,Aircel,Punjab,10
+8569,Aircel,Punjab,10
+8569,Bharti Airtel,Haryana,10
+8570,Bharti Airtel,Haryana,10
+8571,Bharti Airtel,Haryana,10
+8572,Idea,Uttar Pradesh (East),10
+8572,Bharti Airtel,Haryana,10
+8573,Idea,Uttar Pradesh (East),10
+8574,Aircel,Uttar Pradesh (East),10
+8575,Aircel,North East,10
+8576,Idea,Uttar Pradesh (East),10
+8577,Idea,Uttar Pradesh (East),10
+8578,Idea,Bihar & Jharkhand,10
+8579,Idea,Bihar & Jharkhand,10
+8580,BSNL,Bihar & Jharkhand,10
+8581,Idea,Bihar & Jharkhand,10
+8582,Idea,Bihar & Jharkhand,10
+8586,Vodafone,Delhi,10
+8587,Vodafone,Delhi,10
+8588,Vodafone,Delhi,10
+8590,Reliance,Kerala,10
+8591,Reliance,Punjab,10
+8592,Vodafone,Kerala,10
+8595,Reliance,Delhi,10
+8597,Reliance,Bihar & Jharkhand,10
+8600,Airtel,Maharashtra,10
+8601,Vodafone,Uttar Pradesh (East),10
+8602,Tata Docomo,MP & Chhatisgarh,10
+8603,Tata Docomo,Bihar & Jharkhand,10
+8604,T24 Mobile,Uttar Pradesh (East),10
+8605,Idea,Maharashtra,10
+8606,Idea,Kerala,10
+8607,Idea,Haryana,10
+8608,Idea,Tamil Nadu,10
+8609,Idea,West Bengal,10
+8610,Jio,Tamil Nadu,10
+8617,Jio,Kolkata,10
+8617,Jio,Kolkata,10
+8618,Jio,Karnataka,10
+8619,Jio,Rajasthan,10
+8626,Bharti Airtel,Himachal Pradesh,10
+8627,Bharti Airtel,Himachal Pradesh,10
+8628,Bharti Airtel,Himachal Pradesh,10
+8629,MTS,West Bengal,10
+8629,Bharti Airtel,Himachal Pradesh,10
+8630,Jio,Uttar Pradesh (West),10
+8637,Jio,Odisha,10
+8637,Jio,West Bengal,10
+8638,Jio,Assam,10
+8639,Jio,Andhra Pradesh,10
+8640,MTS,West Bengal,10
+8641,MTS,West Bengal,10
+8642,Jio,Madhya Pradesh,10
+8643,MTS,Tamil Nadu,10
+8644,MTS,Tamil Nadu,10
+8645,MTS,Tamil Nadu,10
+8646,MTS,Tamil Nadu,10
+8646,MTS,Kolkata,10
+8647,MTS,Kolkata,10
+8647,MTS,Kolkata,10
+8648,MTS,Kolkata,10
+8649,MTS,Kolkata,10
+8649,Aircel,MP & Chhatisgarh,10
+8650,Vodafone,UP (W) & Uttarakhand,10
+8651,Idea,Bihar & Jharkhand,10
+8652,Idea,Mumbai,10
+8653,Tata Docomo,West Bengal,10
+8654,Aircel,MP & Chhatisgarh,10
+8655,Tata Docomo,Mumbai,10
+8656,Aircel,MP & Chhatisgarh,10
+8657,Reliance,Maharashtra,10
+8658,Airtel,Odisha,10
+8659,Aircel,Madhya Pradesh,10
+8660,Jio,Karnataka,10
+8667,Jio,Tamil Nadu,10
+8668,Jio,Maharashtra,10
+8668,Jio,Tamil Nadu,10
+8669,Jio,Maharashtra,10
+8670,Airtel,West Bengal,10
+8671,Aircel,Gujarat,10
+8672,Aircel,Gujarat,10
+8673,Aircel,Gujarat,10
+8674,Aircel,Gujarat,10
+8674,Vodafone,Bihar & Jharkhand,10
+8675,Aircel,Tamil Nadu,10
+8676,Vodafone,Bihar & Jharkhand,10
+8677,Vodafone,Bihar & Jharkhand,10
+8678,Vodafone,Bihar & Jharkhand,10
+8678,Idea,Tamil Nadu,10
+8679,Aircel,Himachal Pradesh,10
+8680,Idea,Tamil Nadu,10
+8681,Idea,Tamil Nadu,10
+8682,Idea,Tamil Nadu,10
+8683,Idea,Haryana,10
+8684,Idea,Haryana,10
+8685,Idea,Haryana,10
+8686,Aircel,Andhra Pradesh,10
+8687,Reliance,Uttar Pradesh (East),10
+8688,Reliance,Andhra Pradesh,10
+8689,Idea,Mumbai,10
+8689,Idea,Haryana,10
+8690,Reliance,Gujarat,10
+8691,Idea,Mumbai,10
+8692,Idea,Mumbai,10
+8693,Idea,Mumbai,10
+8693,MTS,Karnataka,10
+8694,MTS,Karnataka,10
+8695,Reliance,Tamil Nadu,10
+8696,Vodafone,Rajasthan,10
+8697,Vodafone,Kolkata,10
+8698,Vodafone,Maharashtra,10
+8699,Tata Docomo,Punjab,10
+8700,Jio,Delhi,10
+8707,Jio,Uttar Pradesh (East),10
+8707,Jio,Uttar Pradesh (East),10
+8708,Jio,Haryana,10
+8709,Jio,Bihar,10
+8710,MTS,Karnataka,10
+8711,MTS,Karnataka,10
+8712,T24 Mobile,Andhra Pradesh,10
+8713,Vodafone,Jammu & Kashmir,10
+8714,Tata Docomo,Kerala,10
+8715,Vodafone,Jammu & Kashmir,10
+8716,Vodafone,Jammu & Kashmir,10
+8717,Idea,MP & Chhatisgarh,10
+8717,Vodafone,Jammu & Kashmir,10
+8718,Idea,MP & Chhatisgarh,10
+8719,Idea,MP & Chhatisgarh,10
+8720,Idea,MP & Chhatisgarh,10
+8720,Vodafone,Assam,10
+8721,Vodafone,Assam,10
+8722,Idea,Karnataka,10
+8722,Spice,Karnataka,10
+8723,Vodafone,Assam,10
+8724,Vodafone,Assam,10
+8725,Idea,Punjab,10
+8726,Idea,Uttar Pradesh (East),10
+8727,Idea,Punjab,10
+8728,Idea,Punjab,10
+8729,Idea,Punjab,10
+8729,Bharti Airtel,North East,10
+8730,Bharti Airtel,North East,10
+8731,Bharti Airtel,North East,10
+8732,Uninor,Gujarat,10
+8732,Bharti Airtel,North East,10
+8733,Uninor,Gujarat,10
+8734,Uninor,Gujarat,10
+8735,Uninor,Gujarat,10
+8736,Uninor,Uttar Pradesh (East),10
+8737,Uninor,Uttar Pradesh (East),10
+8738,Uninor,Uttar Pradesh (East),10
+8739,Idea,Rajasthan,10
+8739,Uninor,Uttar Pradesh (East),10
+8740,Idea,Rajasthan,10
+8741,Idea,Rajasthan,10
+8742,Idea,Delhi,10
+8742,Idea,Rajasthan,10
+8742,Idea,Delhi,10
+8743,Idea,Delhi,10
+8744,Idea,Delhi,10
+8745,Idea,Delhi,10
+8746,Spice,Karnataka,10
+8747,Spice,Karnataka,10
+8748,Spice,Karnataka,10
+8749,Spice,Karnataka,10
+8749,Aircel,Assam,10
+8750,Idea,Delhi,10
+8751,Aircel,Assam,10
+8752,Aircel,Assam,10
+8753,Bharti Airtel,Assam,10
+8753,Aircel,Assam,10
+8754,Airtel,Tamil Nadu,10
+8755,Airtel,UP (W) & Uttarakhand,10
+8756,Airtel,Uttar Pradesh (East),10
+8757,Airtel,Bihar & Jharkhand,10
+8758,Vodafone,Gujarat,10
+8759,Aircel,West Bengal,10
+8760,Aircel,Tamil Nadu,10
+8761,Bharti Airtel,Assam,10
+8762,BSNL,Karnataka,10
+8763,BSNL,Odisha,10
+8764,BSNL,Rajasthan,10
+8765,BSNL,Uttar Pradesh (East),10
+8766,Reliance,Rajasthan,10
+8767,Reliance,Mumbai,10
+8768,Vodafone,Kolkata,10
+8769,Airtel,Rajasthan,10
+8770,Jio,Madhya Pradesh,10
+8777,Jio,Kolkata,10
+8777,Jio,Kolkata,10
+8778,Jio,Tamil Nadu,10
+8779,Jio,Mumbai,10
+8780,Jio,Gujarat,10
+8787,Jio,Uttar Pradesh (East),10
+8787,Jio,North East,10
+8787,Jio,Uttar Pradesh (East),10
+8787,Jio,North East,10
+8788,Jio,Maharashtra,10
+8789,Jio,Bihar,10
+8790,Airtel,Andhra Pradesh,10
+8791,Tata Docomo,UP (W) & Uttarakhand,10
+8792,T24 Mobile,Karnataka,10
+8793,Tata Docomo,Maharashtra,10
+8794,Vodafone,North East,10
+8795,Vodafone,Uttar Pradesh (East),10
+8796,Aircel,Maharashtra,10
+8797,Tata Docomo,Bihar & Jharkhand,10
+8798,Reliance,West Bengal,10
+8799,Reliance,Uttar Pradesh (East),10
+8800,Airtel,Delhi,10
+8801,Aircel,Andhra Pradesh,10
+8802,Aircel,Delhi,10
+8803,Aircel,Jammu & Kashmir,10
+8804,Aircel,Bihar & Jharkhand,10
+8805,Idea,Maharashtra,10
+8806,Vodafone,Maharashtra,10
+8807,Tata Docomo,Tamil Nadu,10
+8808,Idea,Uttar Pradesh (East),10
+8809,Airtel,Bihar & Jharkhand,10
+8810,Reliance,UP (W) & Uttarakhand,10
+8811,Bharti Airtel,Assam,10
+8812,Bharti Airtel,Assam,10
+8813,Vodafone,Haryana,10
+8814,Vodafone,Haryana,10
+8815,Reliance,MP & Chhatisgarh,10
+8816,Vodafone,Haryana,10
+8817,Reliance,MP & Chhatisgarh,10
+8818,Vodafone,Haryana,10
+8818,Vodafone,MP & Chhatisgarh,10
+8819,Vodafone,MP & Chhatisgarh,10
+8820,Reliance,Kolkata,10
+8821,Vodafone,MP & Chhatisgarh,10
+8822,Reliance,Assam,10
+8823,Vodafone,MP & Chhatisgarh,10
+8824,Reliance,Rajasthan,10
+8825,Videocon Telecom,Tamil Nadu,10
+8825,Jio,Jammu & Kashmir,10
+8825,Jio,Tamil Nadu,10
+8826,Airtel,Delhi,10
+8827,Airtel,MP & Chhatisgarh,10
+8828,Videocon Telecom,Mumbai,10
+8828,Jio,Odisha,10
+8828,Jio,Madhya Pradesh,10
+8830,Jio,Maharashtra,10
+8837,Jio,North East,10
+8837,Jio,Punjab,10
+8837,Jio,North East,10
+8837,Jio,Punjab,10
+8838,Jio,Tamil Nadu,10
+8839,Jio,Madhya Pradesh,10
+8840,Jio,Uttar Pradesh (East),10
+8847,Jio,Punjab,10
+8847,Jio,Punjab,10
+8848,Jio,Kerala,10
+8849,Jio,Gujarat,10
+8850,Jio,Mumbai,10
+8851,Jio,New Delhi,10
+8853,Airtel,Uttar Pradesh (East),10
+8855,Uninor,Maharashtra,10
+8856,Uninor,Maharashtra,10
+8857,Uninor,Maharashtra,10
+8858,Uninor,Uttar Pradesh (East),10
+8859,Vodafone,UP (W) & Uttarakhand,10
+8860,Vodafone,Delhi,10
+8861,Airtel,Karnataka,10
+8862,Uninor,Maharashtra,10
+8862,Uninor,Bihar & Jharkhand,10
+8863,Uninor,Bihar & Jharkhand,10
+8864,Uninor,Bihar & Jharkhand,10
+8864,Uninor,Uttar Pradesh (W),10
+8865,Uninor,UP (W) & Uttarakhand,10
+8866,Tata Docomo,Gujarat,10
+8867,Tata Docomo,Karnataka,10
+8868,Uninor,UP (W) & Uttarakhand,10
+8869,Uninor,Uttar Pradesh (East),10
+8869,Uninor,UP (W) & Uttarakhand,10
+8870,Airtel,Tamil Nadu,10
+8871,Tata Docomo,MP & Chhatisgarh,10
+8872,Idea,Punjab,10
+8873,Idea,Bihar & Jharkhand,10
+8874,Vodafone,Uttar Pradesh (East),10
+8875,Vodafone,Rajasthan,10
+8876,Vodafone,Assam,10
+8877,Vodafone,Bihar & Jharkhand,10
+8878,Vodafone,MP & Chhatisgarh,10
+8879,Vodafone,Mumbai,10
+8880,Reliance,Karnataka,10
+8881,Reliance,UP (W) & Uttarakhand,10
+8882,Reliance,Delhi,10
+8883,Aircel,Tamil Nadu,10
+8884,Vodafone,Karnataka,10
+8885,Tata Docomo,Andhra Pradesh,10
+8886,Vodafone,Andhra Pradesh,10
+8887,BSNL,Uttar Pradesh (East),10
+8888,Idea,Maharashtra,10
+8889,Idea,MP & Chhatisgarh,10
+8890,Airtel,Rajasthan,10
+8891,Tata Docomo,Kerala,10
+8892,Aircel,Karnataka,10
+8893,Reliance,Kerala,10
+8894,Airtel,Himachal Pradesh,10
+8895,BSNL,Odisha,10
+8896,Aircel,Uttar Pradesh (East),10
+8897,Airtel,Andhra Pradesh,10
+8898,Aircel,Mumbai,10
+8899,Reliance,UP (W) & Uttarakhand,10
+8900,BSNL,West Bengal,10
+8901,BSNL,Haryana,10
+8902,BSNL,Kolkata,10
+8903,BSNL,Tamil Nadu,10
+8904,Tata Docomo,Karnataka,10
+8905,Reliance,Gujarat,10
+8906,Aircel,West Bengal,10
+8907,Aircel,Kerala,10
+8908,Aircel,ORISSA,10
+8909,Aircel,UP (W) & Uttarakhand,10
+8910,Jio,Kolkata,10
+8917,Idea,Uttar Pradesh (East),10
+8917,Jio,Odisha,10
+8918,Jio,West Bengal,10
+8919,Jio,Andhra Pradesh,10
+8920,Jio,New Delhi,10
+8921,Jio,Kerala,10
+8922,Uninor,Uttar Pradesh (East),10
+8923,Uninor,UP (W) & Uttarakhand,10
+8924,Uninor,Uttar Pradesh (East),10
+8925,MTS,Tamil Nadu,10
+8926,MTS,West Bengal,10
+8927,Reliance,West Bengal,10
+8928,Reliance,Maharashtra,10
+8929,Reliance,Haryana,10
+8930,Vodafone,Haryana,10
+8931,Uninor,Uttar Pradesh (East),10
+8932,Idea,Uttar Pradesh (East),10
+8933,Idea,Uttar Pradesh (East),10
+8934,Idea,Uttar Pradesh (East),10
+8935,Idea,Uttar Pradesh (East),10
+8935,Uninor,Bihar & Jharkhand,10
+8936,Idea,UP (W) & Uttarakhand,10
+8936,Uninor,Bihar & Jharkhand,10
+8937,Idea,UP (W) & Uttarakhand,10
+8938,Idea,UP (W) & Uttarakhand,10
+8939,Vodafone,Chennai,10
+8940,Vodafone,Tamil Nadu,10
+8941,Idea,UP (W) & Uttarakhand,10
+8942,Uninor,West Bengal,10
+8943,Vodafone,Kerala,10
+8944,Uninor,West Bengal,10
+8945,Uninor,West Bengal,10
+8946,Aircel,Rajasthan,10
+8946,Uninor,West Bengal,10
+8946,Jio,Tamil Nadu,10
+8947,Aircel,Rajasthan,10
+8948,Vodafone,Uttar Pradesh (East),10
+8949,Jio,Rajasthan,10
+8950,Tata Docomo,Haryana,10
+8951,Tata Docomo,Karnataka,10
+8952,Bharti Airtel,North East,10
+8952,Aircel,Rajasthan,10
+8952,Bharti Airtel,North-East,10
+8953,Airtel,Uttar Pradesh (East),10
+8954,Vodafone,UP (W) & Uttarakhand,10
+8955,Reliance,Rajasthan,10
+8956,Reliance,Maharashtra,10
+8957,Reliance,Uttar Pradesh (East),10
+8958,Idea,UP (W) & Uttarakhand,10
+8959,Idea,MP & Chhatisgarh,10
+8960,Tata Docomo,Uttar Pradesh (East),10
+8961,Tata Docomo,Kolkata,10
+8962,Tata Docomo,MP & Chhatisgarh,10
+8963,Aircel,Rajasthan,10
+8963,Idea,MP & Chhatisgarh,10
+8964,Idea,MP & Chhatisgarh,10
+8964,Idea,MP & Chhatisgarh,10
+8965,Idea,MP & Chhatisgarh,10
+8965,Idea,MP & Chhatisgarh,10
+8966,Idea,MP & Chhatisgarh,10
+8966,Idea,MP & Chhatisgarh,10
+8967,Airtel,West Bengal,10
+8968,Airtel,Punjab,10
+8969,Airtel,Bihar & Jharkhand,10
+8970,Idea,Karnataka,10
+8970,Spice,Karnataka,10
+8971,Airtel,Karnataka,10
+8972,Airtel,West Bengal,10
+8973,Aircel,Tamil Nadu,10
+8974,Airtel,North East,10
+8975,Idea,Maharashtra,10
+8976,Tata Docomo,Maharashtra,10
+8977,Tata Docomo,Andhra Pradesh,10
+8978,Airtel,Andhra Pradesh,10
+8979,Airtel,UP (W) & Uttarakhand,10
+8980,Vodafone,Gujarat,10
+8981,Tata Docomo,Kolkata,10
+8982,Tata Docomo,MP & Chhatisgarh,10
+8983,Tata Docomo,Maharashtra,10
+8984,Tata Docomo,ORISSA,10
+8985,BSNL,Andhra Pradesh,10
+8986,BSNL,Bihar & Jharkhand,10
+8987,BSNL,Bihar & Jharkhand,10
+8988,BSNL,Himachal Pradesh,10
+8989,BSNL,MP & Chhatisgarh,10
+8990,Jio,Punjab,10
+8990,Jio,Punjab,10
+8999,Jio,Maharashtra,10
+8999,Jio,Maharashtra,10
+9000,Airtel,Andhra Pradesh,10
+9001,Airtel,Rajasthan,10
+9002,Airtel,West Bengal,10
+9003,Airtel,Tamil Nadu,10
+9004,Airtel,Mumbai,10
+9005,Airtel,Uttar Pradesh (East),10
+9006,Airtel,Bihar & Jharkhand,10
+9007,Airtel,Kolkata,10
+9008,Airtel,Karnataka,10
+9009,Idea,MP & Chhatisgarh,10
+9010,Idea,Andhra Pradesh,10
+9011,Idea,Maharashtra,10
+9012,Idea,UP (W) & Uttarakhand,10
+9013,MTNL,Delhi,10
+9014,Reliance,Andhra Pradesh,10
+9015,Reliance,Delhi,10
+9016,Reliance,Gujarat,10
+9017,Reliance,Haryana,10
+9018,Reliance,Jammu & Kashmir,10
+9019,Reliance,Karnataka,10
+9020,Reliance,Kerala,10
+9021,Reliance,Maharashtra,10
+9022,Reliance,Mumbai,10
+9023,Reliance,Punjab,10
+9024,Reliance,Rajasthan,10
+9025,Reliance,Tamil Nadu,10
+9026,Reliance,Uttar Pradesh (East),10
+9027,Reliance,UP (W) & Uttarakhand,10
+9028,Tata Docomo,Maharashtra,10
+9029,Tata Docomo,Mumbai,10
+9030,Tata Docomo,Andhra Pradesh,10
+9031,Tata Docomo,Bihar & Jharkhand,10
+9032,Tata Docomo,Andhra Pradesh,10
+9033,Tata Docomo,Gujarat,10
+9034,Tata Docomo,Haryana,10
+9035,Tata Docomo,Karnataka,10
+9036,Tata Docomo,Karnataka,10
+9037,Tata Docomo,Kerala,10
+9038,Tata Docomo,Kolkata,10
+9039,Tata Docomo,MP & Chhatisgarh,10
+9040,Tata Docomo,ORISSA,10
+9041,Tata Docomo,Punjab,10
+9042,Tata Docomo,Tamil Nadu,10
+9043,Tata Docomo,Tamil Nadu,10
+9044,Tata Docomo,Uttar Pradesh (East),10
+9045,Tata Docomo,UP (W) & Uttarakhand,10
+9046,Tata Docomo,West Bengal,10
+9047,Vodafone,Tamil Nadu,10
+9048,Vodafone,Kerala,10
+9049,Vodafone,Maharashtra,10
+9050,Vodafone,Haryana,10
+9051,Vodafone,Kolkata,10
+9052,Vodafone,Andhra Pradesh,10
+9053,Uninor,Haryana,10
+9053,Idea,Haryana,10
+9054,Telenor,Gujarat,10
+9055,Uninor,Jammu & Kashmir,10
+9056,Uninor,Punjab,10
+9056,Tata Docomo,Punjab,10
+9057,Uninor,Rajasthan,10
+9057,Idea,Rajasthan,10
+9058,Uninor,UP (W) & Uttarakhand,10
+9059,Uninor,Andhra Pradesh,10
+9060,Uninor,Karnataka,10
+9060,Telenor,Bihar,10
+9061,Uninor,Kerala,10
+9062,Jio,Gujarat,10
+9062,Jio,Gujarat,10
+9062,Jio,Gujarat,10
+9063,Videocon Telecom,Andhra Pradesh,10
+9063,Uninor,Andhra Pradesh,10
+9064,Jio,West Bengal,10
+9065,Videocon Telecom,Bihar & Jharkhand,10
+9065,Bharti Airtel,Bihar,10
+9066,Aircel,Karnataka,10
+9067,Videocon Telecom,Gujarat,10
+9067,Idea,Maharashtra & Goa,10
+9068,Videocon Telecom,Haryana,10
+9068,Bharti Airtel,Uttar Pradesh (West),10
+9068,Bharti Airtel,Uttar Pradesh (West),10
+9069,Aircel,New Delhi,10
+9070,Vodafone,Jammu & Kashmir,10
+9071,Videocon Telecom,Karnataka,10
+9071,Idea,Karnataka,10
+9072,Vodafone,Kerala,10
+9073,Vodafone,Kolkata,10
+9074,Jio,Kerala,10
+9075,Videocon Telecom,Maharashtra,10
+9075,Idea,Maharashtra,10
+9076,Videocon Telecom,Mumbai,10
+9076,Idea,Mumbai,10
+9076,Bharti Airtel,Uttar Pradesh (East),10
+9077,idea,North East,10
+9078,Videocon Telecom,Odisha,10
+9079,Videocon Telecom,Rajasthan,10
+9079,Idea,Rajasthan,10
+9080,Videocon Telecom,Tamil Nadu,10
+9080,Jio,Tamil Nadu,10
+9081,Jio,Gujarat,10
+9082,Jio,Mumbai,10
+9083,Videocon Telecom,West Bengal,10
+9083,Vodafone,West Bengal,10
+9084,Uninor,Uttar Pradesh (West),10
+9085,Idea,Assam,10
+9086,Idea,Jammu & Kashmir,10
+9087,Idea,Karnataka,10
+9087,Idea,Tamil Nadu,10
+9088,Idea,Kolkata,10
+9089,Idea,North East,10
+9090,Idea,Odisha,10
+9091,Idea,Punjab,10
+9091,Idea,West Bengal,10
+9092,Idea,Tamil Nadu,10
+9093,Idea,West Bengal,10
+9094,Aircel,Chennai,10
+9095,Aircel,Tamil Nadu,10
+9096,Airtel,Maharashtra,10
+9097,Aircel,Bihar & Jharkhand,10
+9098,Reliance,MP & Chhatisgarh,10
+9099,Vodafone,Gujarat,10
+9100,Loop Mobile,Andhra Pradesh,10
+9101,Jio,Assam,10
+9102,Loop Mobile,Bihar & Jharkhand,10
+9102,Bharti Airtel,Bihar,10
+9103,Reliance,Jammu and Kashmir,10
+9103,Aircel,Delhi,10
+9104,Uninor,Gujarat,10
+9105,Jio,Uttar Pradesh (West),10
+9106,Jio,Gujarat,10
+9106,Jio,Madhya Pradesh,10
+9106,Jio,Madhya Pradesh,10
+9107,Loop Mobile,Jammu & Kashmir,10
+9108,Bharti Airtel,Karnataka,10
+9109,Bharti Airtel,Madhya Pradesh,10
+9110,Loop Mobile,Kolkata,10
+9110,Jio,Bihar,10
+9111,Loop Mobile,MP & Chhatisgarh,10
+9111,Idea,Madhya Pradesh,10
+9112,Loop Mobile,Maharashtra,10
+9112,Vodafone,Maharashtra,10
+9112,Idea,Maharashtra,10
+9112,Bharti Airtel,Uttar Pradesh (East),10
+9113,Loop Mobile,North East,10
+9113,Jio,Bihar,10
+9114,Idea,Odisha,10
+9115,Loop Mobile,Punjab,10
+9115,Videocon Telecom,Punjab,10
+9115,Vodafone,Punjab,10
+9116,Loop Mobile,Rajasthan,10
+9116,Bharti Airtel,Rajasthan,10
+9116,Bharti Airtel,Uttar Pradesh (East),10
+9117,Loop Mobile,Tamil Nadu,10
+9118,Loop Mobile,Uttar Pradesh (East),10
+9119,Loop Mobile,UP (W) & Uttarakhand,10
+9119,Bharti Airtel,Rajasthan,10
+9119,Idea,Maharashtra,10
+9119,Bharti Airtel,Uttar Pradesh (East),10
+9120,Loop Mobile,West Bengal,10
+9121,Uninor,Assam,10
+9122,Uninor,Bihar & Jharkhand,10
+9123,Uninor,North East,10
+9123,Jio,Bihar,10
+9123,Jio,Tamil Nadu,10
+9124,Tata Docomo,Odisha,10
+9125,Uninor,Uttar Pradesh (East),10
+9126,Idea,Assam,10
+9127,Vodafone,Assam,10
+9128,STel,Bihar & Jharkhand,10
+9129,Bharti Airtel,Uttar Pradesh (East),10
+9130,Idea,Maharashtra,10
+9131,STel,North East,10
+9132,Aircel,Assam,10
+9133,MTS,Andhra Pradesh,10
+9134,Idea,West Bengal,10
+9135,Idea,Bihar,10
+9136,MTS,Delhi,10
+9137,MTS,Gujarat,10
+9138,Bharti Airtel,New Delhi,10
+9139,Aircel,Maharashtra,10
+9140,Jio,Uttar Pradesh (East),10
+9141,MTS,Karnataka,10
+9142,MTS,Kerala,10
+9143,MTS,Kolkata,10
+9144,Jio,West Bengal,10
+9145,MTS,Maharashtra,10
+9145,Vodafone,Maharashtra,10
+9146,Idea,Maharashtra,10
+9147,MTS,North East,10
+9147,Tata Docomo,Kolkata,10
+9148,Bharti Airtel,Karnataka,10
+9149,Jio,Bihar,10
+9149,Jio,Bihar,10
+9149,Jio,Uttar Pradesh (West),10
+9149,Jio,Jammu & Kashmir,10
+9150,MTS,Tamil Nadu,10
+9151,MTS,Uttar Pradesh (East),10
+9151,Videocon Telecom,Madhya Pradesh,10
+9151,Uninor,Uttar Pradesh(East),10
+9152,MTS,UP (W) & Uttarakhand,10
+9153,MTS,West Bengal,10
+9154,Uninor,Andhra Pradesh,10
+9155,Uninor,Bihar,10
+9156,Uninor,Maharashtra,10
+9157,Uninor,Gujarat,10
+9158,Vodafone,Maharashtra,10
+9159,Vodafone,Tamil Nadu,10
+9160,Vodafone,Andhra Pradesh,10
+9161,Vodafone,Uttar Pradesh (East),10
+9162,Airtel,Bihar & Jharkhand,10
+9163,Airtel,Kolkata,10
+9164,Idea,Karnataka,10
+9164,Spice,Karnataka,10
+9165,Idea,MP & Chhatisgarh,10
+9166,Airtel,Rajasthan,10
+9167,Vodafone,Mumbai,10
+9168,Vodafone,Maharashtra,10
+9169,Aircel,Uttar Pradesh(East),10
+9170,Uninor,Uttar Pradesh(East),10
+9171,Uninor,Tamil Nadu,10
+9171,Idea,MP & Chattisgarh,10
+9172,Bharti Airtel,Maharashtra,10
+9173,Uninor,Gujarat,10
+9174,Uninor,MP & Chhatisgarh,10
+9175,Uninor,Maharashtra,10
+9176,Vodafone,Chennai,10
+9177,Airtel,Andhra Pradesh,10
+9178,Airtel,Odisha,10
+9179,Airtel,MP & Chhatisgarh,10
+9180,BSNL,Andhra Pradesh,10
+9181,BSNL,Assam,10
+9182,BSNL,Bihar & Jharkhand,10
+9183,BSNL,Chennai,10
+9184,BSNL,Gujarat,10
+9185,BSNL,Himachal Pradesh,10
+9186,BSNL,Jammu & Kashmir,10
+9187,BSNL,Karnataka,10
+9188,BSNL,Kerala,10
+9189,BSNL,Kolkata,10
+9190,BSNL,MP & Chhatisgarh,10
+9191,BSNL,North East,10
+9192,BSNL,Odisha,10
+9193,BSNL,Punjab,10
+9193,Jio,Uttar Pradesh (West),10
+9194,BSNL,Rajasthan,10
+9195,BSNL,Tamil Nadu,10
+9196,BSNL,Uttar Pradesh (East),10
+9197,BSNL,West Bengal,10
+9198,Airtel,Uttar Pradesh (East),10
+9199,Airtel,Uttar Pradesh (East),10
+9199,Bharti Airtel,Bihar,10
+9200,Tata Indicom,MP & Chhatisgarh,10
+9201,Tata Indicom,MP & Chhatisgarh,10
+9202,Tata Indicom,MP & Chhatisgarh,10
+9203,Tata Indicom,MP & Chhatisgarh,10
+9204,Tata Indicom,Bihar & Jharkhand,10
+9205,Bharti Airtel,New Delhi,10
+9206,Aircel,Karnataka,10
+9206,Aircel,Karnataka,10
+9207,Idea,Kerala,10
+9208,Tata Indicom,Uttar Pradesh (East),10
+9209,Tata Indicom,Maharashtra,10
+9210,Tata Indicom,Delhi,10
+9211,Tata Indicom,Delhi,10
+9212,Tata Indicom,Delhi,10
+9213,Tata Indicom,Delhi,10
+9214,Tata Indicom,Rajasthan,10
+9215,Tata Indicom,Haryana,10
+9216,Tata Indicom,Punjab,10
+9217,Tata Indicom,Punjab,10
+9218,Tata Indicom,Himachal Pradesh,10
+9219,Tata Indicom,UP (W) & Uttarakhand,10
+9220,Tata Indicom,Mumbai,10
+9221,Tata Indicom,Mumbai,10
+9222,Tata Indicom,Mumbai,10
+9223,Tata Indicom,Mumbai,10
+9224,Tata Indicom,Mumbai,10
+9225,Tata Indicom,Maharashtra,10
+9226,Tata Indicom,Maharashtra,10
+9227,Tata Indicom,Gujarat,10
+9228,Tata Indicom,Gujarat,10
+9229,Tata Indicom,MP & Chhatisgarh,10
+9230,Tata Indicom,Kolkata,10
+9231,Tata Indicom,Kolkata,10
+9232,Tata Indicom,West Bengal,10
+9233,Tata Indicom,West Bengal,10
+9234,Tata Indicom,Bihar & Jharkhand,10
+9235,Tata Indicom,Uttar Pradesh (East),10
+9236,Tata Indicom,Uttar Pradesh (East),10
+9237,Tata Indicom,Odisha,10
+9238,Tata Indicom,Odisha,10
+9239,Tata Indicom,Kolkata,10
+9240,Tata Indicom,Chennai,10
+9241,Tata Indicom,Karnataka,10
+9242,Tata Indicom,Karnataka,10
+9243,Tata Indicom,Karnataka,10
+9244,Tata Indicom,Tamil Nadu,10
+9245,Tata Indicom,Tamil Nadu,10
+9246,Tata Indicom,Andhra Pradesh,10
+9247,Tata Indicom,Andhra Pradesh,10
+9248,Tata Indicom,Andhra Pradesh,10
+9249,Tata Indicom,Kerala,10
+9250,Tata Indicom,Delhi,10
+9251,Tata Indicom,Rajasthan,10
+9252,Tata Indicom,Rajasthan,10
+9253,Tata Indicom,Haryana,10
+9254,Tata Indicom,Haryana,10
+9255,Tata Indicom,Haryana,10
+9256,Tata Indicom,Punjab,10
+9257,Tata Indicom,Punjab,10
+9258,Tata Indicom,UP (W) & Uttarakhand,10
+9259,Tata Indicom,UP (W) & Uttarakhand,10
+9260,Tata Indicom,Maharashtra,10
+9261,Tata Indicom,Rajasthan,10
+9262,Tata Indicom,Tamil Nadu,10
+9263,Tata Indicom,Bihar & Jharkhand,10
+9264,Tata Indicom,Tamil Nadu,10
+9264,Tata Indicom,West Bengal,10
+9265,Tata Indicom,Maharashtra,10
+9266,Tata Indicom,Delhi,10
+9267,Tata Indicom,UP (W) & Uttarakhand,10
+9268,Tata Indicom,Delhi,10
+9268,Tata Indicom,Delhi,10
+9269,Tata Indicom,Rajasthan,10
+9270,Tata Indicom,Maharashtra,10
+9271,Tata Indicom,Maharashtra,10
+9272,Tata Indicom,Maharashtra,10
+9273,Tata Indicom,Maharashtra,10
+9274,Tata Indicom,Gujarat,10
+9275,Tata Indicom,Gujarat,10
+9276,Tata Indicom,Gujarat,10
+9277,Tata Indicom,Gujarat,10
+9278,Tata Indicom,Delhi,10
+9279,Tata Indicom,Bihar & Jharkhand,10
+9280,Tata Indicom,Chennai,10
+9281,Tata Indicom,Chennai,10
+9282,Tata Indicom,Chennai,10
+9283,Tata Indicom,Chennai,10
+9284,Tata Indicom,Chennai,10
+9285,Tata Indicom,Chennai,10
+9286,Tata Indicom,UP (W) & Uttarakhand,10
+9287,Tata Indicom,Kerala,10
+9288,Tata Indicom,Kerala,10
+9289,Tata Indicom,Delhi,10
+9290,Tata Indicom,Andhra Pradesh,10
+9291,Tata Indicom,Andhra Pradesh,10
+9292,Tata Indicom,Andhra Pradesh,10
+9293,Tata Indicom,Andhra Pradesh,10
+9294,Tata Indicom,Andhra Pradesh,10
+9295,Tata Indicom,Andhra Pradesh,10
+9296,Tata Indicom,Andhra Pradesh,10
+9297,Tata Indicom,Andhra Pradesh,10
+9298,Tata Indicom,Andhra Pradesh,10
+9299,Tata Indicom,Andhra Pradesh,10
+9300,Reliance,MP & Chhatisgarh,10
+9301,Reliance,MP & Chhatisgarh,10
+9302,Reliance,MP & Chhatisgarh,10
+9303,Reliance,MP & Chhatisgarh,10
+9304,Reliance,Bihar & Jharkhand,10
+9305,Reliance,Uttar Pradesh (East),10
+9306,Reliance,Jammu & Kashmir,10
+9307,Reliance,Uttar Pradesh (East),10
+9308,Reliance,Bihar & Jharkhand,10
+9309,Reliance,Rajasthan,10
+9310,Reliance,Delhi,10
+9311,Reliance,Delhi,10
+9312,Reliance,Delhi,10
+9313,Reliance,Delhi,10
+9314,Reliance,Rajasthan,10
+9315,Reliance,Haryana,10
+9316,Reliance,Punjab,10
+9317,Reliance,Punjab,10
+9318,Reliance,Himachal Pradesh,10
+9319,Reliance,UP (W) & Uttarakhand,10
+9320,Reliance,Mumbai,10
+9321,Reliance,Mumbai,10
+9322,Reliance,Mumbai,10
+9323,Reliance,Mumbai,10
+9324,Reliance,Mumbai,10
+9325,Reliance,Maharashtra,10
+9326,Reliance,Maharashtra,10
+9327,Reliance,Gujarat,10
+9328,Reliance,Gujarat,10
+9329,Reliance,MP & Chhatisgarh,10
+9330,Reliance,Kolkata,10
+9331,Reliance,Kolkata,10
+9332,Reliance,West Bengal,10
+9333,Reliance,West Bengal,10
+9334,Reliance,Bihar & Jharkhand,10
+9335,Reliance,Uttar Pradesh (East),10
+9336,Reliance,Uttar Pradesh (East),10
+9337,Reliance,Odisha,10
+9338,Reliance,Odisha,10
+9339,Reliance,Kolkata,10
+9340,Reliance,Chennai,10
+9341,Reliance,Karnataka,10
+9342,Reliance,Karnataka,10
+9343,Reliance,Karnataka,10
+9344,Reliance,Tamil Nadu,10
+9345,Reliance,Tamil Nadu,10
+9346,Reliance,Andhra Pradesh,10
+9347,Reliance,Andhra Pradesh,10
+9348,Reliance,Andhra Pradesh,10
+9349,Reliance,Kerala,10
+9350,Reliance,Delhi,10
+9351,Reliance,Rajasthan,10
+9352,Reliance,Rajasthan,10
+9353,Reliance,Haryana,10
+9354,Reliance,Haryana,10
+9355,Reliance,Haryana,10
+9356,Reliance,Punjab,10
+9357,Reliance,Punjab,10
+9358,Reliance,UP (W) & Uttarakhand,10
+9359,Reliance,UP (W) & Uttarakhand,10
+9360,Reliance,Tamil Nadu,10
+9361,Reliance,Tamil Nadu,10
+9362,Reliance,Tamil Nadu,10
+9363,Reliance,Tamil Nadu,10
+9364,Reliance,Tamil Nadu,10
+9365,Reliance,Tamil Nadu,10
+9366,Reliance,Tamil Nadu,10
+9367,Reliance,Tamil Nadu,10
+9368,Reliance,UP (W) & Uttarakhand,10
+9369,Reliance,Uttar Pradesh (East),10
+9370,Reliance,Maharashtra,10
+9371,Reliance,Maharashtra,10
+9372,Reliance,Maharashtra,10
+9373,Reliance,Maharashtra,10
+9374,Reliance,Gujarat,10
+9375,Reliance,Gujarat,10
+9376,Reliance,Gujarat,10
+9377,Reliance,Gujarat,10
+9378,Reliance,West Bengal,10
+9379,Reliance,Karnataka,10
+9380,Reliance,Chennai,10
+9381,Reliance,Chennai,10
+9382,Reliance,Chennai,10
+9383,Reliance,Chennai,10
+9384,Reliance,Chennai,10
+9385,Reliance,Chennai,10
+9386,Reliance,Bihar & Jharkhand,10
+9387,Reliance,Kerala,10
+9388,Reliance,Kerala,10
+9389,Reliance,Uttar Pradesh (East),10
+9390,Reliance,Andhra Pradesh,10
+9391,Reliance,Andhra Pradesh,10
+9392,Reliance,Andhra Pradesh,10
+9393,Reliance,Andhra Pradesh,10
+9394,Reliance,Andhra Pradesh,10
+9395,Reliance,Andhra Pradesh,10
+9396,Reliance,Andhra Pradesh,10
+9397,Reliance,Andhra Pradesh,10
+9398,Reliance,Andhra Pradesh,10
+9399,Reliance,Andhra Pradesh,10
+9400,BSNL,Kerala,10
+9401,BSNL,Assam,10
+9402,BSNL,North East,10
+9403,BSNL,Maharashtra,10
+9404,BSNL,Maharashtra,10
+9405,BSNL,Maharashtra,10
+9406,BSNL,MP & Chhatisgarh,10
+9407,BSNL,MP & Chhatisgarh,10
+9408,BSNL,Gujarat,10
+9409,BSNL,Gujarat,10
+9410,BSNL,UP (W) & Uttarakhand,10
+9411,BSNL,UP (W) & Uttarakhand,10
+9412,BSNL,UP (W) & Uttarakhand,10
+9413,BSNL,Rajasthan,10
+9414,BSNL,Rajasthan,10
+9415,BSNL,Uttar Pradesh (East),10
+9416,BSNL,Haryana,10
+9417,BSNL,Punjab,10
+9418,BSNL,Himachal Pradesh,10
+9419,BSNL,Jammu & Kashmir,10
+9420,BSNL,Maharashtra,10
+9421,BSNL,Maharashtra,10
+9422,BSNL,Maharashtra,10
+9423,BSNL,Maharashtra,10
+9424,BSNL,MP & Chhatisgarh,10
+9425,BSNL,MP & Chhatisgarh,10
+9426,BSNL,Gujarat,10
+9427,BSNL,Gujarat,10
+9428,BSNL,Gujarat,10
+9429,BSNL,Gujarat,10
+9430,BSNL,Bihar & Jharkhand,10
+9431,BSNL,Bihar & Jharkhand,10
+9432,BSNL,Kolkata,10
+9433,BSNL,Kolkata,10
+9434,BSNL,West Bengal,10
+9435,BSNL,Assam,10
+9436,BSNL,North East,10
+9437,BSNL,Odisha,10
+9438,BSNL,Odisha,10
+9439,BSNL,Odisha,10
+9440,BSNL,Andhra Pradesh,10
+9441,BSNL,Andhra Pradesh,10
+9442,BSNL,Tamil Nadu,10
+9443,BSNL,Tamil Nadu,10
+9444,BSNL,Chennai,10
+9445,BSNL,Chennai,10
+9446,BSNL,Kerala,10
+9447,BSNL,Kerala,10
+9448,BSNL,Karnataka,10
+9449,BSNL,Karnataka,10
+9450,BSNL,Uttar Pradesh (East),10
+9451,BSNL,Uttar Pradesh (East),10
+9452,BSNL,Uttar Pradesh (East),10
+9453,BSNL,Uttar Pradesh (East),10
+9454,BSNL,Uttar Pradesh (East),10
+9455,BSNL,Uttar Pradesh (East),10
+9456,BSNL,UP (W) & Uttarakhand,10
+9457,BSNL,UP (W) & Uttarakhand,10
+9458,BSNL,UP(W) & Uttarakhand,10
+9459,BSNL,Himachal Pradesh,10
+9460,BSNL,Rajasthan,10
+9461,BSNL,Rajasthan,10
+9462,BSNL,Rajasthan,10
+9463,BSNL,Punjab,10
+9464,BSNL,Punjab,10
+9465,BSNL,Punjab,10
+9466,BSNL,Haryana,10
+9467,BSNL,Haryana,10
+9468,BSNL,Haryana,10
+9468,BSNL,Rajasthan,10
+9468,BSNL,Haryana,10
+9468,BSNL,Rajasthan,10
+9468,BSNL,Rajasthan,10
+9469,BSNL,Jammu & Kashmir,10
+9470,BSNL,Bihar & Jharkhand,10
+9471,BSNL,Bihar & Jharkhand,10
+9472,BSNL,Bihar & Jharkhand,10
+9473,BSNL,Bihar & Jharkhand,10
+9473,BSNL,Uttar Pradesh (East),10
+9473,BSNL,Uttar Pradesh(East),10
+9474,BSNL,West Bengal,10
+9475,BSNL,West Bengal,10
+9476,BSNL,West Bengal,10
+9476,BSNL,Assam,10
+9477,BSNL,Kolkata,10
+9478,BSNL,Punjab,10
+9478,BSNL,Punjab,10
+9479,BSNL,MP & Chhatisgarh,10
+9479,BSNL,Madhya Pradesh,10
+9480,BSNL,Karnataka,10
+9481,BSNL,Karnataka,10
+9482,BSNL,Karnataka,10
+9483,BSNL,Karnataka,10
+9484,BSNL,Karnataka,10
+9484,BSNL,Jammu and Kashmir,10
+9485,BSNL,Karnataka,10
+9485,BSNL,North-East,10
+9485,BSNL,North-East,10
+9486,BSNL,Tamil Nadu,10
+9487,BSNL,Tamil Nadu,10
+9488,BSNL,Tamil Nadu,10
+9489,BSNL,Tamil Nadu,10
+9490,BSNL,Andhra Pradesh,10
+9491,BSNL,Andhra Pradesh,10
+9492,BSNL,Andhra Pradesh,10
+9493,BSNL,Andhra Pradesh,10
+9494,BSNL,Andhra Pradesh,10
+9495,BSNL,Kerala,10
+9496,BSNL,Kerala,10
+9497,BSNL,Kerala,10
+9498,BSNL,Chennai,10
+9499,BSNL,Chennai,10
+9500,Airtel,Tamil Nadu,10
+9501,Airtel,Punjab,10
+9502,Airtel,Andhra Pradesh,10
+9503,Airtel,Maharashtra,10
+9504,Aircel,Bihar & Jharkhand,10
+9505,Idea,Andhra Pradesh,10
+9506,Idea,Uttar Pradesh (East),10
+9507,Idea,Bihar & Jharkhand,10
+9508,Reliance,Assam,10
+9509,Reliance,Rajasthan,10
+9510,Reliance,Gujarat,10
+9511,Etisalat,Maharashtra,10
+9511,Bharti Airtel,Uttar Pradesh (East),10
+9511,Jio,Rajasthan,10
+9512,Etisalat,Gujarat,10
+9512,Vodafone,Gujarat,10
+9513,Etisalat,Karnataka,10
+9514,Etisalat,Tamil Nadu,10
+9515,Idea,Andhra Pradesh,10
+9516,Idea,Madhya Pradesh,10
+9517,Etisalat,Punjab,10
+9517,Videocon Telecom,Punjab,10
+9517,Vodafone,Punjab,10
+9518,Etisalat,Haryana,10
+9518,Jio,Haryana,10
+9519,Etisalat,Uttar Pradesh (East),10
+9520,Etisalat,UP (W) & Uttarakhand,10
+9520,Uninor,Uttar Pradesh(West),10
+9520,Bharti Airtel,Uttar Pradesh (East),10
+9521,Etisalat,Rajasthan,10
+9521,Bharti Airtel,Rajasthan,10
+9522,Etisalat,MP & Chhatisgarh,10
+9523,Bharti Airtel,Bihar,10
+9524,Aircel,Tamil Nadu,10
+9525,Idea,Bihar & Jharkhand,10
+9526,Idea,Kerala,10
+9527,Idea,Maharashtra,10
+9528,Reliance,UP (W) & Uttarakhand,10
+9529,Reliance,Rajasthan,10
+9530,BSNL,Punjab,10
+9530,BSNL,Rajasthan,10
+9530,BSNL,Punjab,10
+9530,BSNL,Rajasthan,10
+9531,BSNL,Assam,10
+9531,BSNL,West Bengal,10
+9531,BSNL,West Bengal,10
+9532,BSNL,Uttar Pradesh (East),10
+9533,Reliance,Andhra Pradesh,10
+9534,Vodafone,Bihar & Jharkhand,10
+9535,Airtel,Karnataka,10
+9536,Vodafone,UP (W) & Uttarakhand,10
+9537,Vodafone,Gujarat,10
+9538,Vodafone,Karnataka,10
+9539,Vodafone,Kerala,10
+9540,Idea,Delhi,10
+9541,Reliance,Haryana,10
+9542,Idea,Andhra Pradesh,10
+9543,Reliance,Tamil Nadu,10
+9544,Idea,Kerala,10
+9545,Vodafone,Maharashtra,10
+9546,Airtel,Bihar & Jharkhand,10
+9547,Airtel,West Bengal,10
+9548,Reliance,UP (W) & Uttarakhand,10
+9549,Vodafone,Rajasthan,10
+9550,Airtel,Andhra Pradesh,10
+9551,Aircel,Chennai,10
+9552,Idea,Maharashtra,10
+9553,Idea,Andhra Pradesh,10
+9554,Vodafone,Uttar Pradesh (East),10
+9555,Reliance,Delhi,10
+9556,Airtel,ORISSA,10
+9557,Airtel,UP (W) & Uttarakhand,10
+9558,Airtel,Gujarat,10
+9559,Airtel,Uttar Pradesh (East),10
+9560,Airtel,Delhi,10
+9561,Airtel,Maharashtra,10
+9562,Idea,Kerala,10
+9563,Aircel,West Bengal,10
+9564,Vodafone,West Bengal,10
+9565,Vodafone,Uttar Pradesh (East),10
+9566,Airtel,Tamil Nadu,10
+9567,Airtel,Kerala,10
+9568,Idea,UP (W) & Uttarakhand,10
+9569,Reliance,Punjab,10
+9570,Vodafone,Bihar & Jharkhand,10
+9571,Airtel,Rajasthan,10
+9572,Airtel,Bihar & Jharkhand,10
+9573,Airtel,Andhra Pradesh,10
+9574,Idea,Gujarat,10
+9575,Idea,MP & Chhatisgarh,10
+9576,Idea,Bihar & Jharkhand,10
+9577,Aircel,Assam,10
+9578,Aircel,Tamil Nadu,10
+9579,Reliance,Maharashtra,10
+9580,Reliance,Uttar Pradesh (East),10
+9581,Vodafone,Andhra Pradesh,10
+9582,Vodafone,Delhi,10
+9583,Vodafone,Odisha,10
+9584,Vodafone,MP & Chhatisgarh,10
+9585,Vodafone,Tamil Nadu,10
+9586,Vodafone,Gujarat,10
+9587,Vodafone,Rajasthan,10
+9588,Etisalat,Mumbai,10
+9588,Jio,Haryana,10
+9588,Jio,Rajasthan,10
+9589,Airtel,MP & Chhatisgarh,10
+9590,Reliance,Karnataka,10
+9591,Airtel,Karnataka,10
+9592,Idea,Punjab,10
+9593,Vodafone,Kolkata,10
+9594,Idea,Mumbai,10
+9595,Reliance,Maharashtra,10
+9596,Airtel,Jammu & Kashmir,10
+9597,Airtel,Tamil Nadu,10
+9598,Idea,Uttar Pradesh (East),10
+9599,Etisalat,Delhi,10
+9599,Bharti Airtel,Delhi,10
+9600,Airtel,Tamil Nadu,10
+9601,Airtel,Gujarat,10
+9602,Airtel,Rajasthan,10
+9603,Idea,Andhra Pradesh,10
+9604,Idea,Maharashtra,10
+9605,Idea,Kerala,10
+9606,Reliance,North East,10
+9607,Reliance,Assam,10
+9608,Reliance,Bihar & Jharkhand,10
+9609,Vodafone,West Bengal,10
+9610,Vodafone,Rajasthan,10
+9611,Airtel,Karnataka,10
+9612,Airtel,North East,10
+9613,Aircel,Assam,10
+9614,Aircel,West Bengal,10
+9615,Aircel,North East,10
+9616,Idea,Uttar Pradesh (East),10
+9617,Idea,MP & Chhatisgarh,10
+9618,Airtel,Andhra Pradesh,10
+9619,Vodafone,Mumbai,10
+9620,Vodafone,Karnataka,10
+9621,Airtel,Uttar Pradesh (East),10
+9621,Bharti Airtel,Tamil Nadu,10
+9622,Airtel,Jammu & Kashmir,10
+9623,Idea,Maharashtra,10
+9624,Idea,Gujarat,10
+9625,Reliance,Himachal Pradesh,10
+9626,Vodafone,Tamil Nadu,10
+9627,Vodafone,UP (W) & Uttarakhand,10
+9628,Vodafone,Uttar Pradesh (East),10
+9629,Airtel,Tamil Nadu,10
+9630,Airtel,MP & Chhatisgarh,10
+9631,Airtel,Bihar & Jharkhand,10
+9632,Airtel,Karnataka,10
+9633,Airtel,Kerala,10
+9634,Airtel,UP (W) & Uttarakhand,10
+9635,Airtel,West Bengal,10
+9636,Airtel,Rajasthan,10
+9637,Vodafone,Maharashtra,10
+9638,Vodafone,Gujarat,10
+9639,Idea,UP (W) & Uttarakhand,10
+9640,Idea,Andhra Pradesh,10
+9641,Reliance,West Bengal,10
+9642,Vodafone,Andhra Pradesh,10
+9643,Vodafone,Delhi,10
+9644,Idea,Madhya Pradesh,10
+9645,Vodafone,Kerala,10
+9646,Vodafone,Punjab,10
+9647,Vodafone,West Bengal,10
+9648,Vodafone,Uttar Pradesh (East),10
+9649,Vodafone,Rajasthan,10
+9650,Airtel,Delhi,10
+9651,Airtel,Uttar Pradesh (East),10
+9652,Airtel,Andhra Pradesh,10
+9653,Ping Mobile,Punjab,10
+9654,Vodafone,Delhi,10
+9655,Vodafone,Tamil Nadu,10
+9656,Idea,Kerala,10
+9657,Idea,Maharashtra,10
+9658,Aircel,Odisha,10
+9659,Aircel,Tamil Nadu,10
+9660,Airtel,Rajasthan,10
+9661,Airtel,Bihar & Jharkhand,10
+9662,Airtel,Gujarat,10
+9663,Airtel,Karnataka,10
+9664,Loop Mobile,Mumbai,10
+9664,Jio,Rajasthan,10
+9664,Jio,Gujarat,10
+9665,Airtel,Mumbai,10
+9666,Idea,Andhra Pradesh,10
+9667,MTS,Rajasthan,10
+9668,Airtel,Odisha,10
+9669,Idea,MP & Chhatisgarh,10
+9670,Vodafone,Uttar Pradesh (East),10
+9671,Vodafone,Haryana,10
+9672,Vodafone,Rajasthan,10
+9673,Vodafone,Maharashtra,10
+9674,Vodafone,Kolkata,10
+9675,Vodafone,UP (W) & Uttarakhand,10
+9676,Airtel,Andhra Pradesh,10
+9677,Airtel,Tamil Nadu,10
+9678,Airtel,Assam,10
+9679,Airtel,West Bengal,10
+9680,Airtel,Rajasthan,10
+9681,Reliance,Kolkata,10
+9682,BSNL,UP (W) & Uttarakhand,10
+9682,Jio,Jammu & Kashmir,10
+9682,Idea,Uttar Pradesh (East),10
+9683,BSNL,Haryana,10
+9684,BSNL,Maharashtra,10
+9685,Airtel,MP & Chhatisgarh,10
+9686,Airtel,Karnataka,10
+9687,Vodafone,Gujarat,10
+9688,Aircel,Tamil Nadu,10
+9689,Idea,Maharashtra,10
+9690,Idea,UP (W) & Uttarakhand,10
+9691,Reliance,MP & Chhatisgarh,10
+9692,Reliance,ORISSA,10
+9693,Reliance,Bihar & Jharkhand,10
+9694,Idea,Rajasthan,10
+9695,Airtel,Uttar Pradesh (East),10
+9696,Reliance,Uttar Pradesh (East),10
+9697,Aircel,Jammu & Kashmir,10
+9698,Aircel,Tamil Nadu,10
+9699,Reliance,Mumbai,10
+9700,Aircel,Andhra Pradesh,10
+9701,Airtel,Andhra Pradesh,10
+9702,Idea,Mumbai,10
+9703,Vodafone,Andhra Pradesh,10
+9704,Airtel,Andhra Pradesh,10
+9705,Idea,Andhra Pradesh,10
+9706,Vodafone,Assam,10
+9707,Reliance,Assam,10
+9708,Idea,Bihar & Jharkhand,10
+9709,Vodafone,Bihar & Jharkhand,10
+9710,Aircel,Chennai,10
+9711,Vodafone,Delhi,10
+9712,Vodafone,Gujarat,10
+9713,Vodafone,MP & Chhatisgarh,10
+9714,Idea,Gujarat,10
+9715,Aircel,Tamil Nadu,10
+9716,Aircel,Delhi,10
+9717,Airtel,Delhi,10
+9718,Idea,Delhi,10
+9719,Vodafone,UP (W) & Uttarakhand,10
+9720,Vodafone,UP (W) & Uttarakhand,10
+9721,Vodafone,Uttar Pradesh (East),10
+9722,Aircel,Gujarat,10
+9723,Idea,Gujarat,10
+9724,Airtel,Gujarat,10
+9725,Airtel,Gujarat,10
+9726,Vodafone,Gujarat,10
+9727,Vodafone,Gujarat,10
+9728,Idea,Haryana,10
+9729,Airtel,Haryana,10
+9730,Airtel,Maharashtra,10
+9731,Airtel,Karnataka,10
+9732,Vodafone,West Bengal,10
+9733,Vodafone,West Bengal,10
+9734,Vodafone,West Bengal,10
+9735,Vodafone,West Bengal,10
+9736,Vodafone,Himachal Pradesh,10
+9737,Idea,Gujarat,10
+9738,Aircel,Karnataka,10
+9739,Vodafone,Karnataka,10
+9740,Airtel,Karnataka,10
+9741,Airtel,Karnataka,10
+9742,Vodafone,Karnataka,10
+9743,Idea,Karnataka,10
+9743,Spice,Karnataka,10
+9744,Idea,Kerala,10
+9745,Vodafone,Kerala,10
+9746,Airtel,Kerala,10
+9747,Idea,Kerala,10
+9748,Airtel,Kolkata,10
+9749,Reliance,West Bengal,10
+9750,Aircel,Tamil Nadu,10
+9751,Vodafone,Tamil Nadu,10
+9752,Airtel,MP & Chhatisgarh,10
+9753,Idea,MP & Chhatisgarh,10
+9754,Idea,MP & Chhatisgarh,10
+9755,Airtel,MP & Chhatisgarh,10
+9756,Idea,UP(W) & UTTARAKHAND,10
+9757,MTNL,Mumbai,10
+9758,Vodafone,UP (W) & Uttarakhand,10
+9759,Vodafone,UP (W) & Uttarakhand,10
+9760,Airtel,UP (W) & Uttarakhand,10
+9761,Vodafone,UP (W) & Uttarakhand,10
+9762,Aircel,Maharashtra,10
+9763,Idea,Maharashtra,10
+9764,Vodafone,Maharashtra,10
+9765,Vodafone,Maharashtra,10
+9766,Airtel,Maharashtra,10
+9767,Idea,Maharashtra,10
+9768,Aircel,Mumbai,10
+9769,Vodafone,Mumbai,10
+9770,Reliance,MP & Chhatisgarh,10
+9771,Airtel,Bihar & Jharkhand,10
+9772,Vodafone,Rajasthan,10
+9773,Loop Mobile,Mumbai,10
+9773,Jio,Gujarat,10
+9773,Bharti Airtel,New Delhi,10
+9774,Vodafone,North East,10
+9775,Vodafone,West Bengal,10
+9776,Vodafone,Odisha,10
+9776,Vodafone,Odisha,10
+9777,Airtel,Odisha,10
+9778,Reliance,Odisha,10
+9779,Airtel,Punjab,10
+9780,Vodafone,Punjab,10
+9781,Idea,Punjab,10
+9781,Spice,Karnataka,10
+9781,Idea,Punjab,10
+9782,Aircel,Rajasthan,10
+9783,Vodafone,Rajasthan,10
+9784,Airtel,Rajasthan,10
+9785,Idea,Rajasthan,10
+9786,Vodafone,Tamil Nadu,10
+9787,Vodafone,Tamil Nadu,10
+9788,Aircel,Tamil Nadu,10
+9789,Airtel,Tamil Nadu,10
+9790,Airtel,Tamil Nadu,10
+9791,Airtel,Tamil Nadu,10
+9792,Vodafone,Uttar Pradesh (East),10
+9793,Airtel,Uttar Pradesh (East),10
+9794,Airtel,Uttar Pradesh (East),10
+9795,Idea,Uttar Pradesh (East),10
+9796,Vodafone,Jammu & Kashmir,10
+9797,Airtel,Jammu & Kashmir,10
+9798,Reliance,Bihar & Jharkhand,10
+9799,Airtel,Rajasthan,10
+9800,Airtel,West Bengal,10
+9801,Airtel,Bihar & Jharkhand,10
+9802,Aircel,Haryana,10
+9803,Aircel,Punjab,10
+9804,Aircel,Kolkata,10
+9805,Airtel,Himachal Pradesh,10
+9806,Aircel,MP & Chhatisgarh,10
+9807,Aircel,Uttar Pradesh (East),10
+9808,Aircel,UP (W) & Uttarakhand,10
+9809,Aircel,Kerala,10
+9810,Airtel,Delhi,10
+9811,Vodafone,Delhi,10
+9812,Idea,Haryana,10
+9813,Vodafone,Haryana,10
+9814,Idea,Punjab,10
+9815,Airtel,Punjab,10
+9816,Airtel,Himachal Pradesh,10
+9817,Reliance,Himachal Pradesh,10
+9818,Airtel,Delhi,10
+9819,Vodafone,Mumbai,10
+9820,Vodafone,Mumbai,10
+9821,Loop Mobile,Mumbai,10
+9822,Idea,Maharashtra,10
+9823,Vodafone,Maharashtra,10
+9824,Idea,Gujarat,10
+9825,Vodafone,Gujarat,10
+9826,Idea,MP & Chhatisgarh,10
+9827,Reliance,MP & Chhatisgarh,10
+9828,Vodafone,Rajasthan,10
+9829,Airtel,Rajasthan,10
+9830,Vodafone,Kolkata,10
+9831,Airtel,Kolkata,10
+9832,Reliance,West Bengal,10
+9833,Vodafone,Mumbai,10
+9834,Bharti Airtel,MP & Chhatisgarh,10
+9835,Reliance,Bihar & Jharkhand,10
+9836,Vodafone,Kolkata,10
+9837,Idea,UP (W) & Uttarakhand,10
+9838,Vodafone,Uttar Pradesh (East),10
+9839,Vodafone,Uttar Pradesh (East),10
+9840,Airtel,Chennai,10
+9841,Aircel,Chennai,10
+9842,Aircel,Tamil Nadu,10
+9843,Vodafone,Tamil Nadu,10
+9844,Idea,Karnataka,10
+9844,Spice,Karnataka,10
+9845,Airtel,Karnataka,10
+9846,Vodafone,Kerala,10
+9847,Idea,Kerala,10
+9848,Idea,Andhra Pradesh,10
+9849,Airtel,Andhra Pradesh,10
+9850,Idea,Maharashtra,10
+9851,Aircel,West Bengal,10
+9852,Aircel,Bihar & Jharkhand,10
+9852,Aircel,Haryana,10
+9852,Aircel,Bihar,10
+9853,Aircel,Odisha,10
+9853,Aircel,Odisha,10
+9854,Aircel,Assam,10
+9854,Aircel,Kolkata,10
+9854,Aircel,Assam,10
+9855,Idea,Punjab,10
+9856,Aircel,North East,10
+9856,Idea,Madhya Pradesh,10
+9857,Aircel,Himachal Pradesh,10
+9857,Aircel,Uttar Pradesh (E),10
+9857,Aircel,Himachal Pradesh,10
+9858,Aircel,Jammu & Kashmir,10
+9858,Aircel,Jammu & Kashmir,10
+9859,Aircel,Assam,10
+9859,Aircel,Kerala,10
+9859,Aircel,Assam,10
+9860,Airtel,Maharashtra,10
+9861,Reliance,Odisha,10
+9862,Airtel,North East,10
+9863,Reliance,North East,10
+9864,Reliance,Assam,10
+9865,Aircel,Tamil Nadu,10
+9866,Airtel,Andhra Pradesh,10
+9867,Airtel,Mumbai,10
+9868,MTNL,Delhi,10
+9869,MTNL,Mumbai,10
+9870,Loop Mobile,Mumbai,10
+9870,Jio,Gujarat,10
+9870,Bharti Airtel,New Delhi,10
+9870,Jio,Uttar Pradesh (West),10
+9871,Airtel,Delhi,10
+9872,Airtel,Punjab,10
+9873,Vodafone,Delhi,10
+9874,Vodafone,Kolkata,10
+9875,MTS,Rajasthan,10
+9876,Airtel,Punjab,10
+9877,Jio,Punjab,10
+9878,Airtel,Punjab,10
+9879,Vodafone,Gujarat,10
+9880,Airtel,Karnataka,10
+9881,Idea,Maharashtra,10
+9882,Idea,Himachal Pradesh,10
+9883,Reliance,Kolkata,10
+9884,Vodafone,Chennai,10
+9885,Vodafone,Andhra Pradesh,10
+9886,Vodafone,Karnataka,10
+9887,Idea,Rajasthan,10
+9888,Vodafone,Punjab,10
+9889,Idea,Uttar Pradesh (East),10
+9890,Airtel,Maharashtra,10
+9891,Idea,Delhi,10
+9892,Airtel,Mumbai,10
+9893,Airtel,MP & Chhatisgarh,10
+9894,Airtel,Tamil Nadu,10
+9895,Airtel,Kerala,10
+9896,Airtel,Haryana,10
+9897,Airtel,UP (W) & Uttarakhand,10
+9898,Airtel,Gujarat,10
+9899,Vodafone,Delhi,10
+9900,Airtel,Karnataka,10
+9901,Airtel,Karnataka,10
+9902,Airtel,Karnataka,10
+9903,Airtel,Kolkata,10
+9904,Idea,Gujarat,10
+9905,Reliance,Bihar & Jharkhand,10
+9906,Airtel,Jammu & Kashmir,10
+9907,Reliance,MP & Chhatisgarh,10
+9908,Airtel,Andhra Pradesh,10
+9909,Vodafone,Gujarat,10
+9910,Airtel,Delhi,10
+9911,Idea,Delhi,10
+9912,Idea,Andhra Pradesh,10
+9913,Vodafone,Gujarat,10
+9914,Idea,Punjab,10
+9915,Airtel,Punjab,10
+9916,Vodafone,Karnataka,10
+9917,Idea,UP (W) & Uttarakhand,10
+9918,Vodafone,Uttar Pradesh (East),10
+9919,Vodafone,Uttar Pradesh (East),10
+9920,Vodafone,Mumbai,10
+9921,Idea,Maharashtra,10
+9922,Idea,Maharashtra,10
+9923,Vodafone,Maharashtra,10
+9924,Idea,Gujarat,10
+9925,Vodafone,Gujarat,10
+9926,Idea,MP & Chhatisgarh,10
+9927,Idea,UP (W) & Uttarakhand,10
+9928,Airtel,Rajasthan,10
+9929,Airtel,Rajasthan,10
+9930,Vodafone,Mumbai,10
+9931,Airtel,Bihar & Jharkhand,10
+9932,Airtel,West Bengal,10
+9933,Airtel,West Bengal,10
+9934,Airtel,Bihar & Jharkhand,10
+9935,Airtel,Uttar Pradesh (East),10
+9936,Airtel,Uttar Pradesh (East),10
+9937,Airtel,Odisha,10
+9938,Airtel,Odisha,10
+9939,Airtel,Bihar & Jharkhand,10
+9940,Airtel,Chennai,10
+9941,Aircel,Chennai,10
+9942,Aircel,Tamil Nadu,10
+9943,Vodafone,Tamil Nadu,10
+9944,Airtel,Tamil Nadu,10
+9945,Airtel,Karnataka,10
+9946,Vodafone,Kerala,10
+9947,Idea,Kerala,10
+9948,Idea,Andhra Pradesh,10
+9949,Airtel,Andhra Pradesh,10
+9950,Airtel,Rajasthan,10
+9951,Idea,Andhra Pradesh,10
+9952,Airtel,Tamil Nadu,10
+9953,Vodafone,Delhi,10
+9954,Airtel,Assam,10
+9955,Airtel,Bihar & Jharkhand,10
+9956,Airtel,Uttar Pradesh (East),10
+9957,Airtel,Assam,10
+9958,Airtel,Delhi,10
+9959,Airtel,Andhra Pradesh,10
+9960,Airtel,Maharashtra,10
+9961,Idea,Kerala,10
+9962,Vodafone,Chennai,10
+9963,Airtel,Andhra Pradesh,10
+9964,Idea,Karnataka,10
+9965,Aircel,Tamil Nadu,10
+9966,Vodafone,Andhra Pradesh,10
+9967,Airtel,Mumbai,10
+9968,MTNL,Delhi,10
+9969,MTNL,Mumbai,10
+9970,Airtel,Maharashtra,10
+9971,Airtel,Delhi,10
+9972,Airtel,Karnataka,10
+9973,Airtel,Bihar & Jharkhand,10
+9974,Airtel,Gujarat,10
+9975,Airtel,Maharashtra,10
+9976,Aircel,Tamil Nadu,10
+9977,Idea,MP & Chhatisgarh,10
+9978,Vodafone,Gujarat,10
+9979,Vodafone,Gujarat,10
+9980,Airtel,Karnataka,10
+9981,Airtel,MP & Chhatisgarh,10
+9982,Vodafone,Rajasthan,10
+9983,Vodafone,Rajasthan,10
+9984,Vodafone,Uttar Pradesh (East),10
+9985,Vodafone,Andhra Pradesh,10
+9986,Vodafone,Karnataka,10
+9987,Airtel,Mumbai,10
+9988,Vodafone,Punjab,10
+9989,Airtel,Andhra Pradesh,10
+9990,Idea,Delhi,10
+9991,Vodafone,Haryana,10
+9992,Idea,Haryana,10
+9993,Airtel,MP & Chhatisgarh,10
+9994,Airtel,Tamil Nadu,10
+9995,Airtel,Kerala,10
+9996,Airtel,Haryana,10
+9997,Airtel,UP (W) & Uttarakhand,10
+9998,Airtel,Gujarat,10
+9999,Vodafone,Delhi,10
+9988,Vodafone,Punjab,10
+9989,Airtel,Andhra Pradesh,10
+9990,Idea,Delhi,10
+9991,Vodafone,Haryana,10
+9992,Idea,Haryana,10
+9993,Airtel,MP & Chhatisgarh,10

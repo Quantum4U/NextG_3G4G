@@ -1,0 +1,13 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml
+		INJECTED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/library/AndroidManifest.xml:4:5-20

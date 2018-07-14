@@ -1,0 +1,227 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_version"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetStartWithNavigation="0dp"></android.support.v7.widget.Toolbar>
+
+
+    <LinearLayout
+        android:id="@+id/checkmobnumber"
+        android:layout_width="fill_parent"
+        android:layout_height="62dp"
+        android:background="@color/colororange"
+        android:layout_below="@+id/toolbar"
+        android:orientation="horizontal">
+
+        <app.pnd.fourg.CircleImageView
+            android:id="@+id/iv_your_number"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/version2_simdetail" />
+
+        <TextView
+            android:id="@+id/tv_your_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:singleLine="true"
+            android:text="Tap here to check your Mobile Number"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom"
+        android:layout_below="@+id/checkmobnumber"
+        android:divider="@null"
+        android:dividerHeight="0dp"></ListView>
+
+    <LinearLayout
+        android:id="@+id/adsholder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:id="@+id/adsbanner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"></LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adsholder"
+        android:background="@color/new_sim_detail_banner"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/simDetails"
+            android:textColor="@android:color/white" />
+
+        <RelativeLayout
+            android:id="@+id/inner_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp">
+
+            <LinearLayout
+                android:id="@+id/checkbalance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="4dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_balance"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"></ImageView>
+
+                <TextView
+                    android:id="@+id/tv_balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mainbalance"
+                    android:textColor="@android:color/white"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/checkdata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toLeftOf="@+id/view"
+                android:layout_toRightOf="@+id/checkbalance"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_internet"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"></ImageView>
+
+                <TextView
+                    android:id="@+id/tv_internet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/intAndBal"
+                    android:textColor="@android:color/white"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_centerInParent="true" />
+
+            <LinearLayout
+                android:id="@+id/ckeckbestoffer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toRightOf="@+id/view"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_best_offers"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                   ></ImageView>
+
+                <TextView
+                    android:id="@+id/tv_best_offers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bestOffers"
+                    android:textColor="@android:color/white"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/checkmobnumber1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="4dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="4dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_your_number1"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp">
+
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/tv_your_number1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/mobNumber"
+                    android:textColor="@android:color/white"
+                    android:textSize="10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+#Thu Jun 28 11:31:30 IST 2018
+base.0=/Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/transforms/dex/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/transforms/dex/release/0

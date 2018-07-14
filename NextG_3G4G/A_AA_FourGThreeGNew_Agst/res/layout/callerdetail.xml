@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/bg_version"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetStartWithNavigation="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary"></android.support.v7.widget.Toolbar>
+
+
+    <LinearLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/mobileNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mobile No:"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/country"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COUNTRY:INDIA"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/network"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Network: Unknown"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location: Delhi"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/nativeads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:orientation="vertical"></LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "488179126825",
+    "firebase_url": "https://g-to-4g-switch.firebaseio.com",
+    "project_id": "g-to-4g-switch",
+    "storage_bucket": "g-to-4g-switch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488179126825:android:285d9bfac6007e8b",
+        "android_client_info": {
+          "package_name": "com.appnextg.fourg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488179126825-abp89b01jt6s9f3a74tei295vn2gn9uo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "488179126825-abp89b01jt6s9f3a74tei295vn2gn9uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGOADpY6GNDF7dxpX0S37-f0jZKfhyCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

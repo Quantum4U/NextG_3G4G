@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/deep_white"
+    android:orientation="vertical"
+    android:weightSum="7" >
+     
+     <RelativeLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content" >
+
+         <Button
+             android:id="@+id/buttonFloat"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentRight="true"
+             android:layout_marginBottom="90dp"
+             android:background="@color/v7_orange1"
+              />
+
+         <LinearLayout
+             android:id="@+id/adsbanner"
+             android:layout_width="fill_parent"
+             android:layout_height="0dp"
+             android:layout_alignParentBottom="true"
+             android:gravity="center"
+             android:orientation="vertical" >
+         </LinearLayout>
+
+         
+
+         <LinearLayout
+             android:id="@+id/linearLayout1"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:gravity="center"
+             android:layout_centerInParent="true"
+             android:orientation="vertical" >
+
+             <ImageView
+                 android:id="@+id/image"
+                 android:layout_width="150dp"
+                 android:layout_height="150dp"
+               
+                 android:background="@drawable/version_3g" />
+
+            <LinearLayout
+             android:id="@+id/click"
+             android:layout_marginTop="25dp"
+             android:layout_width="150dp"
+             android:layout_height="40dp"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentRight="true"
+             android:layout_marginBottom="60dp"
+             android:background="@color/v7_orange1"
+             android:layout_gravity="center"
+             android:gravity="center"
+             
+              >
+
+                <TextView
+                    android:id="@+id/click_text"
+                    android:gravity="center"
+                    
+                    android:layout_centerInParent="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:textSize="19dp"
+                  android:textColor="@color/deep_white"
+                    android:text="@string/pindi_converto4g" />
+
+            </LinearLayout>
+
+         </LinearLayout>
+     </RelativeLayout>
+
+</LinearLayout>

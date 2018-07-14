@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/quantum4u1/Documents/z_workspace/NextG_3G4G/NextG_3G4G/A_AA_FourGThreeGNew_Agst/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "73",
+                        "endOffsets": "86"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                },
+                {
+                    "source": "/Users/quantum4u1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/3ed0545cde3c9ad785b91cab8cfc51f3/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2940,3189,3290,3542,3797,3900,4153,4561,4981,5403,5510,5639,5710,5793,9818,13986",
+                        "endLines": "7,13,19,25,31,37,38,42,46,47,51,55,56,60,65,70,75,77,79,80,81,135,190,191",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2935,3184,3285,3537,3792,3895,4148,4556,4976,5398,5505,5634,5705,5788,9813,13981,14072"
+                    },
+                    "to": {
+                        "startLines": "3,9,15,21,27,33,39,40,44,48,49,53,57,58,62,67,72,77,79,81,82,83,137,192",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "122,541,966,1394,1820,2247,2672,2761,3007,3256,3357,3609,3864,3967,4220,4628,5048,5470,5577,5706,5777,5860,9885,14053",
+                        "endLines": "8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191,192",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "536,961,1389,1815,2242,2667,2756,3002,3251,3352,3604,3859,3962,4215,4623,5043,5465,5572,5701,5772,5855,9880,14048,14139"
+                    }
+                }
+            ]
+        }
+    ]
+}

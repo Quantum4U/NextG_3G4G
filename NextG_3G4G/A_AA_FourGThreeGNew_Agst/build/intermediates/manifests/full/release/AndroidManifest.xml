@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.appnextg.fourg"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- StartApp required permissions integration -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.ACCESS_WIFI_STATE"
+        android:maxSdkVersion="22" > <!-- Calldorado XML analyzer inserted the attribute android:maxSdkVersion="22" in order to make the code compatible with the Google Play store -->
+    </uses-permission>
+    <!-- End of StartApp permissions integration -->
+
+
+    <!-- StartApp optional permissions integration -->
+    <!-- Note: StartApp SDK doesn't request location updates proactively but only uses the last known location. -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.appnextg.fourg.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.appnextg.fourg.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/version_ic_icon"
+        android:label="@string/pindi_app_name"
+        android:theme="@style/AppTheme3G" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="app.pnd.fourg.SplashActivityV3"
+            android:label="@string/pindi_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="app.pnd.fourg.SettingActivity" />
+        <activity
+            android:name="app.pnd.fourg.AppLauncher"
+            android:label="@string/pindi_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name="app.pnd.fourg.HistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="app.pnd.fourg.MainActivity"
+            android:icon="@drawable/version_ic_icon"
+            android:label="@string/pindi_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name="version.ux.MajorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
+        <activity
+            android:name="app.circular.CircularActivity"
+            android:label="@string/pindi_app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- Activity required to show ad overlays. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="app.adshandler.FullPagePromo"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.Transparent" />
+
+        <!--
+        <receiver android:name=".Bootreciver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+        -->
+
+        <service android:name="app.pnd.fourg.MyFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="app.pnd.fourg.MyFirebaseInstanceIDService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="app.pnd.fourg.history.InAppPrompt"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="callerinfo.PhonecallReceiver" >
+            <intent-filter android:priority="100" >
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+            </intent-filter>
+        </receiver>
+
+        <!-- <receiver android:name="callerinfo.CallBroadCast"> -->
+        <!-- <intent-filter > -->
+        <!-- <action android:name="android.intent.action.PHONE_STATE" /> -->
+        <!-- <action android:name="android.intent.action.NEW_OUTGOING_CALL" /> -->
+        <!-- </intent-filter> -->
+
+
+        <!-- </receiver> -->
+
+        <activity
+            android:name="callerinfo.CallInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent1" />
+        <activity
+            android:name="version_2.MainActivity_V2"
+            android:icon="@drawable/version_ic_icon"
+            android:label="@string/pindi_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme3G" />
+        <activity
+            android:name="version_2.SpeedCheckActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.SIMDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.PhoneDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.CallerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.FourGActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.CalerDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.UpgradeActivity"
+            android:screenOrientation="portrait" />
+
+        <!--
+                    <meta-data
+                    android:name="com.calldorado.AccountId"
+                    android:value="a1-d56c353b-a809-4e34-ad8b-23d63ded5efa" />
+                <meta-data
+                    android:name="com.calldorado.AppId"
+                    android:value="b0-8e7a5fb0-d12d-475a-aacb-85ab2b44a198" />
+        -->
+
+
+        <!-- <receiver -->
+        <!-- android:name="app.callrado.CustomViewReceiver" -->
+        <!-- android:enabled="true"> -->
+        <!-- <intent-filter android:priority="101"> -->
+        <!-- <action android:name="com.calldorado.android.intent.SEARCH" /> -->
+        <!-- <action android:name="android.intent.action.PHONE_STATE" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+
+
+        <!-- new engine -->
+
+        <activity
+            android:name="app.ui.ANG_AboutActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- inmobi entries -->
+
+        <activity
+            android:name="com.inmobi.rendering.InMobiAdActivity"
+            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:resizeableActivity="false"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+        <service
+            android:name="com.inmobi.signals.activityrecognition.ActivityRecognitionManager"
+            android:enabled="true" />
+
+        <!-- Smaato entries -->
+        <activity
+            android:name="com.smaato.soma.interstitial.InterstitialActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:resizeableActivity="false" />
+        <activity
+            android:name="com.smaato.soma.video.VASTAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:resizeableActivity="false" />
+        <activity
+            android:name="com.smaato.soma.ExpandedBannerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:resizeableActivity="false" />
+        <activity
+            android:name="app.ui.ANG_PrintActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="app.fcm.NotificationActionReceiver" >
+            <intent-filter>
+                <action android:name="sec_btn" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="version_2.MapperActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="appnext4gswitch.MY_CUSTOM_ACTION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.appnextg.fourg" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.fcm.NotificationTypeFour"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.Transparent" />
+
+        <receiver
+            android:name="app.fcm.InstallReferrerReceiver"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="app.adshandler.PromotionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar.Transparent" />
+        <activity
+            android:name="app.inapp.BillingListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="app.inapp.BillingDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="version_2.MoreActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.appnextg.fourg" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.appnextg.fourg.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.2" />
+
+        <activity
+            android:name="com.startapp.android.publish.ads.list3d.List3DActivity"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.startapp.android.publish.adsCommon.activities.OverlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme" />
+
+        <service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
+        <service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
+        <service
+            android:name="com.startapp.android.publish.common.metaData.PeriodicJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver android:name="com.startapp.android.publish.common.metaData.BootCompleteListener" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

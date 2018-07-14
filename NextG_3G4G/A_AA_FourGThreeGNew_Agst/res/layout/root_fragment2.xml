@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/deep_white" >
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true" >
+    </ListView>
+
+    
+     <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        
+        android:layout_alignParentLeft="true"
+       android:layout_below="@id/listView1"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/checkbalance"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+          android:textColor="@color/black"
+                android:textStyle="bold"
+            android:text="@string/pindi_checkmainblance" >
+        </Button>
+
+        <Button
+            android:id="@+id/checkdata"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:text="@string/pindi_checkinternateblc" >
+        </Button>
+
+        <Button
+            android:id="@+id/ckeckbestoffer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+               android:textColor="@color/black"
+                android:textStyle="bold"
+            android:text="@string/pindi_bestoffers" >
+        </Button>
+
+        <Button
+            android:id="@+id/checkmobnumber"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+            android:text="@string/pindi_knowyourmobilenumber" >
+        </Button>
+        
+         <TextView
+         
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+                android:textColor="@color/deep_white"
+            android:text="@string/pindi_ussdare" >
+        </TextView>
+    </LinearLayout>
+ </LinearLayout>
+   
+    </ScrollView>
+
+</RelativeLayout>

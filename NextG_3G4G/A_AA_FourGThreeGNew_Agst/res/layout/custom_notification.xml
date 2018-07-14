@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/version_ic_icon"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/imgViewForNotificationIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_marginRight="2dp"
+            android:src="@drawable/version_ic_icon" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutForNotificationDescription"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dip"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/relativeLayoutForNotificationHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/txtViewForAppName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/pindi_app_name"
+                    android:textColor="@color/red2"
+                    android:textSize="16dip"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtViewForNotificationName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toRightOf="@+id/txtViewForAppName"
+                    android:background="@drawable/version_ic_icon"
+                    android:gravity="center"
+                    android:text="Original"
+                    android:textColor="@color/ornage"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayoutForNotificationDescription"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dip"
+                android:layout_marginTop="2dip" >
+
+                <TextView
+                    android:id="@+id/txtViewForNotificationDescription"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:textColor="@color/green"
+                    android:textSize="12dip"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
